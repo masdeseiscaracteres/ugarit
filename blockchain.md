@@ -5,3 +5,6 @@
 
 ## Independent blockchains
 - Health: https://deepmind.com/blog/trust-confidence-verifiable-data-audit/
+- Digital asset management: https://melonport.com/
+- Supply chain transparency and product traceability: http://arc-net.io/
+
