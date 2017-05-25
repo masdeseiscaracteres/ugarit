@@ -11,5 +11,6 @@
 ## On independent blockchains
 - Health: https://deepmind.com/blog/trust-confidence-verifiable-data-audit/
 - Creation rights/content distribution: http://creativechain.org/
+- FundsDLT: improving investment fund industry efficiency: http://www.fundsdlt.net/ 
 
 
