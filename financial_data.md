@@ -1,7 +1,7 @@
 
 
 - Financial data
-  - Knowledge/Ontologies:
+  - Knowledge graphs/Ontologies:
     - https://permid.org/
     - https://www.openfigi.com/
   - Symbologies:
