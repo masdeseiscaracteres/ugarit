@@ -7,7 +7,8 @@ A collection of primitive private (now made public) archives
 - [Free stock photos](https://www.reddit.com/r/web_design/comments/2v5ts0/ultimate_collection_of_free_stock_photos_websites/)
 - [Free GIFs](giphy.com)
 - [JSON interactive editor](http://jeremydorn.com/json-editor/)
-- Aweseome APIs
+- Awesome APIs
   - Fun facts about numbers: http://numbersapi.com/
   - Online (and Excel) calculations: http://www.nematrian.com/
   - The Observatory of Economic Complexity: https://atlas.media.mit.edu
+- [Financial data](financial_data.md)
