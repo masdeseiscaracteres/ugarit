@@ -7,6 +7,8 @@
   - Market identifiers
     - [MIC (ISO 10383)](https://www.iso20022.org/10383/iso-10383-market-identifier-codes)
     - [Bloomberg Exchange Code to MIC mapping](https://openfigi.com/assets/local/exchange-code-mic-mapping.xls)
+  - Instrument identifiers
+    - [ANNA ISIN lookup service](http://www.anna-web.org/anna-launches-free-international-isin-lookup-service/)
   - Symbologies:
     - [Reuters RICs](http://findb.aalto.fi/docs/Reuters/reuters_dataguide.pdf)
     - [Bloomberg Open Symbology](https://openfigi.com/about)
