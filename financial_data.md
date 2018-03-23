@@ -11,6 +11,8 @@
     - [ANNA ISIN (ISO 6166) lookup service](http://www.anna-web.org/anna-launches-free-international-isin-lookup-service/)
     - [CFI: Classification of Financial Instruments (ISO 10962)](http://www.anna-web.org/standards/cfi-iso-10962/)
     - [FISN: Financial Instrument Short Name (ISO 18774)](http://www.anna-web.org/standards/fisn-iso-18774/)
+    - Proprietary exchange codes
+      - [CBOE.com](http://cdn.batstrading.com/resources/participant_resources/BATS_Europe_Reference_Data.pdf)
   - Symbologies:
     - [Reuters RICs](http://findb.aalto.fi/docs/Reuters/reuters_dataguide.pdf)
     - [Bloomberg Open Symbology](https://openfigi.com/about)
