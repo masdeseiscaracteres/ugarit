@@ -20,3 +20,7 @@
     - [Bloomberg Open Symbology](https://openfigi.com/about)
   - Identifier validators
     - [identifiers Python package](https://pypi.python.org/pypi/identifiers/0.3.1)
+  - APIs
+    - Free
+      - [Alpha Vantage](https://www.alphavantage.co/documentation/)
+      - [IEX](https://iextrading.com/developer/docs/)
