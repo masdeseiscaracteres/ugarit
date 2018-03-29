@@ -22,5 +22,6 @@
     - [identifiers Python package](https://pypi.python.org/pypi/identifiers/0.3.1)
   - APIs
     - Free
-      - [Alpha Vantage](https://www.alphavantage.co/documentation/)
-      - [IEX](https://iextrading.com/developer/docs/)
+      - [Alpha Vantage](https://www.alphavantage.co/documentation/), stocks, forex, cryptocurrencies, technical indicators, sector info
+      - [IEX](https://iextrading.com/developer/docs/), stocks
+      - [Cryptowat.ch](https://cryptowat.ch/docs/api), cryptocurrencies
