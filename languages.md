@@ -7,7 +7,7 @@
 ## English
 - [Wordreference](http://www.wordreference.com/) dictionary
 - [Forvo](https://forvo.com/), pronunciation
-- [Usage dictionary](https://en.oxforddictionaries.com/grammar/usage)
+- [Oxford usage dictionary](https://en.oxforddictionaries.com/grammar/usage)
 - [Telephone English](http://www.englishclub.com/speaking/telephone_language.htm)
 
 ## Esperanto
