@@ -12,3 +12,4 @@ A collection of primitive private (now made public) archives:
 - [Awesome online tools](online.md)
 - [Awesome APIs](apis.md)
 - [Financial data](financial_data.md)
+- [Maps](maps.md)
