@@ -1,29 +1,32 @@
-
-
-- Financial data
-  - Knowledge graphs/Ontologies:
-    - https://permid.org/
-    - https://www.openfigi.com/
-      - Bloomberg open symbology as RDF: [source code](https://github.com/ga-group/bsym), [data](https://old.datahub.io/dataset/figi)
-  - Market identifiers
-    - [MIC (ISO 10383)](https://www.iso20022.org/10383/iso-10383-market-identifier-codes)
-    - [Bloomberg Exchange Code to MIC mapping](https://openfigi.com/assets/local/exchange-code-mic-mapping.xls)
-  - Instrument identifiers
-    - [ANNA ISIN (ISO 6166) lookup service](http://www.anna-web.org/anna-launches-free-international-isin-lookup-service/)
-    - [CFI: Classification of Financial Instruments (ISO 10962)](http://www.anna-web.org/standards/cfi-iso-10962/)
-    - [FISN: Financial Instrument Short Name (ISO 18774)](http://www.anna-web.org/standards/fisn-iso-18774/)
-    - Proprietary exchange codes
-      - [CBOE Europe](http://cdn.batstrading.com/resources/participant_resources/BATS_Europe_Reference_Data.pdf) (sometimes includes mapping to Reuters RIC codes and Bloomberg tickers)
-      - [CME settlements](http://www.cmegroup.com/market-data/settlements.html)
-  - Company/legal entity identifiers
-    -  [Global Legal Entity Identifier (LEI) (ISO 17442)](https://www.gleif.org/en/about-lei/iso-17442-the-lei-code-structure)
-  - Symbologies:
-    - [Reuters RICs](http://findb.aalto.fi/docs/Reuters/reuters_dataguide.pdf)
-    - [Bloomberg Open Symbology](https://openfigi.com/about)
-  - Identifier validators
-    - [identifiers Python package](https://pypi.python.org/pypi/identifiers/0.3.1)
-  - APIs
-    - Free
-      - [Alpha Vantage](https://www.alphavantage.co/documentation/), stocks, forex, cryptocurrencies, technical indicators, sector info
-      - [IEX](https://iextrading.com/developer/docs/), stocks
-      - [Cryptowat.ch](https://cryptowat.ch/docs/api), cryptocurrencies
+# Financial data
+- Knowledge graphs/Ontologies
+  - https://permid.org/, easy match to Reuters RICs
+  - https://www.openfigi.com/, easy match to Bloomberg IDs
+    - Bloomberg open symbology as RDF: [source code](https://github.com/ga-group/bsym), [data](https://old.datahub.io/dataset/figi)
+  - [Financial Industry Business Ontology](https://spec.edmcouncil.org/fibo/)
+- Market identifiers
+  - [MIC (ISO 10383)](https://www.iso20022.org/10383/iso-10383-market-identifier-codes)
+  - [Bloomberg Exchange Code to MIC mapping](https://openfigi.com/assets/local/exchange-code-mic-mapping.xls)
+- Instrument identifiers
+  - [ANNA ISIN (ISO 6166) lookup service](http://www.anna-web.org/anna-launches-free-international-isin-lookup-service/)
+  - [CFI: Classification of Financial Instruments (ISO 10962)](http://www.anna-web.org/standards/cfi-iso-10962/)
+  - [FISN: Financial Instrument Short Name (ISO 18774)](http://www.anna-web.org/standards/fisn-iso-18774/)
+  - Proprietary exchange codes
+    - [CBOE Europe](http://cdn.batstrading.com/resources/participant_resources/BATS_Europe_Reference_Data.pdf) (sometimes includes mapping to Reuters RIC codes and Bloomberg tickers)
+    - [CME settlements](http://www.cmegroup.com/market-data/settlements.html)
+- Company/legal entity identifiers
+  -  [Global Legal Entity Identifier (LEI) (ISO 17442)](https://www.gleif.org/en/about-lei/iso-17442-the-lei-code-structure)
+- Symbologies:
+  - [Reuters RICs](http://findb.aalto.fi/docs/Reuters/reuters_dataguide.pdf)
+  - [Bloomberg Open Symbology](https://openfigi.com/about)
+- Identifier validators
+  - [identifiers Python package](https://pypi.python.org/pypi/identifiers/0.3.1)
+- Real-time data 
+  - [Interactive Brokers Calendar](https://www.interactivebrokers.com/calendar/), international holidays & expirations
+  - [fxstreet economic calendar](https://www.fxstreet.com/economic-calendar)
+  - [global-rates.com](http://www.global-rates.com/), up-to-date global interest rates
+- APIs
+  - Free
+    - [Alpha Vantage](https://www.alphavantage.co/documentation/), stocks, forex, cryptocurrencies, technical indicators, sector info
+    - [IEX](https://iextrading.com/developer/docs/), stocks
+    - [Cryptowat.ch](https://cryptowat.ch/docs/api), cryptocurrencies
