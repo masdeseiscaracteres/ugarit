@@ -2,10 +2,12 @@
 ## Spanish
 - [RAE](http://www.rae.es/)
 - [Fundeu](https://www.fundeu.es/)
+- [Refranero multilingüe Centro Virtual Cervantes](https://cvc.cervantes.es/lengua/refranero/)
 
 ## English
-- [Wordreference](http://www.wordreference.com/)
+- [Wordreference](http://www.wordreference.com/) dictionary
 - [Forvo](https://forvo.com/), pronunciation
+- [Usage dictionary](https://en.oxforddictionaries.com/grammar/usage)
 - [Telephone English](http://www.englishclub.com/speaking/telephone_language.htm)
 
 ## Esperanto
