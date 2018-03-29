@@ -8,6 +8,7 @@
 - [Wordreference](http://www.wordreference.com/) dictionary
 - [Forvo](https://forvo.com/), pronunciation
 - [Oxford usage dictionary](https://en.oxforddictionaries.com/grammar/usage)
+- [Citations: Chicago Manual of Style](http://www.libs.uga.edu/ref/chicagostyle.pdf)
 - [Telephone English](http://www.englishclub.com/speaking/telephone_language.htm)
 
 ## Esperanto
