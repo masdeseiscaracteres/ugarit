@@ -15,6 +15,8 @@
     - Proprietary exchange codes
       - [CBOE Europe](http://cdn.batstrading.com/resources/participant_resources/BATS_Europe_Reference_Data.pdf) (sometimes includes mapping to Reuters RIC codes and Bloomberg tickers)
       - [CME settlements](http://www.cmegroup.com/market-data/settlements.html)
+  - Company/legal entity identifiers
+    -  [Global Legal Entity Identifier (LEI) (ISO 17442)](https://www.gleif.org/en/about-lei/iso-17442-the-lei-code-structure)
   - Symbologies:
     - [Reuters RICs](http://findb.aalto.fi/docs/Reuters/reuters_dataguide.pdf)
     - [Bloomberg Open Symbology](https://openfigi.com/about)
