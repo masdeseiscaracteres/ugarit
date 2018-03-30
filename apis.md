@@ -12,3 +12,7 @@
 ### Useful
 - [Online (and Excel) calculations](http://www.nematrian.com/)
 - [The Observatory of Economic Complexity](https://atlas.media.mit.edu)
+
+
+## Guides
+- [Best practices for a pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
