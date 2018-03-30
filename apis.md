@@ -7,6 +7,7 @@
 ### Basic examples
 - [Fun facts about numbers](http://numbersapi.com/)
 - [SWAPI - The Star Wars API](https://swapi.co/)
+- [Stripe API](https://stripe.com/docs/api), nice example of documentation, error reporting, pagination, versioning, etc.
 
 ### Useful
 - [Online (and Excel) calculations](http://www.nematrian.com/)
