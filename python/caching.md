@@ -4,3 +4,9 @@
 - [shove](https://bitbucket.org/lcrees/shove/src)
 - [cachey](https://github.com/dask/cachey)
 - [bplustree](https://github.com/NicolasLM/bplustree)
+- [kleptos](https://github.com/uqfoundation/klepto)
+
+# Pickling
+- pickle
+- dill
+- cloudpickle
