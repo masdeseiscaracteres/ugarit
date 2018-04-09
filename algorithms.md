@@ -8,6 +8,7 @@
 - [CVX (Matlab)](http://cvxr.com/cvx/), [CVXPY (Python)](http://www.cvxpy.org/en/latest/), [Convex.jl (Julia)](https://convexjl.readthedocs.io/en/latest/)
 - [AMPL](https://ampl.com/)
 - [YALMIP (Matlab)](https://yalmip.github.io/)
+- [JuMP.jl](http://www.juliaopt.org/JuMP.jl/latest/)
 
 ## Solvers
 - [List of solvers for CVX](http://cvxr.com/cvx/doc/solver.html)
@@ -15,7 +16,7 @@
 - [List of solver in JuliaOpt](http://www.juliaopt.org/)
 - [List of solvers for AMPL](https://ampl.com/products/solvers/all-solvers-for-ampl/)
 - [List of solvers for YALMIP (by problem class)](https://yalmip.github.io/allsolvers/)
-
+- [List of solvers for JuMP.jl](http://www.juliaopt.org/JuMP.jl/latest/installation.html#Getting-Solvers-1)
 - Promising free solvers to try:
   - [OQSP](http://osqp.readthedocs.io/en/latest/) & [MIOQSP](https://github.com/oxfordcontrol/miosqp)
   
