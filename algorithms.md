@@ -9,7 +9,7 @@
 - [AMPL](https://ampl.com/)
 - [YALMIP (Matlab)](https://yalmip.github.io/)
 - [JuMP.jl](http://www.juliaopt.org/JuMP.jl/latest/)
-- [Picos (Python)](http://picos.zib.de/intro.html#solvers)
+- [Picos (Python)](http://picos.zib.de/index.html)
 
 ## Solvers
 - [List of solvers for CVX](http://cvxr.com/cvx/doc/solver.html)
