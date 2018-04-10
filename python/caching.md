@@ -11,6 +11,7 @@
 - [bplustree](https://github.com/NicolasLM/bplustree)
 - [klepto](https://github.com/uqfoundation/klepto)
 - [pickleDB](https://pythonhosted.org/pickleDB/)
+- [rlite](https://github.com/seppo0010/rlite-py), rlite is to Redis what SQLite is to SQL databases
 
 # Generic hashing
 - built-in `hash` function (only for the so-called [hashable](https://docs.python.org/3/glossary.html#term-hashable) objects)
