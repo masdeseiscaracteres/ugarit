@@ -8,7 +8,10 @@
 - [Wordreference](http://www.wordreference.com/) dictionary
 - [Forvo](https://forvo.com/), pronunciation
 - [Oxford usage dictionary](https://en.oxforddictionaries.com/grammar/usage)
-- [Citations: Chicago Manual of Style](http://www.libs.uga.edu/ref/chicagostyle.pdf)
+- Style guides
+  - [Chicago Manual of Style](http://www.libs.uga.edu/ref/chicagostyle.pdf)
+  - [The basics of APA style: free tutorial](http://www.apastyle.org/learn/tutorials/basics-tutorial.aspx)
+- [Zotero style reference](https://www.zotero.org/styles), citation styles
 - [Telephone English](http://www.englishclub.com/speaking/telephone_language.htm)
 
 ## Esperanto
