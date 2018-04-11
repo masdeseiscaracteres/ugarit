@@ -20,4 +20,12 @@
 - [List of solvers for JuMP.jl](http://www.juliaopt.org/JuMP.jl/latest/installation.html#Getting-Solvers-1)
 - Promising free solvers to try:
   - [OQSP](http://osqp.readthedocs.io/en/latest/) & [MIOQSP](https://github.com/oxfordcontrol/miosqp)
+  - [Suggest-and-Improve framework for QCQPs](https://github.com/cvxgrp/qcqp)
+  - Ipopt + [PyIpopt](https://github.com/xuy/pyipopt), smooth nonconvex program solver
+  
+## Tricks & problem conversions
+- [MOSEK Modeling Cookbook](https://docs.mosek.com/modeling-cookbook/index.html)
+- Specific tricks:
+  - [Convex QCQP to SOCP](https://math.stackexchange.com/questions/1330896/can-a-convex-qcqp-with-an-additional-linear-constraint-be-converted-into-a-socp)
+  - [Convex QCQP to SDP](https://mathoverflow.net/questions/58383/complexity-of-convex-quadratically-constrained-quadratic-programming-qcqp) 
   
