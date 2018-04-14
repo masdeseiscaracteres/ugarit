@@ -12,6 +12,7 @@
 ### Useful
 - [Online (and Excel) calculations](http://www.nematrian.com/)
 - [The Observatory of Economic Complexity](https://atlas.media.mit.edu)
+- [Unsplash.com photos](https://picsum.photos)
 
 
 ## Guides
