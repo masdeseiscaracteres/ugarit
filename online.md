@@ -21,6 +21,9 @@
 - https://www.reddit.com/r/web_design/comments/2v5ts0/ultimate_collection_of_free_stock_photos_websites/
 - [Unsplash](https://unsplash.com), free-to-use (even comercially) professional photos
 
+## Logos
+- [Logonoid](http://logonoid.com/)
+
 ## Color picker
 - 
 
