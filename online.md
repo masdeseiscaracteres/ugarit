@@ -5,8 +5,9 @@
 ## JSON editor
 - http://jeremydorn.com/json-editor/, includes schema-following
 
-## RRule editor
-- https://jakubroztocil.github.io/rrule/, RFC2445 rrules
+## Date & time
+- [RRule editor](https://jakubroztocil.github.io/rrule/), RFC2445 rrules
+- [World clock, meeting planner, etc.](https://www.timeanddate.com/)
 
 ## Image editor
 ### Bitmaps
