@@ -4,6 +4,7 @@
   - https://www.openfigi.com/, easy match to Bloomberg IDs
     - Bloomberg open symbology as RDF: [source code](https://github.com/ga-group/bsym), [data](https://old.datahub.io/dataset/figi)
   - [Financial Industry Business Ontology](https://spec.edmcouncil.org/fibo/)
+  - [GA-group (BSYM project)](https://github.com/ga-group/bsym)
 - Market identifiers
   - [MIC (ISO 10383)](https://www.iso20022.org/10383/iso-10383-market-identifier-codes)
   - [Bloomberg Exchange Code to MIC mapping](https://openfigi.com/assets/local/exchange-code-mic-mapping.xls)
