@@ -31,3 +31,9 @@
     - [Alpha Vantage](https://www.alphavantage.co/documentation/), stocks, forex, cryptocurrencies, technical indicators, sector info
     - [IEX](https://iextrading.com/developer/docs/), stocks
     - [Cryptowat.ch](https://cryptowat.ch/docs/api), cryptocurrencies
+- Financial instrument data
+  - MorningStar
+  - [Financial Times Markets](https://markets.ft.com/data/search)
+  - Interactive Brokers
+  - [FundsLibrary.co.uk](https://www.fundslibrary.co.uk/FundsLibrary.DataApi.Web/)
+  - [FundInfo Datahub](https://datahub.fundinfo.com/)
