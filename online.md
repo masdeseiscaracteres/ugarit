@@ -13,6 +13,9 @@
 - Github content
   - [rawgit](https://rawgit.com/), serves raw files directly from GitHub with proper Content-Type headers
   - [roughdraft.io](http://www.roughdraft.io/), render Github gists
+- Reproducible science
+  - [Everware](http://everware.xyz)
+  - [MyBinder](https://mybinder.org)
 
 ## Markdown editor 
 - [StackEdit](https://stackedit-beta.herokuapp.com)
