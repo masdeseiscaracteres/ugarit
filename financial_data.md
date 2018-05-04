@@ -32,8 +32,8 @@
     - [IEX](https://iextrading.com/developer/docs/), stocks
     - [Cryptowat.ch](https://cryptowat.ch/docs/api), cryptocurrencies
 - Financial instrument data
-  - MorningStar
+  - [MorningStar Funds](https://www.morningstar.com/funds.html)
   - [Financial Times Markets](https://markets.ft.com/data/search)
-  - Interactive Brokers
+  - [Interactive Brokers](https://misc.interactivebrokers.com/cstools/contract_info/)
   - [FundsLibrary.co.uk](https://www.fundslibrary.co.uk/FundsLibrary.DataApi.Web/)
   - [FundInfo Datahub](https://datahub.fundinfo.com/)
