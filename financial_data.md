@@ -42,4 +42,6 @@
     - [FundInfo Datahub](https://datahub.fundinfo.com/)
   - [Financial Times Markets](https://markets.ft.com/data/search)
   - [Interactive Brokers](https://misc.interactivebrokers.com/cstools/contract_info/)
+  - Stocks
+    - [Yahoo finance screener](https://finance.yahoo.com/screener)
 
