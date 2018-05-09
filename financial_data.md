@@ -25,11 +25,6 @@
   - [Bloomberg Open Symbology](https://openfigi.com/about)
 - Identifier validators
   - [identifiers Python package](https://pypi.python.org/pypi/identifiers/0.3.1)
-- Calendar & events
-  - [Yahoo Finance Events Calendar](https://finance.yahoo.com/calendar), earnings, splits, IPOs, data releases
-  - [Interactive Brokers Calendar](https://www.interactivebrokers.com/calendar/), international holidays & expirations
-  - [fxstreet economic calendar](https://www.fxstreet.com/economic-calendar)
-  - [global-rates.com](http://www.global-rates.com/), up-to-date global interest rates
 - APIs
   - Free
     - [Alpha Vantage](https://www.alphavantage.co/documentation/), stocks, forex, cryptocurrencies, technical indicators, sector info
@@ -47,3 +42,9 @@
   - Anything
     - [Financial Times Markets](https://markets.ft.com/data/search)
     - [Interactive Brokers](https://misc.interactivebrokers.com/cstools/contract_info/)
+- Calendars & events
+  - [Thomson Reuters Economic Data[(https://financial.thomsonreuters.com/en/products/data-analytics/economic-data.html)
+  - [Yahoo Finance Events Calendar](https://finance.yahoo.com/calendar), earnings, splits, IPOs, data releases
+  - [Interactive Brokers Calendar](https://www.interactivebrokers.com/calendar/), international holidays & expirations
+  - [fxstreet economic calendar](https://www.fxstreet.com/economic-calendar)
+  - [global-rates.com](http://www.global-rates.com/), up-to-date global interest rates
