@@ -19,5 +19,8 @@
 ## Recommender systems
 
 ## Reproducible research
-- [mybinder.org](http://mybinder.org/)
-- [everware.org](http://everware.xyz/)
+- [mybinder.org](http://mybinder.org/), visualization Jupyter Notebooks
+- [everware.org](http://everware.xyz/), online execution Jupyter Notebooks
+- Citable datasets
+  - [zenodo.org](https://zenodo.org/), free DOI
+  - [data.mendeley.com](https://data.mendeley.com), free DOI
