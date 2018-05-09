@@ -43,7 +43,7 @@
     - [Financial Times Markets](https://markets.ft.com/data/search)
     - [Interactive Brokers](https://misc.interactivebrokers.com/cstools/contract_info/)
 - Calendars & events
-  - [Thomson Reuters Economic Data[(https://financial.thomsonreuters.com/en/products/data-analytics/economic-data.html)
+  - [Thomson Reuters Economic Data](https://financial.thomsonreuters.com/en/products/data-analytics/economic-data.html), paid service
   - [Yahoo Finance Events Calendar](https://finance.yahoo.com/calendar), earnings, splits, IPOs, data releases
   - [Interactive Brokers Calendar](https://www.interactivebrokers.com/calendar/), international holidays & expirations
   - [fxstreet economic calendar](https://www.fxstreet.com/economic-calendar)
