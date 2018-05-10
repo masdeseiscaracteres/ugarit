@@ -24,3 +24,5 @@
 - Citable datasets
   - [zenodo.org](https://zenodo.org/), free DOI
   - [data.mendeley.com](https://data.mendeley.com), free DOI
+- Embedded interactive Python/R interpreter
+  - [Datacamp Light](https://github.com/datacamp/datacamp-light-wordpress)
