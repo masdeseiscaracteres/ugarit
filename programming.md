@@ -1,4 +1,7 @@
 # Programming
+## Language learning
+### C
+- A Crash Course in C: Appendix A of [this book](http://hades.mech.northwestern.edu/images/e/e3/EmbeddedComputingMechatronicsSampleChapters.pdf) + [video lectures](https://www.youtube.com/playlist?list=PLggLP4f-rq02gmlePH-vQJ8PF6hyf08CN)
 ## Software design
 - [UML basics:The class diagram - An introduction to structure diagrams in UML 2](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html)
 
