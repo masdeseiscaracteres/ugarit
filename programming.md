@@ -14,6 +14,7 @@
 - [MinGW coding under Windows (C, C++, OpenMP, MPI)](http://www.math.ucla.edu/~wotaoyin/windows_coding.html)
 
 ### Educational resources
+- [Compiling, assembling and linking](https://www.youtube.com/watch?v=N2y6csonII4)
 - [Types of libraries, naming, resolution](https://en.wikipedia.org/wiki/Library_%28computing%29)
 
 ### Dependency viewer 
