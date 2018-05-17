@@ -26,7 +26,7 @@ Including:
 ##### Windows
 - [dependencywalker](http://dependencywalker.com/), old
 - [lucasg/Dependencies](https://lucasg.github.io/Dependencies/), new
-- [Microsoft's `dumpbin` tool](https://docs.microsoft.com/es-es/cpp/build/reference/dumpbin-reference) (run from the Visual Studio command prompt)
+- [Microsoft's `dumpbin` tool](https://docs.microsoft.com/es-es/cpp/build/reference/dumpbin-reference) (run from the Visual Studio command prompt), for [COFF](https://en.wikipedia.org/wiki/COFF)/[PE](https://en.wikipedia.org/wiki/Portable_Executable) files
   ```
   dumpbin /dependents <your_file>
   ```
