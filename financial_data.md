@@ -18,8 +18,9 @@
   - Proprietary codes (and matchings)
     - [CBOE Europe](http://cdn.batstrading.com/resources/participant_resources/BATS_Europe_Reference_Data.pdf) (sometimes includes mapping to Reuters RIC codes and Bloomberg tickers)
     - [CME settlements](http://www.cmegroup.com/market-data/settlements.html)
-    - [STOXX indexes](https://www.stoxx.com/data-vendor-codes), ISIN, Proprietary, Bloomberg, Reuters, disemmination time
-    - [MSCI indexes](https://www.msci.com/ticker-codes), Bloomberg, Reuters
+    - [STOXX indices](https://www.stoxx.com/data-vendor-codes), ISIN, Proprietary, Bloomberg, Reuters, disemmination time
+    - [S&P DJ indices](http://www.spice-indices.com/idpfiles/spice-assets/resources/public/documents/spdji-tickers-etf.pdf), Bloomberg, Reuters
+    - [MSCI indices](https://www.msci.com/ticker-codes), Bloomberg, Reuters
     - [All Yahoo symbol identifiers](http://investexcel.net/all-yahoo-finance-stock-tickers/) in an Excel spreadsheet
 - Company/legal entity identifiers
   -  [Global Legal Entity Identifier (LEI) (ISO 17442)](https://www.gleif.org/en/about-lei/iso-17442-the-lei-code-structure)
