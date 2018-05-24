@@ -6,19 +6,21 @@
   - [Financial Industry Business Ontology](https://spec.edmcouncil.org/fibo/)
   - [GA-group (BSYM project)](https://github.com/ga-group/bsym)
   - [The Fund Ontology](http://fundontology.com/)
-- Market identifiers
+- Market identifiers (and matchings)
   - [MIC (ISO 10383)](https://www.iso20022.org/10383/iso-10383-market-identifier-codes)
-  - [Bloomberg Exchange Code to MIC mapping](https://openfigi.com/assets/local/exchange-code-mic-mapping.xls)
-  - [Yahoo market identifiers & data providers](https://help.yahoo.com/kb/SLN2310.html)
+  - Proprietary codes
+    - [Bloomberg Exchange Code to MIC mapping](https://openfigi.com/assets/local/exchange-code-mic-mapping.xls)
+    - [Yahoo market identifiers & data providers](https://help.yahoo.com/kb/SLN2310.html)
 - Instrument identifiers
   - [ANNA ISIN (ISO 6166) lookup service](http://www.anna-web.org/anna-launches-free-international-isin-lookup-service/)
   - [CFI: Classification of Financial Instruments (ISO 10962)](http://www.anna-web.org/standards/cfi-iso-10962/)
   - [FISN: Financial Instrument Short Name (ISO 18774)](http://www.anna-web.org/standards/fisn-iso-18774/)
-  - [Bloomberg and Reuters tickers for MSCI indexes](https://www.msci.com/ticker-codes)
-  - [Yahoo symbol identifiers](http://investexcel.net/all-yahoo-finance-stock-tickers/) in an Excel spreadsheet
-  - Proprietary exchange codes
+  - Proprietary codes (and matchings)
     - [CBOE Europe](http://cdn.batstrading.com/resources/participant_resources/BATS_Europe_Reference_Data.pdf) (sometimes includes mapping to Reuters RIC codes and Bloomberg tickers)
     - [CME settlements](http://www.cmegroup.com/market-data/settlements.html)
+    - [STOXX indexes](https://www.stoxx.com/data-vendor-codes), ISIN, Proprietary, Bloomberg, Reuters, disemmination time
+    - [MSCI indexes](https://www.msci.com/ticker-codes), Bloomberg, Reuters
+    - [All Yahoo symbol identifiers](http://investexcel.net/all-yahoo-finance-stock-tickers/) in an Excel spreadsheet
 - Company/legal entity identifiers
   -  [Global Legal Entity Identifier (LEI) (ISO 17442)](https://www.gleif.org/en/about-lei/iso-17442-the-lei-code-structure)
 - Symbologies:
