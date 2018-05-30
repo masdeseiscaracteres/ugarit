@@ -22,6 +22,7 @@
     - [S&P DJ indices](http://www.spice-indices.com/idpfiles/spice-assets/resources/public/documents/spdji-tickers-etf.pdf), Bloomberg, Reuters
     - [MSCI indices](https://www.msci.com/ticker-codes), Bloomberg, Reuters
     - [All Yahoo symbol identifiers](http://investexcel.net/all-yahoo-finance-stock-tickers/) in an Excel spreadsheet
+    - [Eurex](http://www.eurexchange.com/exchange-en/products/vendor-product-codes/)
 - Company/legal entity identifiers
   -  [Global Legal Entity Identifier (LEI) (ISO 17442)](https://www.gleif.org/en/about-lei/iso-17442-the-lei-code-structure)
 - Symbologies:
