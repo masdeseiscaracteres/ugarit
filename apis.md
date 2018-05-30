@@ -12,7 +12,8 @@
 ### Useful
 - [Online (and Excel) calculations](http://www.nematrian.com/)
 - [The Observatory of Economic Complexity](https://atlas.media.mit.edu)
-- [Unsplash.com photos](https://picsum.photos)
+- [Lorem Picsum (Unsplash.com)](https://picsum.photos)
+- [Ipify](https://www.ipify.org/), [click here to get your IP address](https://api.ipify.org/)
 
 
 ## Guides
