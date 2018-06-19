@@ -13,3 +13,7 @@
 ### Hypothesis testing (Neyman-Pearson's approach)
 - [Mathematical Justification of Introductory Hypothesis Tests and Development of Reference Materials](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?httpsredir=1&article=1014&context=gradreports)
 
+## Estimating distribution of sample estimates
+[Resampling techniques](https://en.wikipedia.org/wiki/Resampling_(statistics)#)
+- Jacknife
+- Bootstrap
