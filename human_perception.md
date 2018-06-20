@@ -9,6 +9,7 @@
   - [Reverse-colorblind test](http://www.cs.unm.edu/~aaron/creative/colorTest.htm)
 - Education
   - [Color Perception by Michael Kalloniatis and Charles Luu – Webvision](webvision.med.utah.edu/book/part-viii-gabac-receptors/color-perception/#deficiencies)
+  - [Confusion lines in the CIE diagram](http://www.color-blindness.com/2009/01/19/colorblind-colors-of-confusion/)
   - [EnChroma glasses](http://enchroma.com), specially the [technology section](http://enchroma.com/technology/) and test
 
 # Hearing
