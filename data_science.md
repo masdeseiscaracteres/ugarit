@@ -43,8 +43,8 @@ Signal detection
 
 Statistical hyphotesis testing
 - P(1|1): power (1-beta)
-- P(1|0): significance level, Type I error (alpha)
-- P(0|1): type II error (beta)
+- P(1|0): significance level, Type I error rate (alpha)
+- P(0|1): type II error rate (beta)
 
 ## Ensemble methods
 ### Rank-aggregation
