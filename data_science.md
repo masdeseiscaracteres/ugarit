@@ -14,7 +14,40 @@
 
 ## Machine-learned rankings
 
-## Rank-aggregation
+## Regression
+
+## Classification
+
+### Binary classification name equivalences
+Generic names
+- P(1|1): TPR
+- P(1|0): FPR
+- P(0|1): FNR
+- P(0|0): TNR
+
+Diagnosis
+- P(1|1): sensitivity
+- P(0|0): specificity
+
+Sales:
+- P(1|1): hit rate
+- P(0|1): miss rate
+
+Information retrieval
+- P(1|1): recall
+- P(1|0): fall-out
+
+Signal detection
+- P(1|1): probability of detection
+- P(1|0): probability of false alarm
+
+Statistical hyphotesis testing
+- P(1|1): power (1-beta)
+- P(1|0): significance level, Type I error (alpha)
+- P(0|1): type II error (beta)
+
+## Ensemble methods
+### Rank-aggregation
 
 ## Recommender systems
 
