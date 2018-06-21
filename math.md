@@ -17,3 +17,4 @@
 [Resampling techniques](https://en.wikipedia.org/wiki/Resampling_(statistics)#)
 - Jacknife
 - Bootstrap
+- Permutation tests
