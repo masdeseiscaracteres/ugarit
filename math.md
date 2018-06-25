@@ -15,6 +15,7 @@
 
 ## Estimating distribution of sample estimates
 [Resampling techniques](https://en.wikipedia.org/wiki/Resampling_(statistics)#)
-- Jacknife
-- Bootstrap
-- Permutation tests
+- Jacknife [Quenouille (1949)]: resample all n subsamples of size n-1  (useful for variance and bias estimation)
+- Bootstrap [Efron (1979)]:  resampling *with replacement* from the original sample *at the same sample size* 
+- Subsampling [Politis and Romano (1994)]: resampling *without replacement* from the original sample *at smaller than the original sample size*
+- Permutation tests: resampling *without replacement* from the original sample *at the same sample size*
