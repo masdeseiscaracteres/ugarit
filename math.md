@@ -17,6 +17,10 @@
 [Resampling techniques](https://en.wikipedia.org/wiki/Resampling_(statistics)#)
 - Jacknife [Quenouille (1949)]: resample all n subsamples of size n-1  (useful for variance and bias estimation)
 - Bootstrap [Efron (1979)]:  resampling *with replacement* from the original sample *at the same sample size* 
+  - [Bootstraping dependent data](https://books.google.es/books?id=e4f8sqm439UC&printsec=frontcover#v=onepage&q&f=false):
+    - Non-overlapping circular bootstrap (NBB) & Moving block bootstrap (MBB) (first and last observations are sampled less frequently)
+    - Circular block bootstrap: glue start and end together and perform MBB
+    - Stationary block bootstrap: stochastic blocklengths
 - Subsampling [Politis and Romano (1994)]: resampling *without replacement* from the original sample *at smaller than the original sample size*
   - A comparison of [bootstrap and subsampling](http://www.stat.umn.edu/geyer/5601/notes/sub.pdf)
 - Permutation tests: resampling *without replacement* from the original sample *at the same sample size*
