@@ -27,6 +27,9 @@
 - [RRule editor](https://jakubroztocil.github.io/rrule/), RFC2445 rrules
 - [World clock, meeting planner, etc.](https://www.timeanddate.com/)
 
+## Screen capture
+- [mmngreco's list](https://gist.github.com/mmngreco/d57062bed0005ce245252eaef2846748#file-list_capture_resources-md)
+
 ## Image editor
 ### Bitmaps
 - [Pixlr editor](https://pixlr.com/editor/)
