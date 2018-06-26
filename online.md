@@ -32,6 +32,8 @@
 - [Pixlr editor](https://pixlr.com/editor/)
 ### Vector graphics
 - https://www.draw.io/
+### Mockups
+- https://placeit.net/
 
 ## GIFs
 - http://giphy.com
