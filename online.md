@@ -50,6 +50,9 @@
 - [ShareLaTeX](https://www.sharelatex.com), free for non-collaborative work
 - [Detexify: handwritten LaTeX symbol recognition](http://detexify.kirelabs.org/classify.html)
 
+## Math/calculators
+- [Desmos](https://www.desmos.com/calculator/fcjhdt1xdw)
+
 ## Print-friendly
 - PrintFriendly.com bookmarklet
 - PrintWhatYouLike.com bookmarklet
