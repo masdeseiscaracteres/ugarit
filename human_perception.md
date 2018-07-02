@@ -11,6 +11,9 @@
   - [Color Perception by Michael Kalloniatis and Charles Luu – Webvision](webvision.med.utah.edu/book/part-viii-gabac-receptors/color-perception/#deficiencies)
   - [Confusion lines in the CIE diagram](http://www.color-blindness.com/2009/01/19/colorblind-colors-of-confusion/)
   - [EnChroma glasses](http://enchroma.com), specially the [technology section](http://enchroma.com/technology/) and test
+- Picking colors for color blind people
+  - [Tips for designing scientific figures for color blind readers](http://www.somersault1824.com/tips-for-designing-scientific-figures-for-color-blind-readers/)
+  - [Color Oracle](http://colororacle.org/), cross-platform color blindness simulator
 
 # Hearing
 ## Physics/math of music
