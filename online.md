@@ -49,7 +49,11 @@
 - [Logonoid](http://logonoid.com/)
 
 ## Color picker
-- 
+- http://www.paletton.com/
+- https://kuler.adobe.com/
+- http://www.perbang.dk/color+scheme/
+- http://www.colorsontheweb.com/colorwizard.asp
+- http://colorbrewer2.org/
 
 ## LaTeX
 - [ShareLaTeX](https://www.sharelatex.com), free for non-collaborative work
