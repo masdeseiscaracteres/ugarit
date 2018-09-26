@@ -15,6 +15,7 @@
 ## Machine-learned rankings
 
 ## Regression
+- [Linear regression -> Bayesian regression -> Gaussian processes](https://www.cs.ubc.ca/labs/lci/mlrg/slides/GaussianProcessses.pdf)
 
 ## Classification
 
