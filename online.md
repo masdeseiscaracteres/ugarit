@@ -8,6 +8,7 @@
   - [CodeSandbox](https://codesandbox.io)
 - Notebooks
   - [Observable](https://beta.observablehq.com/scratchpad)
+  - [Google Colaboratory](https://colab.research.google.com/)
 
 ### Renderers
 - [nbviewer](https://nbviewer.jupyter.org/), render online Jupyter Notebooks
