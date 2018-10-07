@@ -1,4 +1,4 @@
-# Packaging guide
+# Python packaging guides
 ## The definitive guide to private dependencies in Python packages
 When working with private python packages (those not available on PyPI), we may encounter problems when including them as dependencies of another package.
 This guide covers two common cases for private dependencies:
