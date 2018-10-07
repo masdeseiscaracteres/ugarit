@@ -68,10 +68,35 @@ pip install -r requirements.txt
 - Direct URL links can be used in requirements files since `pip>=18.0`.
 - It is expected that `pip>=18.1` will support PEP 508 URL dependencies in the `setup.py` file.
 
-## Other considerations
+### Other considerations
 - If your private packages are hosted in a server using self-signed certificates or no certificates at all, 
 add `--trusted-host <hostname>` to `pip install`
 
 - To include data files, scripts, tests, etc.:
   - http://python-packaging.readthedocs.io/en/latest/index.html
   - http://setuptools.readthedocs.io/en/latest/setuptools.html
+  
+## Where to find binaries for Python packages
+### Pip wheels
+- Official Python repositories
+  - [PyPi](https://pypi.python.org), ([`simple` index](https://pypi.python.org/simple/))
+- Unofficial repositories
+  - [Unofficial Windows binaries for third-party Python extension packages by Christoph Gohlke](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
+
+### Conda recipes
+- [Anaconda recipes](https://github.com/ContinuumIO/anaconda-recipes)
+- Community recipes
+  - [Conda recipes](https://github.com/conda/conda-recipes), **deprecated** collection
+  - [Conda-forge feedstocks (recipes +  CI +  upload to conda-forge channel)](https://github.com/conda-forge/feedstocks)
+- User recipes
+  1. Search for the package in anaconda.org
+  2. Identify the user channel in which the package is available for your platform
+  3. Install
+    ```
+    conda install -c <channel_name> <package_name>
+    ```
+
+### Hints to build your own conda-forge recipes
+- Where should binaries (executables, libraries, etc.) go? [Answer](https://github.com/ContinuumIO/anaconda-issues/issues/233#issuecomment-69089266)
+- [Helpful conda links @ conda-forge wiki](https://github.com/conda-forge/staged-recipes/wiki/Helpful-conda-links)
+
