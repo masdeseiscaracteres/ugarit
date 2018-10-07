@@ -50,7 +50,18 @@ Statistical hyphotesis testing
 ## Ensemble methods
 ### Rank-aggregation
 
+### Bagging
+
+### Boosting
+
+### Stacking
+
+
 ## Recommender systems
+- [Recommender systems, Encyclopedia of Machine Learning](http://www.prem-melville.com/publications/recommender-systems-eml2010.pdf):
+  - Collaborative filtering (neighborhood-based & model-based)
+  - Content-based recommending
+  - Hybrid approaches
 
 ## Reproducible research
 - [mybinder.org](http://mybinder.org/), visualization Jupyter Notebooks
