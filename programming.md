@@ -6,11 +6,28 @@
 
 ### C
 - A Crash Course in C: Appendix A of [this book](http://hades.mech.northwestern.edu/images/e/e3/EmbeddedComputingMechatronicsSampleChapters.pdf) + [video lectures](https://www.youtube.com/playlist?list=PLggLP4f-rq02gmlePH-vQJ8PF6hyf08CN)
+
 ## Software design
 - [UML basics:The class diagram - An introduction to structure diagrams in UML 2](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html)
 
-## JIT compiling
-- [Numba architecture](http://numba.pydata.org/numba-doc/dev/developer/architecture.html)
+## Abstract data types
+Class of objects whose logical behavior is defined by a set of values and a set of operations
+- Container
+- List
+- Set
+- Multiset
+- Map
+- Multimap
+- Graph
+- Tree
+- Stack
+- Queue
+- Priority queue
+- Double-ended queue
+- Double-ended priority queue
+
+## Data structures
+Concrete representations of data (from the point of view of an implementer, not the user)
 
 ## Building
 ### Tools
@@ -20,6 +37,9 @@
 ### Educational resources
 - [Compiling, assembling and linking](https://www.youtube.com/watch?v=N2y6csonII4)
 - [Types of libraries, naming, resolution](https://en.wikipedia.org/wiki/Library_%28computing%29)
+
+### JIT compiling
+- [Numba architecture](http://numba.pydata.org/numba-doc/dev/developer/architecture.html)
 
 ### Dependency viewer 
 #### Executable files, object code, libraries
