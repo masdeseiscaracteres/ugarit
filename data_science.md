@@ -14,7 +14,7 @@
 - seaborn: Python, built on top of matplotlib
 - gadfly: Julia
 - ggplot2: R
-- Plotly.js: Javascript, built on top of D3.js, wrappers for Python (plotly.py), R (plotly.R) 
+- Plotly.js: Javascript, built on top of React.js, D3.js and WebGL, wrappers for Python (plotly.py), R (plotly.R) 
 - Vega: Javascript, wrappers for Python (Altair)
 - D3.js: Javascript
 
