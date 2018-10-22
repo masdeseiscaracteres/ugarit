@@ -9,6 +9,16 @@
 - [The Python Graph Gallery](https://python-graph-gallery.com/), Python
 - [D3.js gallery](https://github.com/d3/d3/wiki/Gallery), Javascript
 
+### Libraries
+- matplotlib: Python
+- seaborn: Python, built on top of matplotlib
+- gadfly: Julia
+- ggplot2: R
+- Plotly.js: Javascript, built on top of D3.js, wrappers for Python (plotly.py), R (plotly.R) 
+- Vega: Javascript, wrappers for Python (Altair)
+- D3.js: Javascript
+
+
 ## Distance metrics
 - [textdistance](https://github.com/orsinium/textdistance), Python package
 
