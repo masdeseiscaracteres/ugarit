@@ -56,3 +56,4 @@
   - [Interactive Brokers Calendar](https://www.interactivebrokers.com/calendar/), international holidays & expirations
   - [fxstreet economic calendar](https://www.fxstreet.com/economic-calendar)
   - [global-rates.com](http://www.global-rates.com/), up-to-date global interest rates
+  - [quantopian/trading_calendars](https://github.com/quantopian/trading_calendars), Python library of exchange calendars
