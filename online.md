@@ -33,6 +33,9 @@
 ## Screen capture
 - [mmngreco's list](https://gist.github.com/mmngreco/d57062bed0005ce245252eaef2846748#file-list_capture_resources-md)
 
+## Notifications
+- [notify.run](https://notify.run/), self-hosted notification center (free-online testing version also)
+
 ## Image editor
 ### Bitmaps
 - [Pixlr editor](https://pixlr.com/editor/)
