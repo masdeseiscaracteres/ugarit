@@ -10,6 +10,7 @@
 - [Oxford usage dictionary](https://en.oxforddictionaries.com/grammar/usage)
 - Style guides
   - [Chicago Manual of Style](http://www.libs.uga.edu/ref/chicagostyle.pdf)
+  - [MLA (Modern Language Association) Style](https://style.mla.org/)
   - [The basics of APA style: free tutorial](http://www.apastyle.org/learn/tutorials/basics-tutorial.aspx)
 - [Zotero style reference](https://www.zotero.org/styles), citation styles
 - [Telephone English](http://www.englishclub.com/speaking/telephone_language.htm)
