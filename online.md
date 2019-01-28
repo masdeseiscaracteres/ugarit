@@ -20,6 +20,9 @@
   - [Everware](http://everware.xyz)
   - [MyBinder](https://mybinder.org)
 
+## Git
+- [Git history editor](https://bokub.github.io/git-history-editor/)
+
 ## Markdown editor 
 - [StackEdit](https://stackedit-beta.herokuapp.com)
 
