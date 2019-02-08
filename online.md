@@ -54,6 +54,10 @@
 - https://www.reddit.com/r/web_design/comments/2v5ts0/ultimate_collection_of_free_stock_photos_websites/
 - [Unsplash](https://unsplash.com), free-to-use (even comercially) professional photos
 
+## Icons
+- [Devicon](http://konpa.github.io/devicon/), hot-linkable icons representing programming languages, designing & development tools
+- [Font-Awesome-PNG](https://github.com/delight-im/Font-Awesome-PNG), hot-linkable Font Awesome icons as PNG graphics in 6 colors and 8 sizes
+
 ## Logos
 - [Logonoid](http://logonoid.com/)
 
