@@ -61,6 +61,9 @@
 ## Logos
 - [Logonoid](http://logonoid.com/)
 
+## Fonts
+- [Google Fonts catalogue](https://fonts.google.com), web fonts and downloadable True Type fonts
+
 ## Color picker
 - http://www.paletton.com/
 - https://kuler.adobe.com/
