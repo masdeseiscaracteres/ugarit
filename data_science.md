@@ -81,3 +81,6 @@ Statistical hyphotesis testing
   - [data.mendeley.com](https://data.mendeley.com), free DOI
 - Embedded interactive Python/R interpreter
   - [Datacamp Light](https://github.com/datacamp/datacamp-light-wordpress)
+
+## Datasets
+- [Common Crawl](http://commoncrawl.org/), raw web page data, extracted metadata and text extractions, freely accesible/dowloadable from Amazon Public Datasets  
