@@ -71,8 +71,10 @@
 - http://www.colorsontheweb.com/colorwizard.asp
 - http://colorbrewer2.org/
 
-## LaTeX
-- [ShareLaTeX](https://www.sharelatex.com), free for non-collaborative work
+## Scientific writing
+- [Authorea](https://www.authorea.com), collaborative article editor, free for unlimited public documents
+### LaTeX
+- [Overleaf](https://www.overleaf.com), online LaTeX editor, free for non-collaborative work
 - [Detexify: handwritten LaTeX symbol recognition](http://detexify.kirelabs.org/classify.html)
 
 ## Math/calculators
