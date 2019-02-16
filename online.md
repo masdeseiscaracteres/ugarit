@@ -39,37 +39,44 @@
 ## Notifications
 - [notify.run](https://notify.run/), self-hosted notification center (free-online testing version also)
 
-## Image editor
-### Bitmaps
+## Design
+### Image editor
+#### Bitmaps
 - [Pixlr editor](https://pixlr.com/editor/)
-### Vector graphics
+#### Vector graphics
 - https://www.draw.io/
 ### Mockups
 - https://placeit.net/
 
-## GIFs
+### Collections
+#### GIFs
 - http://giphy.com
 
-## Stock photos
+#### Stock photos
 - https://www.reddit.com/r/web_design/comments/2v5ts0/ultimate_collection_of_free_stock_photos_websites/
 - [Unsplash](https://unsplash.com), free-to-use (even comercially) professional photos
 
-## Icons
+#### Icons
 - [Devicon](http://konpa.github.io/devicon/), hot-linkable icons representing programming languages, designing & development tools
 - [Font-Awesome-PNG](https://github.com/delight-im/Font-Awesome-PNG), hot-linkable Font Awesome icons as PNG graphics in 6 colors and 8 sizes
 
-## Logos
+#### Logos
 - [Logonoid](http://logonoid.com/)
 
-## Fonts
+#### Fonts
 - [Google Fonts catalogue](https://fonts.google.com), web fonts and downloadable True Type fonts
 
-## Color picker
+#### Color picker
 - http://www.paletton.com/
 - https://kuler.adobe.com/
 - http://www.perbang.dk/color+scheme/
 - http://www.colorsontheweb.com/colorwizard.asp
 - http://colorbrewer2.org/
+
+## Web
+### Archival
+- [WaybackMachine](https://archive.org/web/)
+- [WebRecorder.io](https://webrecorder.io)
 
 ## Scientific writing
 - [Authorea](https://www.authorea.com), collaborative article editor, free for unlimited public documents
