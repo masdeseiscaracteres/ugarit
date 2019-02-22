@@ -10,6 +10,8 @@
 - [chest](https://github.com/blaze/chest), memory-cached persistent file storage, custom serialization allowed 
 - [shove](https://bitbucket.org/lcrees/shove/src), custom cache and file storage, supports backend in an URI 
 - [cachey](https://github.com/dask/cachey)
+- [cacheout](https://github.com/dgilland/cacheout)
+- [zict](https://github.com/dask/zict)
 - [bplustree](https://github.com/NicolasLM/bplustree)
 - [klepto](https://github.com/uqfoundation/klepto)
 - Redis compatible
