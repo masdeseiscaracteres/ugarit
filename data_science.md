@@ -11,13 +11,19 @@
 - [Visual Vocabulary](https://gramener.github.io/visual-vocabulary-vega/), Vega edition, inspired in the Financial Times Visual Vocabulary poster
 
 ### Libraries
+#### Low-level
+Ideal for custom communication plots.
 - matplotlib: Python
+- Plotly.js: Javascript, built on top of React.js, D3.js and WebGL, wrappers for Python (plotly.py), R (plotly.R)
+- Vega: a visualization grammar in JSON, includes a Javascript runtine API and wrappers for Python (Altair)
+- D3.js: Javascript
+
+#### High-level
+Ideal for fast exploration plots.
 - seaborn: Python, built on top of matplotlib
 - gadfly: Julia
 - ggplot2: R
-- Plotly.js: Javascript, built on top of React.js, D3.js and WebGL, wrappers for Python (plotly.py), R (plotly.R) 
-- Vega: a visualization grammar in JSON, includes a Javascript runtine API and wrappers for Python (Altair)
-- D3.js: Javascript
+- [Plotly Express](https://plotly.github.io/plotly_express/)
 
 
 ## Distance metrics
