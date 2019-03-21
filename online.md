@@ -90,3 +90,8 @@
 ## Print-friendly
 - PrintFriendly.com bookmarklet
 - PrintWhatYouLike.com bookmarklet
+
+## File share/transfer
+- [Firefox Send](https://send.firefox.com)
+- [We transfer](https://wetransfer.com)
+
