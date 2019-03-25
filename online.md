@@ -59,6 +59,7 @@
 #### Icons
 - [Devicon](http://konpa.github.io/devicon/), hot-linkable icons representing programming languages, designing & development tools
 - [Font-Awesome-PNG](https://github.com/delight-im/Font-Awesome-PNG), hot-linkable Font Awesome icons as PNG graphics in 6 colors and 8 sizes
+- [MapIcons](https://mapicons.mapsmarker.com), icons representing points of interest in a map
 
 #### Logos
 - [Logonoid](http://logonoid.com/)
