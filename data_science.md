@@ -73,6 +73,8 @@ Statistical hyphotesis testing
 
 ### Stacking
 
+## Sampling
+- [Visualization of random sampling techniques](https://chi-feng.github.io/mcmc-demo/app.html), sample from an N-dimensional probability density function
 
 ## Recommender systems
 - [Recommender systems, Encyclopedia of Machine Learning](http://www.prem-melville.com/publications/recommender-systems-eml2010.pdf):
