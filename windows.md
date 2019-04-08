@@ -20,3 +20,7 @@
   ```
   wmic cpu
   ```
+- How to know the details of a user behind a domain username
+  ```
+  net user <USERNAME> /DOMAIN
+  ```
