@@ -25,6 +25,7 @@
 
 ## Markdown editor 
 - [StackEdit](https://stackedit-beta.herokuapp.com)
+- [CodiMD](https://demo.codimd.org/), collaborative Markdown editor
 
 ## JSON editor
 - http://jeremydorn.com/json-editor/, includes schema-following
