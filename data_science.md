@@ -90,7 +90,10 @@ Statistical hyphotesis testing
   - [data.mendeley.com](https://data.mendeley.com), free DOI
 - Embedded interactive Python/R interpreter
   - [Datacamp Light](https://github.com/datacamp/datacamp-light-wordpress)
-
+- Online notebooks:
+  - [Iodide](https://alpha.iodide.io/), notebooks featuring HTML, markdown, JS and Python in the browser (yes, Python in the browser)
+  - [Google Colaboratory](https://colab.research.google.com), Jupyter notebook execution on Google Cloud servers
+  
 ## Datasets
 - [Common Crawl](http://commoncrawl.org/), raw web page data, extracted metadata and text extractions, freely accesible/dowloadable from Amazon Public Datasets  
 - [Global Database of Events, Language, and Tone (GDELT) project](https://www.gdeltproject.org/), a realtime database of global society, freely accesible using Google BigQuery
