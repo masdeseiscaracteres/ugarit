@@ -10,3 +10,4 @@ by Kas Thomas](http://preserve.mactech.com/articles/mactech/Vol.15/15.09/PDFIntr
 - [xpdf-tools](https://www.xpdfreader.com/), open source project including a PDF viewer along with a collection of command line tools which perform various functions on PDF files: **pdftotext**, pdftops, pdftoppm, pdftopng, pdftohtml, **pdfinfo**, **pdfimages**, **pdffonts**, pdfdetach
 - libpoppler, Poppler is a PDF rendering library based on the xpdf-3.0 code base.
 - pdftk
+- [PDFBox](https://pdfbox.apache.org/), extract texts, split & merge, fill forms, preflight, print, save as image, creation, signing. Used as backend by Apache Tika.
