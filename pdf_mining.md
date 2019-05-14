@@ -11,3 +11,5 @@ by Kas Thomas](http://preserve.mactech.com/articles/mactech/Vol.15/15.09/PDFIntr
 - libpoppler, Poppler is a PDF rendering library based on the xpdf-3.0 code base.
 - pdftk
 - [PDFBox](https://pdfbox.apache.org/), extract texts, split & merge, fill forms, preflight, print, save as image, creation, signing. Used as backend by Apache Tika.
+- PyMuPDF
+- PyPDF2
