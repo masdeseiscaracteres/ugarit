@@ -1,8 +1,8 @@
 # PDF file mining
 ## Educational
-- [Hand-coded PDF tutorial](https://brendanzagaeski.appspot.com/0005.html), basic introduction to the PDF format and link to the specification
 - [Portable Document Format: An Introduction for Programmers
-by Kas Thomas](http://preserve.mactech.com/articles/mactech/Vol.15/15.09/PDFIntro/index.html), the piece of history that inspired the above
+by Kas Thomas](http://preserve.mactech.com/articles/mactech/Vol.15/15.09/PDFIntro/index.html), a piece of history introducing the technical details of the PDF format
+- [Hand-coded PDF tutorial](https://brendanzagaeski.appspot.com/0005.html), basic introduction to the PDF format inspired by the above and link to the [PDF reference specification](https://www.adobe.com/devnet/pdf/pdf_reference_archive.html)
 
 ## Tools
 - [qpdf](http://qpdf.sourceforge.net/), program and C++ library to perform content-preserving transformations to PDFs: merge, split, rotate, decompress, decrypt
