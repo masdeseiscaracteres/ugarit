@@ -13,3 +13,4 @@ by Kas Thomas](http://preserve.mactech.com/articles/mactech/Vol.15/15.09/PDFIntr
 - [PDFBox](https://pdfbox.apache.org/), extract texts, split & merge, fill forms, preflight, print, save as image, creation, signing. Used as backend by Apache Tika.
 - PyMuPDF
 - PyPDF2
+- pdfminer
