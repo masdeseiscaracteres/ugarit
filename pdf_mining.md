@@ -14,3 +14,4 @@ by Kas Thomas](http://preserve.mactech.com/articles/mactech/Vol.15/15.09/PDFIntr
 - PyMuPDF
 - PyPDF2
 - pdfminer
+- [PDFxStream](https://www.snowtide.com/), commercial library featuring text extraction, image extraction, form reading and filling and low level PDF handling capabilities.
