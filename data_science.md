@@ -6,7 +6,7 @@
 
 ### Galleries
 - [Data Viz Project](http://datavizproject.com/function/comparison/), language agnostic
-- [The Python Graph Gallery](https://python-graph-gallery.com/), Python
+- [from Data to Viz](https://www.data-to-viz.com/), taxonomy of graph types, refers to Python, R, and D3.js graph galleries.
 - [D3.js gallery](https://github.com/d3/d3/wiki/Gallery), Javascript
 - [Visual Vocabulary](https://gramener.github.io/visual-vocabulary-vega/), Vega edition, inspired in the Financial Times Visual Vocabulary poster
 
