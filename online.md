@@ -50,6 +50,9 @@
 ### Mockups
 - https://placeit.net/
 
+### Fonts
+- [FontDrop!](https://fontdrop.info/), font visualizer including technical details
+
 ### Collections
 #### GIFs
 - http://giphy.com
