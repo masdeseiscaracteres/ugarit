@@ -11,6 +11,8 @@
   - Proprietary codes
     - [Bloomberg Exchange Code to MIC mapping](https://openfigi.com/assets/local/exchange-code-mic-mapping.xls)
     - [Yahoo market identifiers & data providers](https://help.yahoo.com/kb/SLN2310.html)
+  - [BIC-to-LEI mapping](https://www.gleif.org/en/lei-data/lei-mapping/download-bic-to-lei-relationship-files)
+  - [ISIN-to-LEI mapping](https://www.gleif.org/en/lei-data/lei-mapping/download-isin-to-lei-relationship-files)
 - Instrument identifiers
   - [ANNA ISIN (ISO 6166) lookup service](http://www.anna-web.org/anna-launches-free-international-isin-lookup-service/)
   - [CFI: Classification of Financial Instruments (ISO 10962)](http://www.anna-web.org/standards/cfi-iso-10962/)
