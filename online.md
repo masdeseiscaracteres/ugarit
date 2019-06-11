@@ -43,6 +43,8 @@
 
 ## Design
 ### Image editor
+#### Bitmaps and vector graphics
+- [photopea](https://www.photopea.com)
 #### Bitmaps
 - [Pixlr editor](https://pixlr.com/editor/)
 #### Vector graphics
