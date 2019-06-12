@@ -1,0 +1,1 @@
+- [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/), explains Python's magic methods and when they are invoked. 
