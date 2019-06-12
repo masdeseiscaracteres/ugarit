@@ -14,6 +14,7 @@
 - [zict](https://github.com/dask/zict)
 - [bplustree](https://github.com/NicolasLM/bplustree)
 - [klepto](https://github.com/uqfoundation/klepto)
+- [lmdb](https://lmdb.readthedocs.io/en/release/), Python binding for the LMDB ‘Lightning’ Database
 - Redis compatible
   - [pickleDB](https://pythonhosted.org/pickleDB/), Redis inspired file storage
   - [rlite](https://github.com/seppo0010/rlite-py), rlite is to Redis what SQLite is to SQL databases, in-memory or in-file storage
