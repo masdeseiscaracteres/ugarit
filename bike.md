@@ -9,6 +9,9 @@
 ### Courses/Workshop
 - [MARES Madrid](https://maresmadrid.es/agenda/), free bicycle maintenance workshops in Madrid
 
+## Part monographs
+- [Square Taper Bottom bracket](https://www.firstcomponents.com/square-taper-bottom-bracket/)
+
 ## Shops
 ### Component shops
 - [BiciClasica.com](https://www.biciclasica.com), parts for vintage bikes
