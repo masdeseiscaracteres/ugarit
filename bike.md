@@ -7,7 +7,7 @@
 - [ParkTool blog](https://www.parktool.com/blog/repair-help)
 
 ### Courses/Workshop
-- [MaresMadrid](https://maresmadrid.es/agenda/), free bicycle maintenance workshops in Madrid
+- [MARES Madrid](https://maresmadrid.es/agenda/), free bicycle maintenance workshops in Madrid
 
 ## Shops
 ### Component shops
