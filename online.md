@@ -36,6 +36,7 @@
 - [World clock, meeting planner, etc.](https://www.timeanddate.com/)
 
 ## Screen capture
+- [recordscreen.io](https://recordscreen.io/), record screen (WebM video format) optionally including audio and webcam
 - [mmngreco's list](https://gist.github.com/mmngreco/d57062bed0005ce245252eaef2846748#file-list_capture_resources-md)
 
 ## Notifications
