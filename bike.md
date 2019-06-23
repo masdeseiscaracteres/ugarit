@@ -21,6 +21,7 @@
 - [St John Street (SJS) Cycles](https://www.sjscycles.co.uk)
 - [ChainReactionCycles](https://www.chainreactioncycles.com)
 - [Ciclos Otero / Lubricantes y aceites](https://oterociclos.com/epages/8a2d0e22-70db-4b0a-b045-43683bb6e8b1.sf/es_ES/?ObjectPath=/Shops/8a2d0e22-70db-4b0a-b045-43683bb6e8b1/Categories/Accesorios/Lubricantes)
+- [Bicicletas Clásicas Leo](http://bicicletasclasicasleo.com), tienda y restauración de bicicletas clásicas y accesorios de cuero. Cursos de restauración?
 
 ### Tools
 - [ParkTool](https://www.parktool.com/)
