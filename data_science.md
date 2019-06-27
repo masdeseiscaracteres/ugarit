@@ -30,6 +30,8 @@ Ideal for fast exploration plots.
 - ggplot2: R
 - [Plotly Express](https://plotly.github.io/plotly_express/)
 
+##### Dashboards
+- [Panel](https://panel.pyviz.org/)
 
 ## Distance metrics
 - [textdistance](https://github.com/orsinium/textdistance), Python package
