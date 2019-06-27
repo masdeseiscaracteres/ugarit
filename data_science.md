@@ -32,6 +32,7 @@ Ideal for fast exploration plots.
 
 ##### Dashboards
 - [Panel](https://panel.pyviz.org/)
+- [Voilà](https://github.com/QuantStack/voila), turns Jupyter notebooks into standalone web applications
 
 ## Distance metrics
 - [textdistance](https://github.com/orsinium/textdistance), Python package
