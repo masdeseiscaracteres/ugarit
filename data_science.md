@@ -1,4 +1,9 @@
 # Data science
+## Glossary
+- Active learning: special case of machine learning in which a learning algorithm is able to interactively query the user to obtain the desired outputs at new data points
+- Transfer learning:
+- Federated learning: machine learning setting where the goal is to train a high-quality centralized model with training data distributed over a large number of clients each with unreliable and relatively slow network connections
+
 ## Visualization
 ### Books
 - [The Visual Display of Quantitative Information by Edward Tufte](https://books.google.es/books/about/The_visual_display_of_quantitative_infor.html?id=tWpHAAAAMAAJ)
