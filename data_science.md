@@ -1,7 +1,7 @@
 # Data science
 ## Glossary
 - Active learning: special case of machine learning in which a learning algorithm is able to interactively query the user to obtain the desired outputs at new data points
-- Transfer learning:
+- Transfer learning: machine learning technique where a model trained on one task is re-purposed on a second related task
 - Federated learning: machine learning setting where the goal is to train a high-quality centralized model with training data distributed over a large number of clients each with unreliable and relatively slow network connections
 
 ## Visualization
