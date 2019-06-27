@@ -31,5 +31,6 @@
 
 
 
-
+# Bike locks
+- [Best bike lock 2019: D-locks, foldable locks and chain locks rated](https://www.bikeradar.com/advice/buyers-guides/best-bike-lock/)
 
