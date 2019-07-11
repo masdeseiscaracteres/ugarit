@@ -6,5 +6,5 @@
 
 
 ## Libraries
-- [TA-lib]()
-- [Tulip Indicators](https://tulipindicators.org/), open-source technical analysis indicator library (multiple wrappers available)
+- [TA-lib](https://ta-lib.org/), open-source technical analysis indicator library (multiple wrappers available)
+- [Tulip Indicators](https://tulipindicators.org/), modern replacement for TA-lib
