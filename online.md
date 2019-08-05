@@ -34,6 +34,7 @@
 ## Date & time
 - [RRule editor](https://jakubroztocil.github.io/rrule/), RFC2445 rrules
 - [World clock, meeting planner, etc.](https://www.timeanddate.com/)
+- [Cron maker](http://www.cronmaker.com), cron expression builder (includes REST API) 
 
 ## Screen capture
 - [asciinema.org](https://asciinema.org), record and share copy-pasteable terminal sessions
