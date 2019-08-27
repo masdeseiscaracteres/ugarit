@@ -8,11 +8,11 @@
 ## Dimensional model: focuses on the business effect of a sets of transactions
 
 ### Concepts
-  - Fact: represents a measurement.
+  - **Fact**: represents a measurement.
     - Tables usually contain *numeric* data and foreign keys to dimensional data where descriptive information is kept and are *tall*.
     - In a data cube, facts are values corresponding to the coordinates.
-  - Dimension: reference information that gives context to the facts.
-    - Tables usually contain *categorical* data and are *fat*. Dimensions can be organized hierarchically by adding attributes (columns) to the dimension table. 
+  - **Dimension**: reference information that gives context to the facts.
+    - Tables usually contain *categorical* data and are *fat*. Dimensions can be organized hierarchically by adding **attributes** (columns) to the dimension table. 
     - In a data cube, dimensions are the coordinates in a multi-dimensional cube.
 
 ### Advantages
