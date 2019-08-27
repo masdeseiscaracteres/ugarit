@@ -19,5 +19,5 @@
 - Faster and easier to understand for business people and needs.
     
 ### Disadvantages
-- Data integrity not enforced by the model.
+- Data integrity not enforced by the model. Denormalization introduces redundancies which, if handled uncarefully, can cause inconsistencies.
   
