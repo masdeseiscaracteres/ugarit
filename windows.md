@@ -15,7 +15,6 @@
   ```
   net user USERNAME /domain
   ```
-- [How are Word documents locked? (and how to unlock them)](https://support.microsoft.com/en-us/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 - Obtain information about processors, CPU, cores, etc.
   ```
   wmic cpu
@@ -24,3 +23,8 @@
   ```
   net user <USERNAME> /DOMAIN
   ```
+# Common questions
+
+- [How are Word documents locked? (and how to unlock them)](https://support.microsoft.com/en-us/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+
+- [Windows proxy settings explained](https://securelink.net/en-be/insights/windows-proxy-settings-explained/), explanation of the 3 major ways to use proxy servers in Windows: per-app settings, WinINET (the one used by Internet browsers) and WinHTTP
