@@ -21,3 +21,6 @@
 ### Disadvantages
 - Data integrity not enforced by the model. Denormalization introduces redundancies which, if handled uncarefully, can cause inconsistencies.
   
+# Concepts
+- [Surrogate keys](https://en.wikipedia.org/wiki/Surrogate_key): keys in a database table that are just made-up values with no real-life meaning (usually autoincrement columns).
+- [Natural keys](https://en.wikipedia.org/wiki/Natural_key): formed of attributes that exist and are used in the external world outside the database.
