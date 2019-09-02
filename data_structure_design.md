@@ -6,6 +6,7 @@
 ## Relational (a.k.a. normalized) model: focuses on the business transactions
 
 ## Dimensional model: focuses on the business effect of a sets of transactions
+Authoritative guide: [The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, by Ralph Kimball and Margy Ross](http://www.essai.rnu.tn/Ebook/Informatique/The%20Data%20Warehouse%20Toolkit,%203rd%20Edition.pdf)
 
 ### Concepts
   - **Fact**: represents a measurement.
