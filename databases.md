@@ -7,3 +7,6 @@
 - [DBeaver](https://dbeaver.io/), universal SQL client and database administration tool
 - [SchemaCrawler](https://www.schemacrawler.com/), free database schema discovery and graph generation by introspection into foreign keys relationship
 - [dbdiagram.io](https://dbdiagram.io/), draw entity-relationship diagrams (ERD), painlessly
+
+## Data modeling
+- [ERD notation](https://www.omg.org/retail-depository/arts-odm-73/data_modeling_methodology_and_.htm)
