@@ -11,7 +11,7 @@
 
 ## Topological sort
 - Kahn's algorithm
-- Depth First Search:
+- Depth First Search (DFS)
 
 ## Strongly connected components
 - Tarjan's algorithm
