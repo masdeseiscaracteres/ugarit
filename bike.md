@@ -12,6 +12,7 @@
 ## Part monographs
 - [Square Taper Bottom bracket](https://www.firstcomponents.com/square-taper-bottom-bracket/)
 - [Handlebar dimensions standards](https://bike.bikegremlin.com/3784/bicycle-handlebar-dimension-standards/)
+- [WhatBars](http://whatbars.com/), handlebar comparison tool
 - [BikeInsights](https://bikeinsights.com/), bike geometry explained
 
 ## Shops
