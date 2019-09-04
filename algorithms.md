@@ -3,6 +3,7 @@
 - [voting](https://github.com/crflynn/voting): Python package for apportionment 
 
 # Graphs
+See https://algs4.cs.princeton.edu/cheatsheet/ for more info
 ## Connectivity
 - Single-pair connectivity:
   - Breadth First Search (BFS)
