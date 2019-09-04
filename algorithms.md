@@ -7,14 +7,15 @@
 - Single-pair connectivity:
   - Breadth First Search (BFS)
   - Depth First Search (DFS)
+- Strongly connected components:
+  - Tarjan's algorithm
+  
 ## Traversal
+- To-Do
 
 ## Topological sort
 - Kahn's algorithm
 - Depth First Search (DFS)
-
-## Strongly connected components
-- Tarjan's algorithm
 
 ## Shortest path
 - Single-pair shortest path problem:
