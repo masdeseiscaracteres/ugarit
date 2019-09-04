@@ -2,6 +2,32 @@
 - AMS article on apportionment: [part 1](http://www.ams.org/publicoutreach/feature-column/fcarc-apportion1) & [part 2](http://www.ams.org/publicoutreach/feature-column/fcarc-apportionii1)
 - [voting](https://github.com/crflynn/voting): Python package for apportionment 
 
+# Graphs
+## Connectivity
+- Single-pair connectivity:
+  - Breadth First Search (BFS)
+  - Depth First Search (DFS)
+## Traversal
+
+## Topological sort
+- Kahn's algorithm
+- Depth First Search:
+
+## Strongly connected components
+- Tarjan's algorithm
+
+## Shortest path
+- Single-pair shortest path problem:
+  - A* search algorithm: heuristics to try to speed up the search.
+- Single-source shortest path problem (equivalently, single-destination shortest path problem): 
+  - Dijkstra's algorithm: non-negative edge weight
+  - Bellman-Ford algorithm: edge weights may be negative
+- All-pairs shortest path problem:
+  - Floyd–Warshall algorithm
+  - Johnson's algorithm: faster than Floyd-Warshall for sparse graphs
+- Shortest stochastic path problem:
+  - Viterbi algorithm
+
 # Optimization
 
 ## Modelling languages
