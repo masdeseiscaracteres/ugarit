@@ -10,10 +10,15 @@
 - [MARES Madrid](https://maresmadrid.es/agenda/), free bicycle maintenance workshops in Madrid
 
 ## Part monographs
-- [Square Taper Bottom bracket](https://www.firstcomponents.com/square-taper-bottom-bracket/)
-- [Handlebar dimensions standards](https://bike.bikegremlin.com/3784/bicycle-handlebar-dimension-standards/)
-- [WhatBars](http://whatbars.com/), handlebar comparison tool
-- [BikeInsights](https://bikeinsights.com/), bike geometry explained
+- Bottom bracket
+  - [Square Taper Bottom bracket](https://www.firstcomponents.com/square-taper-bottom-bracket/)
+- Handle bar
+  - [Handlebar dimensions standards](https://bike.bikegremlin.com/3784/bicycle-handlebar-dimension-standards/)
+  - [WhatBars](http://whatbars.com/), handlebar comparison tool
+- Frame
+  - [BikeInsights](https://bikeinsights.com/), bike geometry explained
+- Front derailleur
+  - [Front derailleur compatibility list](https://bike.bikegremlin.com/1297/bicycle-front-derailleur-compatibility/)
 
 ## Shops
 ### Component shops
