@@ -95,6 +95,8 @@ Statistical hyphotesis testing
   - Content-based RS: item descriptors are used to predict the rating a user would likely assign to an item
     > *Advantages/Disadvantages*: low diversity of recommended items, ineffective for new users/good for new unrated items
   - Knowledge-based RS: useful if items not purchased very often. Give recommendations based on the similarity of a user requirements and item attributes
+    - Constraint-based RS: user provides a sets of constraints within which desirable products should fall
+    - Case-based RS: user provides a sets of attributes a desirable product should have
   - Hybrid approaches
   
   
