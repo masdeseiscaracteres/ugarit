@@ -84,11 +84,18 @@ Statistical hyphotesis testing
 ## Sampling
 - [Visualization of random sampling techniques](https://chi-feng.github.io/mcmc-demo/app.html), sample from an N-dimensional probability density function
 
-## Recommender systems
+## Recommender systems (RS)
 - [Recommender systems, Encyclopedia of Machine Learning](http://www.prem-melville.com/publications/recommender-systems-eml2010.pdf):
-  - Collaborative filtering (neighborhood-based & model-based)
-  - Content-based recommending
+  - Collaborative filtering (CF): similarity with other user ratings used to assign ratings
+    - Memory-based (a.k.a. Neighborhood-based)
+      - User-based: similarities between the rows of the ratings matrix
+      - Item-based: similarities between the columns of the ratings matrix
+    - Model-based
+  - Content-based RS: item descriptors are used to predict the rating a user would likely assign to an item
+    - Advantages/Disadvantages: low diversity of recommended items, ineffective for new users/good for new unrated items
   - Hybrid approaches
+  
+  
 
 ## Reproducible research
 - [mybinder.org](http://mybinder.org/), visualization Jupyter Notebooks
