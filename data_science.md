@@ -94,6 +94,7 @@ Statistical hyphotesis testing
       > *Examples:* latent factor models, matrix factorization
   - Content-based RS: item descriptors are used to predict the rating a user would likely assign to an item
     > *Advantages/Disadvantages*: low diversity of recommended items, ineffective for new users/good for new unrated items
+  - Knowledge-based RS: useful if items not purchased very often. Give recommendations based on the similarity of a user requirements and item attributes
   - Hybrid approaches
   
   
