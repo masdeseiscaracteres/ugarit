@@ -91,8 +91,9 @@ Statistical hyphotesis testing
       - User-based: similarities between the rows of the ratings matrix
       - Item-based: similarities between the columns of the ratings matrix
     - Model-based
+      > *Examples:* latent factor models, matrix factorization
   - Content-based RS: item descriptors are used to predict the rating a user would likely assign to an item
-    - Advantages/Disadvantages: low diversity of recommended items, ineffective for new users/good for new unrated items
+    > *Advantages/Disadvantages*: low diversity of recommended items, ineffective for new users/good for new unrated items
   - Hybrid approaches
   
   
