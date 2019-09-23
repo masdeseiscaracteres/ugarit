@@ -1,8 +1,15 @@
 # PDF file mining
 ## Educational
+### Light reads
 - [Portable Document Format: An Introduction for Programmers
 by Kas Thomas](http://preserve.mactech.com/articles/mactech/Vol.15/15.09/PDFIntro/index.html), a piece of history introducing the technical details of the PDF format
-- [Hand-coded PDF tutorial](https://brendanzagaeski.appspot.com/0005.html), basic introduction to the PDF format inspired by the above and link to the [PDF reference specification](https://www.adobe.com/devnet/pdf/pdf_reference_archive.html)
+- [Hand-coded PDF tutorial](https://brendanzagaeski.appspot.com/0005.html), basic introduction to the PDF format inspired by the above
+- [Notes on the structure of PDF files](https://shreevatsa.github.io/site/pdf-structure.html), and how to convert a PDF file to a nice-looking text file with `mutool`and `qpdf`
+- [Inside the PDF File Format](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art019), clear step-by-step introduction to a PDF file structure
+
+### Heavy reads
+- [PDF reference specification](https://www.adobe.com/devnet/pdf/pdf_reference_archive.html) ([nice-looking version](https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/pdf_reference_archives/PDFReference.pdf))
+
 
 ## Tools
 ### Online tools
