@@ -8,8 +8,8 @@ by Kas Thomas](http://preserve.mactech.com/articles/mactech/Vol.15/15.09/PDFIntr
 - [Inside the PDF File Format](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art019), clear step-by-step introduction to a PDF file structure
 
 ### Heavy reads
-- [PDF reference specification](https://www.adobe.com/devnet/pdf/pdf_reference_archive.html) ([nice-looking version](https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/pdf_reference_archives/PDFReference.pdf))
-
+- [Adobe PDF Reference site](https://www.adobe.com/devnet/pdf/pdf_reference.html)
+  - [PDF Reference, version 1.7](https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdf_reference_archive/pdf_reference_1-7.pdf)
 
 ## Tools
 ### Online tools
