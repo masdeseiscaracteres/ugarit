@@ -46,7 +46,7 @@
     - [FundsDLT](https://www.fundsdlt.net/)
     - [FundsLibrary.co.uk](https://www.fundslibrary.co.uk/FundsLibrary.DataApi.Web/)
     - [FundInfo Datahub](https://datahub.fundinfo.com/)
-    - [European Fund Classification (EFC)](https://www.efama.org/SitePages/EFCF.aspx), [interactive viewer](https://efama.gws.fcnws.com/EFC.html)
+    - [European Fund Classification (EFC)](https://www.efama.org/SitePages/EFCF.aspx): official site and download links. Includes a [viewer](https://efama.gws.fcnws.com/EFC.html)
   - Stocks
     - [Yahoo finance screener](https://finance.yahoo.com/screener)
     - [Simply Wall St](https://simplywall.st/)
