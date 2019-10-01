@@ -31,6 +31,15 @@
 - [Bicicletas Clásicas Leo](http://bicicletasclasicasleo.com), tienda y restauración de bicicletas clásicas y accesorios de cuero. Cursos de restauración?
 - [Ciclos La Universal](https://cicloslauniversal.com/), componentes bicicleta clásica
 
+#### Special components
+- [Dymoece](https://www.dymoece.com/), lots of cockpit accesories adapters
+- [ProblemSolversBike](https://problemsolversbike.com), custom mostly-CNC'ed parts
+- [TOGS](https://togs.com), Thum-Over-Grip System
+- [Trickstuff](https://trickstuff.de/)
+- [Hope](https://www.hopetech.com), Hope V-Twin mechanical-to-hydraulic disc brake converter
+- [TRP](https://trpcycling.com/), Hylex Hy/Rd mechanical-hydraulic disc brakes, TRP parabox mechanical-to-hydraulic converter
+- [Gevenalle](https://www.gevenalle.com), cyclocross, gravel and touring brifters
+
 ### Hardware store
 - [RationalStock](https://www.rationalstock.es/), tornillos, tuercas, herramientas, etc.
 
