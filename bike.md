@@ -8,6 +8,7 @@
 
 ### Components Mix and Match
 - [Hubbub's mod, the original Shimergo solution](https://artispin.wordpress.com/hubbubs-original-shimergo-solution/)
+- [Gear-shifting dimensions (wikibook)](https://en.wikibooks.org/wiki/Bicycles/Maintenance_and_Repair/Gear-changing_Dimensions)
 
 ### Courses/Workshop
 - [MARES Madrid](https://maresmadrid.es/agenda/), free bicycle maintenance workshops in Madrid
