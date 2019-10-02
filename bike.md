@@ -6,6 +6,9 @@
 - [Mundo Mammoth - Youtube Channel](https://www.youtube.com/channel/UC0eYrD6sRoLBvq_c4Jri-0A)
 - [ParkTool blog](https://www.parktool.com/blog/repair-help)
 
+### Components Mix and Match
+- [Hubbub's mod, the original Shimergo solution](https://artispin.wordpress.com/hubbubs-original-shimergo-solution/)
+
 ### Courses/Workshop
 - [MARES Madrid](https://maresmadrid.es/agenda/), free bicycle maintenance workshops in Madrid
 
