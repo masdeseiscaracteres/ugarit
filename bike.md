@@ -47,6 +47,7 @@
 - [TI Cycles](https://www.ticycles.com/), custom CNC'ed parts and other accessories
 - [WolfTooth](https://www.wolftoothcomponents.com/), Roadlink: adapter allowing larger cassette ranges
 - [Growtac](http://growtac.com), Equal-Pulley: adapt Campagnolo brifters to Shimano derailleurs/cassettes
+- [Fórmula](https://www.rideformula.com/), Speedlock: hydraulic brake hose quick connector (hydraulic coupler)
 
 ### Hardware store
 - [RationalStock](https://www.rationalstock.es/), tornillos, tuercas, herramientas, etc.
