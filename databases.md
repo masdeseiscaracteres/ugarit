@@ -10,3 +10,7 @@
 
 ## Data modeling
 - [ERD notation](https://www.omg.org/retail-depository/arts-odm-73/data_modeling_methodology_and_.htm)
+
+## Education
+### Relation algebra
+- [Retrieving data using SQL, MOOC @ OpenClassrooms](https://openclassrooms.com/en/courses/2071486-retrieve-data-using-sql): SQL Selects from a relation algebra perspective
