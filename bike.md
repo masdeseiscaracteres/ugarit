@@ -40,8 +40,6 @@
 - [ProblemSolversBike](https://problemsolversbike.com), custom mostly-CNC'ed parts
 - [TOGS](https://togs.com), Thum-Over-Grip System
 - [Trickstuff](https://trickstuff.de/)
-- [Hope](https://www.hopetech.com), Hope V-Twin mechanical-to-hydraulic disc brake converter
-- [TRP](https://trpcycling.com/), Hylex Hy/Rd mechanical-hydraulic disc brakes, TRP parabox mechanical-to-hydraulic converter
 - [Gevenalle](https://www.gevenalle.com), cyclocross, gravel and touring brifters
 - [JTekEngineering](http://www.jtekengineering.com), ShiftMate series: ratio-changing pulleys for mating road and MTB or different manufacturers shifters/derailleurs
 - [TI Cycles](https://www.ticycles.com/), custom CNC'ed parts and other accessories
@@ -49,6 +47,14 @@
 - [Growtac](http://growtac.com), Equal-Pulley: adapt Campagnolo brifters to Shimano derailleurs/cassettes
 - [Formula](https://www.rideformula.com/), Speedlock: hydraulic brake hose quick connector (hydraulic coupler)
 - [ASSolutions](https://www.assolutions.ca/), adapter for mounting a flat mount caliper on a post mount frame or fork.
+
+##### Hydro-mechanical brakes
+- [Hope](https://www.hopetech.com), Hope V-Twin mechanical-to-hydraulic disc brake converter
+- [TRP](https://trpcycling.com/), Hylex Hy/Rd mechanical-hydraulic disc brakes, TRP parabox mechanical-to-hydraulic converter
+- [Giant Conduct](https://www.giantbikespares.com/Giant-Conduct-Hydraulic-Disc-Brakes-Master-Cylinder/product_detail/3-43092), stem front converter
+- Juin Tech R1, hydro-mechanical calipers
+- Yokozuna Motoko, hydro-mechanical calipers + Reaction compressionless housing
+- TRP Hy/Road, hydro-mechanical calipers
 
 ### Hardware store
 - [RationalStock](https://www.rationalstock.es/), tornillos, tuercas, herramientas, etc.
