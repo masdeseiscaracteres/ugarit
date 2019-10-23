@@ -30,6 +30,15 @@ See https://algs4.cs.princeton.edu/cheatsheet/ for more info
 - Shortest stochastic path problem:
   - Viterbi algorithm
 
+## Covering / Assignment
+- Minimum set cover
+- Minimum edge cover
+- Hitting problem
+- Perfect matching existence
+- Maximum cardinality matching
+- Maximum weight matching
+
+
 # Optimization
 
 ## Modelling languages
@@ -38,6 +47,7 @@ See https://algs4.cs.princeton.edu/cheatsheet/ for more info
 - [YALMIP (Matlab)](https://yalmip.github.io/)
 - [JuMP.jl](http://www.juliaopt.org/JuMP.jl/latest/)
 - [Picos (Python)](http://picos.zib.de/index.html)
+- [Google's OR-Tools](https://developers.google.com/optimization), optimization suite: constraint optimization, integer optimization, routing, network flow, assignment 
 
 ## Solvers
 - [List of solvers for CVX](http://cvxr.com/cvx/doc/solver.html)
