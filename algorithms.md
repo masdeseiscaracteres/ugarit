@@ -64,6 +64,7 @@ See https://algs4.cs.princeton.edu/cheatsheet/ for more info
 ## Tricks & problem conversions
 - [MOSEK Modeling Cookbook](https://docs.mosek.com/modeling-cookbook/index.html)
 - Specific tricks:
+  - Removing integrality constraints: [linear program relaxation and integrality gap](https://en.wikipedia.org/wiki/Linear_programming_relaxation)
   - [Convex QCQP to SOCP](https://math.stackexchange.com/questions/1330896/can-a-convex-qcqp-with-an-additional-linear-constraint-be-converted-into-a-socp)
   - [Convex QCQP to SDP](https://mathoverflow.net/questions/58383/complexity-of-convex-quadratically-constrained-quadratic-programming-qcqp) 
   - [Least Absolute Deviations to LP](https://en.wikipedia.org/wiki/Least_absolute_deviations#Solving_using_linear_programming)
