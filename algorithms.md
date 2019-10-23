@@ -31,7 +31,7 @@ See https://algs4.cs.princeton.edu/cheatsheet/ for more info
   - Viterbi algorithm
 
 ## Covering / Assignment
-- Minimum set cover
+- [(Minimum cardinality) set cover](https://en.wikipedia.org/wiki/Set_cover_problem): [more](https://jeremykun.com/2015/05/04/the-many-faces-of-set-cover/)
 - Minimum edge cover
 - Hitting problem
 - Perfect matching existence
