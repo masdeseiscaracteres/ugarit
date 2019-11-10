@@ -40,6 +40,9 @@ See https://algs4.cs.princeton.edu/cheatsheet/ for more info
 
 
 # Optimization
+## Learning
+- [Lagrange multipliers](http://www.onmyphd.com/?p=lagrange.multipliers), simple mathematical/graphical justification of the Lagrange multipliers method
+- [Karush-Kuhn-Tucker (KKT) conditions](http://www.onmyphd.com/?p=kkt.karush.kuhn.tucker), simple mathematical/graphical justification of the KKT conditions and how to deal with inequality constraints in an optimization problem
 
 ## Modelling languages
 - [CVX (Matlab)](http://cvxr.com/cvx/), [CVXPY (Python)](http://www.cvxpy.org/en/latest/), [Convex.jl (Julia)](https://convexjl.readthedocs.io/en/latest/)
