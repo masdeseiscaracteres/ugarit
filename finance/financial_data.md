@@ -61,3 +61,4 @@
   - [fxstreet economic calendar](https://www.fxstreet.com/economic-calendar)
   - [global-rates.com](http://www.global-rates.com/), up-to-date global interest rates
   - [quantopian/trading_calendars](https://github.com/quantopian/trading_calendars), Python library of exchange calendars
+  - [peopledoc/workalendar](https://peopledoc.github.io/workalendar/), Python library of calendars by geographical area: nice docs, extensible design
