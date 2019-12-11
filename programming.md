@@ -12,6 +12,7 @@
 
 ## Software design
 - [UML basics:The class diagram - An introduction to structure diagrams in UML 2](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html)
+- [Design patterns, refactoring.guru](https://refactoring.guru/design-patterns) 
 
 ## Abstract data types
 Class of objects whose logical behavior is defined by a set of values and a set of operations
