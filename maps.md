@@ -7,6 +7,7 @@
 - [Overpass turbo](http://overpass-turbo.eu/), online tool to query the Open Street Maps API. Provides shareable links. 
 - [Strava Global Heat Map](https://www.strava.com/heatmap#16.29/-3.62618/40.53345/hot/all), filter by sport. Integration with iD Open Street Map editor [here](http://strava.github.io/iD/)
 - [Vertirama](http://www.vertirama.com/), Spain seen from geodetic vertices
+- [Geamap](https://geamap.com), collection of maps mainly focused on Spain (but also includes other countries)
 
 ## Coordinate conversion
 - [tool-online coordinate converter](https://tool-online.com/en/coordinate-converter.php#)
