@@ -23,7 +23,10 @@
 - One-vs-all or one-vs-one extensions of FDA, LDA, QDA
 
 ## Dimensionality reduction
-- LDA (see multiclass classification)
+- LDA (see binary classification)
+- PCA (Principal Components Analysis)
+- CCA (Canonical Correlation Analysis)
+- ICA (Independent Component Analysis)
 
 # Comparisons
 - [Partial least squares vs Principal Components regression](https://www.mathworks.com/help/stats/examples/partial-least-squares-regression-and-principal-components-regression.html)
