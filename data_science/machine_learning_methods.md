@@ -27,6 +27,11 @@
 - PCA (Principal Components Analysis)
 - CCA (Canonical Correlation Analysis)
 - ICA (Independent Component Analysis)
+- ISOMAP: geodesic distances + MDS
+- LLE (Locally Linear Embeddings)
+- MDS (Multi-Dimensional Scaling)
+- t-SNE (T-distributed Stochastic Neighbor Embedding)
+- [SOM (Self-Organizing Map)](https://en.wikipedia.org/wiki/Self-organizing_map)
 
 # Comparisons
 - [Partial least squares vs Principal Components regression](https://www.mathworks.com/help/stats/examples/partial-least-squares-regression-and-principal-components-regression.html)
