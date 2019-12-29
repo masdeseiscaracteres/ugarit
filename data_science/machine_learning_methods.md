@@ -23,9 +23,9 @@
 - One-vs-all or one-vs-one extensions of FDA, LDA, QDA
 
 ## Dimensionality reduction
-- LDA (see binary classification)
-- PCA (Principal Components Analysis)
-- CCA (Canonical Correlation Analysis)
+- FDA/LDA (see binary classification): maximize projected interclass variance/intraclass variance
+- PCA (Principal Components Analysis): maximize projected variance
+- CCA (Canonical Correlation Analysis): maximize projected correlation
 - ICA (Independent Component Analysis)
 - ISOMAP: geodesic distances + MDS
 - LLE (Locally Linear Embeddings)
