@@ -117,3 +117,4 @@ Statistical hyphotesis testing
 - [Common Crawl](http://commoncrawl.org/), raw web page data, extracted metadata and text extractions, freely accesible/dowloadable from Amazon Public Datasets  
 - [Global Database of Events, Language, and Tone (GDELT) project](https://www.gdeltproject.org/), a realtime database of global society, freely accesible using Google BigQuery
 - [Wifi networks](https://wigle.net/), collaboratively gathered geolocalized Wifi hotspot observations
+- [Imbalanced classification datasets](https://machinelearningmastery.com/standard-machine-learning-datasets-for-imbalanced-classification/)
