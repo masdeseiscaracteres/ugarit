@@ -38,6 +38,7 @@
   - Free
     - [Alpha Vantage](https://www.alphavantage.co/documentation/), stocks, forex, cryptocurrencies, technical indicators, sector info
     - [IEX](https://iextrading.com/developer/docs/), stocks
+    - [Alpaca](https://alpaca.markets/), US stocks
     - [Cryptowat.ch](https://cryptowat.ch/docs/api), cryptocurrencies
     - [OpenExchangeRates](https://openexchangerates.org/), forex
 - Financial instrument data
