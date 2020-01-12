@@ -23,6 +23,9 @@
 - Reproducible science
   - [Everware](http://everware.xyz)
   - [MyBinder](https://mybinder.org)
+  
+### Badges
+- [Shields.io](https://shields.io/), easy badge generation for multiple online services
 
 ## Git
 - [Git history editor](https://bokub.github.io/git-history-editor/)
