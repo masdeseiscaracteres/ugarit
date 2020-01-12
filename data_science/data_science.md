@@ -112,6 +112,8 @@ Statistical hyphotesis testing
 - Online notebooks:
   - [Iodide](https://alpha.iodide.io/), notebooks featuring HTML, markdown, JS and Python in the browser (yes, Python in the browser)
   - [Google Colaboratory](https://colab.research.google.com), Jupyter notebook execution on Google Cloud servers
+- Examples:
+  - [Tensorflow2 generative models notebooks](https://github.com/timsainb/tensorflow2-generative-models), easily reproducible in Google Colab and mybinder.org
   
 ## Datasets
 - [Common Crawl](http://commoncrawl.org/), raw web page data, extracted metadata and text extractions, freely accesible/dowloadable from Amazon Public Datasets  
