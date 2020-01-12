@@ -114,6 +114,7 @@ Statistical hyphotesis testing
   - [Google Colaboratory](https://colab.research.google.com), Jupyter notebook execution on Google Cloud servers
 - Examples:
   - [Tensorflow2 generative models notebooks](https://github.com/timsainb/tensorflow2-generative-models), easily reproducible in Google Colab and mybinder.org
+  - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/), whole repo executable in both Google Colab and mybinder.org. Lots of images and section cross-references.
   
 ## Datasets
 - [Common Crawl](http://commoncrawl.org/), raw web page data, extracted metadata and text extractions, freely accesible/dowloadable from Amazon Public Datasets  
