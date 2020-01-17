@@ -15,7 +15,10 @@
   - Spearman's rank correlation coefficient
   - Kendall's tau rank correlation coefficient
 - ROC AUC
-  - Layman's description: probability that a randomly chosen positive case will receive a higher score than a randomly chosen negative case
+  - Layman's definition: probability that a randomly chosen positive case will receive a higher score than a randomly chosen negative case
+- Rank biserial correlation coefficient
+  - Layman's definition: proportion of pairs favorable to the hypothesis (f) minus its complement (i.e.: the proportion that is unfavorable (u)): r = f - u
+  - It can be expressed in terms of the ROC AUC
 - Reciprocal rank
 - Precision at k
 - Average Precision at k
