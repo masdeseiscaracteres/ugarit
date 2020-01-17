@@ -15,7 +15,7 @@
   - Spearman's rank correlation coefficient
   - Kendall's tau rank correlation coefficient
 - ROC AUC
- - Layman's description: probability that a randomly chosen positive case will receive a higher score than a randomly chosen negative case
+  - Layman's description: probability that a randomly chosen positive case will receive a higher score than a randomly chosen negative case
 
 ## Relationships
 - AUC & Wilcoxon-Mann-Whitney U-Statistic:
