@@ -84,6 +84,9 @@ Statistical hyphotesis testing
 ## Sampling
 - [Visualization of random sampling techniques](https://chi-feng.github.io/mcmc-demo/app.html), sample from an N-dimensional probability density function
 
+## Binning
+- [Finding natural breaks in data: the Fisher-Jenks algorithm](https://pbpython.com/natural-breaks.html), compared to other approaches such as equally-sized and equally-populated binning.
+
 ## Recommender systems (RS)
 - [Recommender systems, Encyclopedia of Machine Learning](http://www.prem-melville.com/publications/recommender-systems-eml2010.pdf):
   - Collaborative filtering (CF): similarity with other user ratings used to assign ratings
