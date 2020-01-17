@@ -16,6 +16,11 @@
   - Kendall's tau rank correlation coefficient
 - ROC AUC
   - Layman's description: probability that a randomly chosen positive case will receive a higher score than a randomly chosen negative case
+- Reciprocal rank
+- Precision at k
+- Average Precision at k
+- Recall at k
+
 
 ## Relationships
 - AUC & Wilcoxon-Mann-Whitney U-Statistic:
