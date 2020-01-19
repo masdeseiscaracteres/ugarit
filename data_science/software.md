@@ -8,6 +8,7 @@
 
 #### Graphs
 - [StellarGraph](https://github.com/stellargraph/stellargraph), machine-learning on graphs
+- [GEM: Graph Embedding Methods](https://github.com/palash1992/GEM)
 
 #### Recommender systems
 - [Implicit](https://implicit.readthedocs.io/en/latest/index.html)
