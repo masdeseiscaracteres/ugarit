@@ -24,6 +24,7 @@
 - Average Precision at k
 - Recall at k
 
+Metrics definition: https://nlp.stanford.edu/IR-book/pdf/08eval.pdf
 
 ## Relationships
 - AUC & Wilcoxon-Mann-Whitney U-Statistic:
