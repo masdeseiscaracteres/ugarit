@@ -17,6 +17,8 @@
 - FDA (Fisher Discriminant Analysis)
 - LDA (Linear Discriminant Analysis)
 - QDA (Quadratic Discriminant Analysis)
+- RDA (Regularized Discriminant Analysis)
+
 
 ### Multi-class classification
 - Naive Bayes
@@ -37,3 +39,4 @@
 - [Partial least squares vs Principal Components regression](https://www.mathworks.com/help/stats/examples/partial-least-squares-regression-and-principal-components-regression.html)
 - [Eigenproblems in Pattern Recognition](http://www.ofai.at/~roman.rosipal/Papers/eig_book04.pdf): CCA, PCA, PLS, LR, FDA (LDA) and its *kernelized* counterparts as eigendecomposition problems
 - [Gini index vs Shannon entropy as impurity metrics](https://www.unine.ch/files/live/sites/imi/files/shared/documents/papers/Gini_index_fulltext.pdf)
+- [The probabilistic explanation of LDA, QDA, RDA](http://www.strimmerlab.org/courses/2005-06/seminar/slides/daniela-2x4.pdf), a different approach to the optimization-based conventional one
