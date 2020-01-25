@@ -124,3 +124,6 @@ Statistical hyphotesis testing
 - [Global Database of Events, Language, and Tone (GDELT) project](https://www.gdeltproject.org/), a realtime database of global society, freely accesible using Google BigQuery
 - [Wifi networks](https://wigle.net/), collaboratively gathered geolocalized Wifi hotspot observations
 - [Imbalanced classification datasets](https://machinelearningmastery.com/standard-machine-learning-datasets-for-imbalanced-classification/)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php) 
