@@ -25,6 +25,7 @@
   - [Everware](http://everware.xyz)
   - [MyBinder](https://mybinder.org)
 - [Gravizo](http://www.gravizo.com/), render graphs passed as a URL, it supports DOT, PlantUML, UMLGraph syntax and SVG in JSON format.
+- [Markdeep](https://casual-effects.com/markdeep/), client-side JS to render Markdown files (including formulas, graphs, styling, ...)
   
 ### Badges
 - [Shields.io](https://shields.io/), easy badge generation for multiple online services
