@@ -18,11 +18,13 @@
 ### Renderers
 - [nbviewer](https://nbviewer.jupyter.org/), render online Jupyter Notebooks
 - Github content
-  - [rawgit](https://rawgit.com/), serves raw files directly from GitHub with proper Content-Type headers
-  - [roughdraft.io](http://www.roughdraft.io/), render Github gists
+  - ~~[rawgit](https://rawgit.com/), serves raw files directly from GitHub with proper Content-Type headers~~
+  - ~~[roughdraft.io](http://www.roughdraft.io/), render Github gists~~
+  - [gistpreview.github.io](https://gistpreview.github.io/), render Github gists
 - Reproducible science
   - [Everware](http://everware.xyz)
   - [MyBinder](https://mybinder.org)
+- [Gravizo](http://www.gravizo.com/), render graphs passed as a URL, it supports DOT, PlantUML, UMLGraph syntax and SVG in JSON format.
   
 ### Badges
 - [Shields.io](https://shields.io/), easy badge generation for multiple online services
