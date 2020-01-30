@@ -24,6 +24,12 @@
 - Naive Bayes
 - One-vs-all or one-vs-one extensions of FDA, LDA, QDA
 
+### Multi-label classification
+- ...
+
+## Metric learning
+- ...
+
 ## Dimensionality reduction
 - FDA/LDA (see binary classification): maximize projected interclass variance/intraclass variance
 - PCA (Principal Components Analysis): maximize projected variance
