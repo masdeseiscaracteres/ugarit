@@ -116,3 +116,6 @@
 - [Firefox Send](https://send.firefox.com)
 - [We transfer](https://wetransfer.com)
 
+## Google Tools
+- [Google Codelabs](https://codelabs.developers.google.com/), guided tutorials
+- Google Jamboard: Collaborative Digital Whiteboard: real-time digital whiteboards
