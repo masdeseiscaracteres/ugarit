@@ -115,6 +115,7 @@
 ## File share/transfer
 - [Firefox Send](https://send.firefox.com)
 - [We transfer](https://wetransfer.com)
+- [file.io](https://www.file.io/)
 
 ## Google Tools
 - [Google Codelabs](https://codelabs.developers.google.com/), guided tutorials
