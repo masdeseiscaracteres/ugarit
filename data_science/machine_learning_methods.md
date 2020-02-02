@@ -18,6 +18,7 @@
 - LDA (Linear Discriminant Analysis)
 - QDA (Quadratic Discriminant Analysis)
 - RDA (Regularized Discriminant Analysis)
+- [SVC (Support Vector Classifier)](http://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf)
 
 
 ### Multi-class classification
