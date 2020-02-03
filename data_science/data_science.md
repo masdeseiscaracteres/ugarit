@@ -135,4 +135,4 @@ Statistical hyphotesis testing
   - Python
     - [`sklearn.datasets`](https://scikit-learn.org/stable/datasets/index.html)
     - [`seaborn` data](https://github.com/mwaskom/seaborn-data)
-    - ['statsmodels` datasets](https://www.statsmodels.org/stable/datasets/index.html#datasets)
+    - [`statsmodels` datasets](https://www.statsmodels.org/stable/datasets/index.html#datasets)
