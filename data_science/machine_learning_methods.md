@@ -9,6 +9,7 @@
 
 - [PLS regression](https://personal.utdallas.edu/~herve/Abdi-PLS-pretty.pdf) (Partial Least Squares or Projection to Latent Structures)
 - Principal Components Regression: PCA + Linear regression
+- Gaussian process regression: [visual exploration](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 ## Classification
 ### Binary classification
