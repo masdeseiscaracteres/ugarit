@@ -73,5 +73,6 @@
   - [Convex QCQP to SOCP](https://math.stackexchange.com/questions/1330896/can-a-convex-qcqp-with-an-additional-linear-constraint-be-converted-into-a-socp)
   - [Convex QCQP to SDP](https://mathoverflow.net/questions/58383/complexity-of-convex-quadratically-constrained-quadratic-programming-qcqp) 
   - [Least Absolute Deviations to LP](https://en.wikipedia.org/wiki/Least_absolute_deviations#Solving_using_linear_programming)
+  - [Optimization problems that are solved as eigenvalue problems](https://arxiv.org/pdf/1903.11240.pdf) and some examples of ML algorithms leading to these problems
 - [Iterative Reweighted Least Squares](https://cnx.org/contents/krkDdys0@12/Iterative-Reweighted-Least-Squares): solve minimization problems involving Lp-norms
   
