@@ -15,6 +15,12 @@
 - MLxtend
 - scikit-surprise
 
+#### Fuzzy-matching
+- [Dedupe](https://github.com/dedupeio/dedupe), by dedupe.io
+
+#### Survival analysis
+- [Lifelines](https://lifelines.readthedocs.io/en/latest/index.html)
+
 #### NLP
 - ...
 
