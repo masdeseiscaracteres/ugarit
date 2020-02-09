@@ -39,8 +39,8 @@
 - ICA (Independent Component Analysis)
 - ISOMAP: geodesic distances + MDS
 - LLE (Locally Linear Embeddings)
-- MDS (Multi-Dimensional Scaling)
-- t-SNE (T-distributed Stochastic Neighbor Embedding)
+- MDS (Multi-Dimensional Scaling): same as PCA but changing the way distances among high-dimensional points are computed
+- [t-SNE (t-distributed Stochastic Neighbor Embedding)](https://www.youtube.com/watch?v=RJVL80Gg3lA), minimize KL divergence between the high-dimensional and low-dimensional distribution of all the pairs of points (idea similar to that of LLE)
 - [SOM (Self-Organizing Map)](https://en.wikipedia.org/wiki/Self-organizing_map)
 
 ## Clustering
