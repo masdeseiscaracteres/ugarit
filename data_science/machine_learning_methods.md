@@ -45,7 +45,10 @@
 - LLE (Locally Linear Embeddings)
   - Focus on preserving small pairwise distances but ends up collapsing many points into the origin and compensating that by creating rays coming out of the origin
 - [t-SNE (t-distributed Stochastic Neighbor Embedding)](https://www.youtube.com/watch?v=RJVL80Gg3lA), minimize KL divergence between the high-dimensional and low-dimensional distribution of all the pairs of points (idea similar to that of LLE)
+  - Perplexity parameter controls the effective number of neighbors.
 - [SOM (Self-Organizing Map)](https://en.wikipedia.org/wiki/Self-organizing_map)
+- MVU
+- Laplacian eigenmaps
 
 ## Clustering
 - ...
