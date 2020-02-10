@@ -13,3 +13,5 @@
     - [`sklearn.datasets`](https://scikit-learn.org/stable/datasets/index.html)
     - [`seaborn` data](https://github.com/mwaskom/seaborn-data)
     - [`statsmodels` datasets](https://www.statsmodels.org/stable/datasets/index.html#datasets), also provides access to R and Stata datasets
+  - Javascript
+    - [vega datasets](https://github.com/vega/vega-datasets)
