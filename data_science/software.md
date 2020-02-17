@@ -24,6 +24,9 @@
 #### NLP
 - ...
 
+#### Association rule & frequent set mining
+- [pyfim](http://www.borgelt.net/pyfim.html)
+
 ### Visualization
 - [Compilation of tools](https://pyviz.org/tools.html)
 
