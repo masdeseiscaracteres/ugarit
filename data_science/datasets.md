@@ -4,6 +4,7 @@
 - [Wifi networks](https://wigle.net/), collaboratively gathered geolocalized Wifi hotspot observations
 - [Imbalanced classification datasets](https://machinelearningmastery.com/standard-machine-learning-datasets-for-imbalanced-classification/)
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [Google Big Query datasets](https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 - [OpenML](https://www.openml.org/), database including datasets, pipelines, learning tasks, ...
