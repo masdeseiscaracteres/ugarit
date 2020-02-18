@@ -30,4 +30,9 @@
 ### Visualization
 - [Compilation of tools](https://pyviz.org/tools.html)
 
+### Workflow & model management
+- [MLFlow](https://mlflow.org/docs/latest/index.html)
+- [Cortex: deploy ML models in production](https://www.cortex.dev/): an open-source alternative to Amazon SageMaker
+
+
 
