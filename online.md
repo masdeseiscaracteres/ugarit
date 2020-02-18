@@ -118,6 +118,9 @@
 - [file.io](https://www.file.io/)
 
 ## Google Tools
-- [Google Codelabs](https://codelabs.developers.google.com/), guided tutorials
-- Google Jamboard: Collaborative Digital Whiteboard: real-time digital whiteboards
-- [Google Classroom](https://edu.google.com/products/classroom/): free education portal and tools
+- Educational
+  - [Google Codelabs](https://codelabs.developers.google.com/), guided tutorials
+  - Google Jamboard: Collaborative Digital Whiteboard: real-time digital whiteboards
+  - [Google Classroom](https://edu.google.com/products/classroom/): free education portal and tools
+  - [Socratic](https://socratic.org/)
+- 
