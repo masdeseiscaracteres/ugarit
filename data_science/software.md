@@ -6,8 +6,8 @@
 - tensorflow
 - keras
 
-#### Model explanations and confidence
-- [Alibi](https://github.com/SeldonIO/alibi)
+#### Interpretability
+- [Alibi](https://github.com/SeldonIO/alibi): model explanations and confidence
 
 #### Graphs
 - [StellarGraph](https://github.com/stellargraph/stellargraph), machine-learning on graphs
