@@ -9,6 +9,6 @@
 - ...
 
 ## Books
-- [*Interpretable Machine Learning: A Guide for Making Black Box Models Explainable*, by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
-- [*The Elements of Statistical Learning: Data Mining, Inference, and Prediction*, by Trevor Hastie, Robert Tibshirani, Jerome Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/)
-- [*An Introduction to Statistical Learning: with Applications in R*, by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+- [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable, by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, by Trevor Hastie, Robert Tibshirani, Jerome Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [An Introduction to Statistical Learning: with Applications in R, by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](http://faculty.marshall.usc.edu/gareth-james/ISL/)
