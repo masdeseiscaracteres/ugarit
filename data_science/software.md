@@ -1,10 +1,13 @@
 # Data science libraries
 ## Python
 ### Machine learning
-### General purpose
+#### General purpose
 - scikit-learn
 - tensorflow
 - keras
+
+#### Model explanations and confidence
+- [Alibi](https://github.com/SeldonIO/alibi)
 
 #### Graphs
 - [StellarGraph](https://github.com/stellargraph/stellargraph), machine-learning on graphs
