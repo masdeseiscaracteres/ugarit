@@ -9,6 +9,14 @@
 - ...
 
 ## Books
-- [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable, by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
+
+### Machine/Statistical Learning
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, by Trevor Hastie, Robert Tibshirani, Jerome Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [An Introduction to Statistical Learning: with Applications in R, by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+
+### Interpretability
+- [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable, by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
+
+### Gaussian Processes
+- [Gaussian Processes for Machine Learning, by Carl Edward Rasmussen and Christopher K. I. Williams](http://www.gaussianprocess.org/gpml/)
+
