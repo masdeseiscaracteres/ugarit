@@ -35,6 +35,7 @@
 - [Compilation of tools](https://pyviz.org/tools.html)
 
 ### Workflow & model management
+- [Kedro](https://kedro.readthedocs.io/en/stable/)
 - [MLFlow](https://mlflow.org/docs/latest/index.html)
 - [Cortex: deploy ML models in production](https://www.cortex.dev/): an open-source alternative to Amazon SageMaker
 
