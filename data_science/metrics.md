@@ -8,9 +8,8 @@
 - ...
 
 ## Ordering/Ranking
-- Cumulative gain (curve) & lift curve
-- Discounted cumulative gain
-- Normalized discounted cumulative gain
+
+For a single query:
 - Rank correlations
   - Spearman's rank correlation coefficient
   - Kendall's tau rank correlation coefficient
@@ -20,9 +19,20 @@
   - Layman's definition: proportion of pairs favorable to the hypothesis (f) minus its complement (i.e.: the proportion that is unfavorable (u)): r = f - u
   - It can be expressed in terms of the ROC AUC
 - Reciprocal rank
-- Precision at k
-- Average Precision at k
-- Recall at k
+
+
+- Precision at k: [definition & examples](https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf)
+- Average Precision at k: [definition & examples](https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf)
+- Recall at k: [definition & examples](https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf)
+- Cumulative gain (curve) & lift curve
+- Discounted cumulative gain: [definition & examples](https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf)
+- Normalized discounted cumulative gain: [definition & examples](https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf)
+
+For many queries:
+- Mean average precision
+- Mean reciprocal rank
+
+
 
 Metrics definition: https://nlp.stanford.edu/IR-book/pdf/08eval.pdf
 
