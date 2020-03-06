@@ -33,6 +33,7 @@
 
 ### Visualization
 - [Compilation of tools](https://pyviz.org/tools.html)
+- [Daft](https://docs.daft-pgm.org/en/latest/): probabilistic graphical models
 
 ### Workflow & model management
 - [Kedro](https://kedro.readthedocs.io/en/stable/)
