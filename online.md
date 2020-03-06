@@ -117,6 +117,10 @@
 - [We transfer](https://wetransfer.com)
 - [file.io](https://www.file.io/)
 
+## URL shorteners
+- [TinyURL](https://tinyurl.com/): allows appending a path to the shortened URL
+
+
 ## Google Tools
 - Educational
   - [Google Codelabs](https://codelabs.developers.google.com/), guided tutorials
