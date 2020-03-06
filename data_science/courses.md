@@ -1,7 +1,8 @@
 # Educational
 
 ## Courses
-## Bayesian networks
+## Bayesian methods / Probabilistc Programming
+- [Probabilistic Programming & Bayesian Methods for Hackers, by Cameron Davidson-Pilon](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents)
 - [Probabilistic graphical models, Stanford CS228](https://ermongroup.github.io/cs228-notes/), lecture notes
 - [Compilation of links by metacademy.org](https://metacademy.org/graphs/concepts/bayesian_networks#focus=bayesian_networks&mode=learn)
 
