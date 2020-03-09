@@ -5,14 +5,16 @@
 - scikit-learn
 - tensorflow
 - keras
+- theano
+- [patsy](https://patsy.readthedocs.io/en/latest/index.html): extensible formula mini-language to describe statistical models and building design matrices
 
 #### Interpretability
 - [Alibi](https://github.com/SeldonIO/alibi): model explanations and confidence
 
 #### Graphs
-- [StellarGraph](https://github.com/stellargraph/stellargraph), machine-learning on graphs
+- [StellarGraph](https://github.com/stellargraph/stellargraph): machine-learning on graphs
 - [GEM: Graph Embedding Methods](https://github.com/palash1992/GEM)
-- [GraSPy: Graph Statistics in Python](https://graspy.neurodata.io/), model fitting, random graph simulation, adjacency spectral embed, ...
+- [GraSPy: Graph Statistics in Python](https://graspy.neurodata.io/): model fitting, random graph simulation, adjacency spectral embed, ...
 
 #### Recommender systems
 - [Implicit](https://implicit.readthedocs.io/en/latest/index.html)
