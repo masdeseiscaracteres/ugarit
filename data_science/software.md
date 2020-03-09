@@ -27,8 +27,12 @@
 #### Survival analysis
 - [Lifelines](https://lifelines.readthedocs.io/en/latest/index.html)
 
-#### NLP
-- ...
+#### Text-like processing
+- spacy
+- nltk
+- [Mathy](https://mathy.ai/): reinforcement learning framework to transform mathematical expressions. Interesting way to encode mathematical expressions abstract syntax trees.
+
+#### 
 
 #### Association rule & frequent set mining
 - [pyfim](http://www.borgelt.net/pyfim.html)
