@@ -28,8 +28,10 @@
 - [Lifelines](https://lifelines.readthedocs.io/en/latest/index.html)
 
 #### Text-like processing
-- spacy
-- nltk
+- [spacy](https://spacy.io/)
+- [nltk](https://www.nltk.org/)
+- [Gensim](https://radimrehurek.com/gensim/index.html): a library for topic modelling, document indexing and similarity retrieval.
+- [LexNLP](https://lexpredict-lexnlp.readthedocs.io): a library for working with real, unstructured legal text.
 - [Mathy](https://mathy.ai/): reinforcement learning framework to transform mathematical expressions. Interesting way to encode mathematical expressions abstract syntax trees.
 
 #### 
