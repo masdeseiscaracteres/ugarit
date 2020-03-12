@@ -43,6 +43,7 @@
 - [Compilation of tools](https://pyviz.org/tools.html)
 - [Daft](https://docs.daft-pgm.org/en/latest/): probabilistic graphical models
 - [pyvenn](https://github.com/tctianchi/pyvenn): matplotlib-based Venn diagram for 2 to 6 sets
+- [mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density): matplotlib-based fast density plot
 
 ### Workflow & model management
 - [Kedro](https://kedro.readthedocs.io/en/stable/)
