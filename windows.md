@@ -19,7 +19,7 @@
   ```
   wmic cpu
   ```
-- How to know the details of a user behind a domain username
+- How to know the details of a user behind a domain username (including password expiration date)
   ```
   net user <USERNAME> /DOMAIN
   ```
