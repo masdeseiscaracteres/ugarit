@@ -121,10 +121,11 @@
 - [TinyURL](https://tinyurl.com/): allows appending a path to the shortened URL
 
 
-## Google Tools
-- Educational
-  - [Google Codelabs](https://codelabs.developers.google.com/), guided tutorials
-  - Google Jamboard: Collaborative Digital Whiteboard: real-time digital whiteboards
-  - [Google Classroom](https://edu.google.com/products/classroom/): free education portal and tools
-  - [Socratic](https://socratic.org/)
-- 
+## Educational
+- [Google Codelabs](https://codelabs.developers.google.com/), guided tutorials
+- Google Jamboard: Collaborative Digital Whiteboard: real-time digital whiteboards
+- [Google Classroom](https://edu.google.com/products/classroom/): free education portal and tools
+- [Socratic](https://socratic.org/)
+- [Github Education](https://education.github.com)
+  - [Github Classroom](https://classroom.github.com/) 
+- [Piazza](https://piazza.com/): free Q&A platform
