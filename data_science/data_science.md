@@ -33,8 +33,10 @@ Ideal for fast exploration plots.
 - [Plotly Express](https://plotly.github.io/plotly_express/)
 
 ##### Dashboards
+- [Dash](https://plot.ly/dash/)
 - [Panel](https://panel.pyviz.org/)
 - [Voilà](https://github.com/QuantStack/voila), turns Jupyter notebooks into standalone web applications
+- [Streamlit](https://www.streamlit.io)
 
 ## Distance metrics
 - [textdistance](https://github.com/orsinium/textdistance), Python package
