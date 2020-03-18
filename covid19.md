@@ -23,6 +23,7 @@
 
 ### Background info
 - [Propagation simulator](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+  - Open source replica: https://github.com/midudev/covid-19-spread-simulator
 
 ## Articles
 - Tomas Pueyo
