@@ -23,7 +23,8 @@
 
 ### Background info
 - [Propagation simulator](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
-  - Open source replica: https://github.com/midudev/covid-19-spread-simulator
+  - JS replica: https://github.com/midudev/covid-19-spread-simulator
+  - Matlab replica: https://blogs.mathworks.com/cleve/2020/03/18/covid-19-simulator/#3618f4fa-80fd-4d08-97a7-1be8bf807ed2
 
 ## Articles
 - Tomas Pueyo
