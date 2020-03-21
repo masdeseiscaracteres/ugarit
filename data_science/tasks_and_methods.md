@@ -67,3 +67,6 @@
 - [Eigenproblems in Pattern Recognition](http://www.ofai.at/~roman.rosipal/Papers/eig_book04.pdf): CCA, PCA, PLS, LR, FDA (LDA) and its *kernelized* counterparts as eigendecomposition problems
 - [Gini index vs Shannon entropy as impurity metrics](https://www.unine.ch/files/live/sites/imi/files/shared/documents/papers/Gini_index_fulltext.pdf)
 - [The probabilistic explanation of LDA, QDA, RDA](http://www.strimmerlab.org/courses/2005-06/seminar/slides/daniela-2x4.pdf), a different approach to the optimization-based conventional one
+- Técnicas de Análisis Estadístico Multivariado Basadas en Estadísticos de Segundo Orden
+  - [PCA, PLS, MLR, CCA](https://ocw.unican.es/pluginfile.php/1456/course/section/1891/2%20-%20MVSA_SOS.pdf): different formulation and comparison of techniques
+  - [ICA, kernel methods](https://ocw.unican.es/pluginfile.php/1456/course/section/1891/3%20-%20MVSA_HOS.pdf )
