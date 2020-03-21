@@ -1,9 +1,11 @@
 # Graph Theory
 - [Interactive introduction to graph theory](https://mrpandey.github.io/d3graphTheory/index.html)
 
+# Linear Algebra
+- [[ES] Introducción al álgebra lineal](https://ocw.unican.es/pluginfile.php/1456/course/section/1891/1%20-%20Metodos-estadisticos-y-algebraicos.pdf)
+
 # Probability & Statistics
 - [Probability and Statistics Cookbook](http://statistics.zone/)
-
 
 ## Statistical testing
 - Two main approaches: https://en.m.wikibooks.org/wiki/Statistics/Testing_Data/Purpose
