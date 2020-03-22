@@ -14,6 +14,7 @@
 - [Bayesian Growth Rate Prediction](https://github.com/twiecki/covid19/blob/master/covid19_growth_bayes.ipynb)
 - https://blogs.mathworks.com/loren/2020/03/16/analyzing-novel-corona-virus-covid-19-dataset/
 - http://gabgoh.github.io/COVID/index.html
+- https://cmmid.github.io/visualisations
 - https://elpais.com/sociedad/2020/03/13/actualidad/1584091954_865510.html
 - [How will country-based mitigation measures influence the course of the COVID-19 epidemic?](https://doi.org/10.1016/S0140-6736(20)30567-5)
 
