@@ -19,6 +19,7 @@
 
 ### Mobility-aware
 - https://deim.urv.cat/~alephsys/COVID-19/spain/es/index.html
+- [Analysis of the COVID-19 Epidemic](https://www.mobs-lab.org/2019ncov.html)
 
 ### Background info
 - [Propagation simulator](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
