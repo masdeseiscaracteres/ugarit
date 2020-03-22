@@ -17,6 +17,7 @@
 - https://cmmid.github.io/visualisations
 - https://elpais.com/sociedad/2020/03/13/actualidad/1584091954_865510.html
 - [How will country-based mitigation measures influence the course of the COVID-19 epidemic?](https://doi.org/10.1016/S0140-6736(20)30567-5)
+- [Early dynamics of transmission and control of COVID-19: a mathematical modelling study](https://doi.org/10.1016/S1473-3099(20)30144-4)
 
 ### Mobility-aware
 - https://deim.urv.cat/~alephsys/COVID-19/spain/es/index.html
