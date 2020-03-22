@@ -15,8 +15,7 @@
 - https://blogs.mathworks.com/loren/2020/03/16/analyzing-novel-corona-virus-covid-19-dataset/
 - http://gabgoh.github.io/COVID/index.html
 - https://elpais.com/sociedad/2020/03/13/actualidad/1584091954_865510.html
-- https://www.thelancet.com/cms/10.1016/S0140-6736(20)30567-5/attachment/56ee104d-c810-4fdf-ba0a-e4497ad1034d/mmc2.pdf
-
+- [How will country-based mitigation measures influence the course of the COVID-19 epidemic?](https://doi.org/10.1016/S0140-6736(20)30567-5)
 
 ### Mobility-aware
 - https://deim.urv.cat/~alephsys/COVID-19/spain/es/index.html
