@@ -20,6 +20,9 @@
 - [Early dynamics of transmission and control of COVID-19: a mathematical modelling study](https://doi.org/10.1016/S1473-3099(20)30144-4)
 - [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
 
+Spain
+- [MODELIZACIÓN EPIDEMIOLÓGICA DEL COVID-19](http://covid19.webs.upv.es/)
+
 ### Mobility-aware
 - https://deim.urv.cat/~alephsys/COVID-19/spain/es/index.html
 - [Analysis of the COVID-19 Epidemic](https://www.mobs-lab.org/2019ncov.html)
