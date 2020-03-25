@@ -15,7 +15,7 @@
     - Sorted Set
 - [Trie (or prefixed tree)](https://en.wikipedia.org/wiki/Trie)
   - [pygtrie](https://github.com/google/pygtrie)
-- [SetTrie](https://hal.inria.fr/hal-01506780/document)
+- [SetTrie](https://dx.doi.org/10.1007/978-3-642-40511-2_10)
   - [PySettrie](https://github.com/mmihaltz/pysettrie): Python implementation of the following
     - SetTrie: set-trie container for sets; supports efficient supersets/subsets of a given search set calculations.
     - SetTrieMap: mapping container using sets as keys; supports efficient operations like SetTrie but also stores values associated to the key sets.
