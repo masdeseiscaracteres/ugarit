@@ -31,6 +31,9 @@
 ### Badges
 - [Shields.io](https://shields.io/), easy badge generation for multiple online services
 
+## Unix
+- [Explain Shell](explainshell.com): interactive explanation of Unix command lines based on manpages information
+
 ## Git
 - [Git history editor](https://bokub.github.io/git-history-editor/)
 
