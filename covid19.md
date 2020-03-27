@@ -5,6 +5,9 @@
   - [Kaggle dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset): using the Johns Hopkins University data
 - Hospital beds
   - https://en.wikipedia.org/wiki/List_of_countries_by_hospital_beds#2020_coronavirus_pandemic_and_hospital_bed_capacity
+  
+- Spain
+  - https://github.com/datadista/datasets/tree/master/COVID%2019
 ## Dashboards
 - https://www.worldometers.info/coronavirus/
 - https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
