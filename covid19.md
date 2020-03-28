@@ -30,6 +30,7 @@ Spain
 - https://deim.urv.cat/~alephsys/COVID-19/spain/es/index.html
 - [Analysis of the COVID-19 Epidemic](https://www.mobs-lab.org/2019ncov.html)
 - [Genomic epidemiology](https://nextstrain.org/ncov)
+- [Effectiveness of social distancing strategies for protecting a community from a pandemic with a data-driven contact network based on census and real-world mobility data](https://covid-19-sds.github.io/)
 
 ### Background info
 - [Propagation simulator](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
