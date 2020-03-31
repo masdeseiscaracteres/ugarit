@@ -14,6 +14,7 @@
   - [Observable](https://beta.observablehq.com/scratchpad)
   - [Google Colaboratory](https://colab.research.google.com/)
   - [Iodide](https://alpha.iodide.io/), Python, Javascript, Markdown, CSS, HTML, everything in the browser
+  - [Azure Notebooks](https://notebooks.azure.com/), free Jupyter notebooks with R, Python 2/3 and F# kernels. It can also reproduce environments defined in a Github repo.
 
 ### Renderers
 - [nbviewer](https://nbviewer.jupyter.org/), render online Jupyter Notebooks
@@ -25,6 +26,7 @@
 - Reproducible science
   - [Everware](http://everware.xyz)
   - [MyBinder](https://mybinder.org)
+  - [Azure Notebooks](https://notebooks.azure.com/), free Jupyter notebooks with R, Python 2/3 and F# kernels. It can also reproduce environments defined in a Github repo.
 - [Gravizo](http://www.gravizo.com/), render graphs passed as a URL, it supports DOT, PlantUML, UMLGraph syntax and SVG in JSON format.
 - [Markdeep](https://casual-effects.com/markdeep/), client-side JS to render Markdown files (including formulas, graphs, styling, ...)
   
