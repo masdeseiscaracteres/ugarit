@@ -22,6 +22,7 @@
 - [How will country-based mitigation measures influence the course of the COVID-19 epidemic?](https://doi.org/10.1016/S0140-6736(20)30567-5)
 - [Early dynamics of transmission and control of COVID-19: a mathematical modelling study](https://doi.org/10.1016/S1473-3099(20)30144-4)
 - [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
+- [Estimating   the   number   of   infections   and   the   impact   of   non-pharmaceutical interventions on COVID-19 in 11 European countries](https://www.imperial.ac.uk/media/imperial-college/medicine/mrc-gida/2020-03-30-COVID19-Report-13.pdf)
 
 Spain
 - [MODELIZACIÓN EPIDEMIOLÓGICA DEL COVID-19](http://covid19.webs.upv.es/)
