@@ -12,10 +12,11 @@
 
 ## Software design
 - [UML basics:The class diagram - An introduction to structure diagrams in UML 2](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html)
+- [UML Class Diagram Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/), concise introduction to the symbology (property/method markers and relationship) used in UML class diagrams
 - [Design patterns, refactoring.guru](https://refactoring.guru/design-patterns) 
 
 ## Abstract data types
-Class of objects whose logical behavior is defined by a set of values and a set of operations
+Data types defined by its semantics: possible values, possible operations on it, and the behavior of these operations (from the point of view of a user)
 - Container
 - List
 - Set
@@ -45,7 +46,7 @@ Concrete representations of data (from the point of view of an implementer, not 
 ### JIT compiling
 - [Numba architecture](http://numba.pydata.org/numba-doc/dev/developer/architecture.html)
 
-### Dependency viewer 
+### Dependency viewers 
 #### Executable files, object code, libraries
 Including: 
 - Matlab MEX files
