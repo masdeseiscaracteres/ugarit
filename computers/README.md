@@ -1,6 +1,8 @@
 # Computers
 This folders contains resources about:
 - Computer science
+- Computer architecture
+  - http://www.bottomupcs.com/
 - Operating systems
   - Unix
   - Windows
