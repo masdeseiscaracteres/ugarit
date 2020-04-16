@@ -104,6 +104,9 @@
 - [WaybackMachine](https://archive.org/web/)
 - [WebRecorder.io](https://webrecorder.io)
 
+### Bookmarklet
+- [bookmarkleter](https://chriszarate.github.io/bookmarkleter/): turns Javascript code into a bookmarklet
+
 ## Scientific writing
 - [Authorea](https://www.authorea.com), collaborative article editor, free for unlimited public documents
 ### LaTeX
