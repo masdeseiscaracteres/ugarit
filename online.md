@@ -140,6 +140,7 @@
 
 ## Canvas & boards
 - [lino](http://linoit.com): sticky notes and canvas for online collaboration
+- [Mural](https://mural.co): free-30 day trial
 - [Google Jamboard](https://jamboard.google.com/): Collaborative Digital Whiteboard: real-time digital whiteboards
 - [Microsoft Whiteboard](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app?SilentAuth=1): for business and educational institutions
 - [Webex Whiteboard](https://www.webex.com/): free plan including desktop, application, file & whiteboard sharing
