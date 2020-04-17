@@ -131,9 +131,15 @@
 
 ## Educational
 - [Google Codelabs](https://codelabs.developers.google.com/), guided tutorials
-- Google Jamboard: Collaborative Digital Whiteboard: real-time digital whiteboards
 - [Google Classroom](https://edu.google.com/products/classroom/): free education portal and tools
 - [Socratic](https://socratic.org/)
 - [Github Education](https://education.github.com)
   - [Github Classroom](https://classroom.github.com/) 
 - [Piazza](https://piazza.com/): free Q&A platform
+- [Canvas & boards](#canvas_boards)
+
+## Canvas & boards
+- [lino](http://linoit.com): sticky notes and canvas for online collaboration
+- [Google Jamboard](https://jamboard.google.com/): Collaborative Digital Whiteboard: real-time digital whiteboards
+- [Microsoft Whiteboard](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app?SilentAuth=1): for business and educational institutions
+- [Webex Whiteboard](https://www.webex.com/): free plan including desktop, application, file & whiteboard sharing
