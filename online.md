@@ -136,7 +136,7 @@
 - [Github Education](https://education.github.com)
   - [Github Classroom](https://classroom.github.com/) 
 - [Piazza](https://piazza.com/): free Q&A platform
-- [Canvas & boards](#canvas_boards)
+- [Canvas & boards](#canvas--boards)
 
 ## Canvas & boards
 - [lino](http://linoit.com): sticky notes and canvas for online collaboration
