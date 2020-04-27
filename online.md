@@ -33,6 +33,11 @@
 ### Badges
 - [Shields.io](https://shields.io/), easy badge generation for multiple online services
 
+### Public repositories
+- [Docker hub](https://hub.docker.com/): Docker images (free)
+- [Anaconda Cloud](https://anaconda.org/): notebooks, environments, conda and PyPI packages (free up to 3 GB)
+- [Gemfury](https://gemfury.com): RubyGems, npm, Python, Composer, DEB, RPM and NuGet packages (free for public packages)
+
 ## Unix
 - [Explain Shell](explainshell.com): interactive explanation of Unix command lines based on manpages information
 
