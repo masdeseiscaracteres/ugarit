@@ -38,7 +38,10 @@ Concrete representations of data (from the point of view of an implementer, not 
 - [Semantic Versioning (semver)](https://semver.org/)
 - [Calendar Versioning (calver)](https://calver.org/)
 
-https://calver.org/
+### Tools
+- bumpversion
+- [versioneer](https://github.com/warner/python-versioneer): a tool for managing a recorded version number in distutils-based python projects
+
 ## Building
 ### Tools
 - [Microsoft's `nmake`](https://docs.microsoft.com/en-us/cpp/build/nmake-reference)
