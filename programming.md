@@ -34,6 +34,11 @@ Data types defined by its semantics: possible values, possible operations on it,
 ## Data structures
 Concrete representations of data (from the point of view of an implementer, not the user)
 
+## Versioning
+- [Semantic Versioning (semver)](https://semver.org/)
+- [Calendar Versioning (calver)](https://calver.org/)
+
+https://calver.org/
 ## Building
 ### Tools
 - [Microsoft's `nmake`](https://docs.microsoft.com/en-us/cpp/build/nmake-reference)
