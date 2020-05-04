@@ -82,9 +82,10 @@
 #### GIFs
 - http://giphy.com
 
-#### Stock photos
+#### Stock photos / videos
 - https://www.reddit.com/r/web_design/comments/2v5ts0/ultimate_collection_of_free_stock_photos_websites/
 - [Unsplash](https://unsplash.com), free-to-use (even comercially) professional photos
+- [Pexels](https://www.pexels.com/), photos and videos
 
 #### Icons
 - [Devicon](http://konpa.github.io/devicon/), hot-linkable icons representing programming languages, designing & development tools
