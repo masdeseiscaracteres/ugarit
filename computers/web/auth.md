@@ -1,6 +1,9 @@
 # Authentication and authorization
 ## Educational
-
+- [Google OAuth 2.0 - Testing with Curl](https://www.jhanley.com/google-oauth-2-0-testing-with-curl/): 3-part blog post
+  1. OAuth without web server
+  2. OAuth with web server
+  3. Refresh access token
 
 
 ## Google APIs
