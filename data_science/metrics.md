@@ -25,17 +25,25 @@ For a single query:
 - Ranking-based precision and recall (See [Section 6.4 in this document](https://core.ac.uk/download/pdf/191177829.pdf))
 - Marczewski-Steinhaus metric (or MZ-metric):[definition](http://matwbn.icm.edu.pl/ksiazki/cm/cm6/cm6141.pdf)
 
+
 - Precision at k: [definition & examples](https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf)
 - Average Precision at k: [definition & examples](https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf)
 - Recall at k: [definition & examples](https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf)
 - Cumulative gain (curve) & lift curve
 - Discounted cumulative gain: [definition & examples](https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf)
+  - For a choice of discounting factors (or grade-to-gain mappings) see [Sec. 4. Results C2](http://ir.ii.uam.es/pubs/irj2020.pdf)
 - Normalized discounted cumulative gain (NDCG): [definition & examples](https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf)
-- Half-life utility:
+- Rank-biased precision (RBP): [definition](https://dl.acm.org/doi/10.1145/1416950.1416952)
+- Half-life utility: [definition](https://doi.org/10.1145/963770.963772)
+  - Layman's definition: The likelihood that a user will view each successive item is described with an exponential decay function, where the strength of the decay is described by a half-life parameter. Also, the rank of the item on the list such that there is a 50% chance that the user will view that item.
 
-For many queries:
-- Mean average precision
-- Mean reciprocal rank
+For many queries: the metrics obtained for each query need to be aggregated for all queries
+- Arithmetic mean
+  - Weighted/unweighted 
+- Geometric mean
+- Commonly used aggregations:
+  - Mean average precision
+  - Mean reciprocal rank
 
 
 
