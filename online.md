@@ -39,6 +39,10 @@
 - [Anaconda Cloud](https://anaconda.org/): notebooks, environments, conda and PyPI packages (free up to 3 GB)
 - [Gemfury](https://gemfury.com): RubyGems, npm, Python, Composer, DEB, RPM and NuGet packages (free for public packages)
 
+### Servers
+- [Vercel](https://vercel.com/), static and [JAMstack](https://jamstack.org/) deployment, serverless functions, and global CDN.
+- [Heroku](https://www.heroku.com)
+
 ## Unix
 - [Explain Shell](explainshell.com): interactive explanation of Unix command lines based on manpages information
 
