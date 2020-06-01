@@ -9,6 +9,9 @@
 - [Vertirama](http://www.vertirama.com/), Spain seen from geodetic vertices
 - [Geamap](https://geamap.com), collection of maps mainly focused on Spain (but also includes other countries)
 
+- [Gasolineras de España](http://opendata.esri.es/datasets/gasolineras-de-espa%C3%B1a)
+- [Áreas de servicio que ofrecen duchas, parking, aseos o alimentación](https://covid19esrispain-sitesesrispain.hub.arcgis.com/datasets/d90cd600fcda4b17ad6f11d5eff63866_0?geometry=-48.641%2C29.672%2C34.987%2C42.085)
+
 ## Coordinate conversion
 - [tool-online coordinate converter](https://tool-online.com/en/coordinate-converter.php#)
 
