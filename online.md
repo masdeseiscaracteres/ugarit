@@ -43,6 +43,13 @@
 - [Vercel](https://vercel.com/), static and [JAMstack](https://jamstack.org/) deployment, serverless functions, and global CDN.
 - [Heroku](https://www.heroku.com)
 
+### Virtual machines
+- [Google Cloud Shell](https://ssh.cloud.google.com/cloudshell/editor?shellonly=true)
+- [Play with Docker (PWD)](https://labs.play-with-docker.com/)
+
+### CI/CD
+- [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/): free CI/CD pipelines for open source projects + 2 GB repositories (pip, maven, gradle, nuget, npm, universal, ...)
+
 ## Unix
 - [Explain Shell](explainshell.com): interactive explanation of Unix command lines based on manpages information
 
