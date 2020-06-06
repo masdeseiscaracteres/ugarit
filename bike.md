@@ -47,13 +47,18 @@
 - [Growtac](http://growtac.com), Equal-Pulley: adapt Campagnolo brifters to Shimano derailleurs/cassettes
 - [Formula](https://www.rideformula.com/), Speedlock: hydraulic brake hose quick connector (hydraulic coupler)
 - [ASSolutions](https://www.assolutions.ca/), adapter for mounting a flat mount caliper on a post mount frame or fork.
+- [JJBP, Joe Jackson](https://www.youtube.com/channel/UCwaThN7fVjy_ilCuWp9g7sg)
 
 ##### Hydro-mechanical brakes
 - [Hope](https://www.hopetech.com), Hope V-Twin mechanical-to-hydraulic disc brake converter
-- [TRP](https://trpcycling.com/), Hylex Hy/Rd mechanical-hydraulic disc brakes, TRP parabox mechanical-to-hydraulic converter
+- [TRP](https://trpcycling.com/)
+  - Hylex Hy/Rd mechanical-hydraulic disc brakes
+  - TRP parabox mechanical-to-hydraulic converter
 - [Giant Conduct](https://www.giantbikespares.com/Giant-Conduct-Hydraulic-Disc-Brakes-Master-Cylinder/product_detail/3-43092), stem front converter
 - Juin Tech R1, hydro-mechanical calipers
-- Yokozuna Motoko, hydro-mechanical calipers + Reaction compressionless housing
+- Yokozuna, hydro-mechanical calipers + Reaction compressionless housing
+  - Motoko
+  - Ultimo
 - TRP Hy/Road, hydro-mechanical calipers
 
 ### Hardware store
