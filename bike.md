@@ -44,6 +44,7 @@
 - [JTekEngineering](http://www.jtekengineering.com), ShiftMate series: ratio-changing pulleys for mating road and MTB or different manufacturers shifters/derailleurs
 - [TI Cycles](https://www.ticycles.com/), custom CNC'ed parts and other accessories
 - [WolfTooth](https://www.wolftoothcomponents.com/), Roadlink: adapter allowing larger cassette ranges
+- Risk [RA105](https://www.aliexpress.com/i/4000110945995.html): adapter allowing larger cassette ranges
 - [Growtac](http://growtac.com), Equal-Pulley: adapt Campagnolo brifters to Shimano derailleurs/cassettes
 - [Formula](https://www.rideformula.com/), Speedlock: hydraulic brake hose quick connector (hydraulic coupler)
 - [ASSolutions](https://www.assolutions.ca/), adapter for mounting a flat mount caliper on a post mount frame or fork.
