@@ -50,6 +50,10 @@
 ### CI/CD
 - [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/): free CI/CD pipelines for open source projects + 2 GB repositories (pip, maven, gradle, nuget, npm, universal, ...)
 
+## Converters
+- [Browserlin tools](https://www.browserling.com/tools/)
+- [Online<anything>Tools](https://onlineutf8tools.com/): see the other related tools
+
 ## Unix
 - [Explain Shell](explainshell.com): interactive explanation of Unix command lines based on manpages information
 
