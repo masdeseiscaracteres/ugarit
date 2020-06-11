@@ -1,5 +1,8 @@
 # Encoding/Decoding
-Tools/algorithms/libraries/references for hashing, obfuscation, IDs construction, encryption, etc.
+Tools/algorithms/libraries/references for encoding/decoding, hashing, obfuscation, IDs construction, encryption, etc.
+## Text encoding
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/): Joel's rant on programmers' knowledge about encoding, good introductory text to ASCII (and related encodings), Unicode (UTF-8, UTF-16, etc.) including an explanation on what the BOM is for.
+- [Introduction to Character Encoding](https://itnext.io/introduction-to-character-encoding-3b9735f265a6): from binary base to Unicode (includes explanation of BOM).
 
 ## Hashes
 - ...
