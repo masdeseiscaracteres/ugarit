@@ -42,6 +42,7 @@
     - [Alpaca](https://alpaca.markets/), US stocks
     - [Cryptowat.ch](https://cryptowat.ch/docs/api), cryptocurrencies
     - [OpenExchangeRates](https://openexchangerates.org/), forex
+    - [ExchangeRatesAPI.io](http://exchangeratesapi.io/), forex
 - Financial instrument data
   - Funds
     - [MorningStar Funds](https://www.morningstar.com/funds.html)
