@@ -1,3 +1,3 @@
 # Cursos y talleres
 ## Manualidades
-- [Madera](https://www.madedemadera.com/en)
+- [MadeDeMadera](https://www.madedemadera.com/en): alquiler de taller y formación de trabajos en madera
