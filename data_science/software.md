@@ -29,12 +29,11 @@
 
 #### Text-like processing
 - [spacy](https://spacy.io/)
+- [polyglot](https://github.com/aboSamoor/polyglot)
 - [nltk](https://www.nltk.org/)
 - [Gensim](https://radimrehurek.com/gensim/index.html): a library for topic modelling, document indexing and similarity retrieval.
 - [LexNLP](https://lexpredict-lexnlp.readthedocs.io): a library for working with real, unstructured legal text.
 - [Mathy](https://mathy.ai/): reinforcement learning framework to transform mathematical expressions. Interesting way to encode mathematical expressions abstract syntax trees.
-
-#### 
 
 #### Association rule & frequent set mining
 - [pyfim](http://www.borgelt.net/pyfim.html)
