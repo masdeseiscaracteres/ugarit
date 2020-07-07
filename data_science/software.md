@@ -29,6 +29,7 @@
 
 #### Text-like processing
 - [spacy](https://spacy.io/)
+- [textacy](https://github.com/chartbeat-labs/textacy)
 - [polyglot](https://github.com/aboSamoor/polyglot)
 - [nltk](https://www.nltk.org/)
 - [Gensim](https://radimrehurek.com/gensim/index.html): a library for topic modelling, document indexing and similarity retrieval.
