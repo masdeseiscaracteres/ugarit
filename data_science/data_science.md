@@ -40,6 +40,7 @@ Ideal for fast exploration plots.
 
 ## Distance metrics
 - [textdistance](https://github.com/orsinium/textdistance), Python package
+- [abydos.distance](https://abydos.readthedocs.io/en/latest/abydos.distance.html), Python package (includes block edit distances)
 
 ## Machine-learned rankings
 
