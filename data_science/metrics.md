@@ -45,9 +45,10 @@ For many queries: the metrics obtained for each query need to be aggregated for 
   - Mean average precision
   - Mean reciprocal rank
 
-
-
 Metrics definition: https://nlp.stanford.edu/IR-book/pdf/08eval.pdf
+
+## Association rule mining
+- [Huge compilation of metrics to evaluate association rules](https://michael.hahsler.net/research/association_rules/measures.html)
 
 ## Relationships
 - AUC & Wilcoxon-Mann-Whitney U-Statistic:
