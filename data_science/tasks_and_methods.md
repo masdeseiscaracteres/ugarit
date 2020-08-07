@@ -50,6 +50,7 @@
 - [Semidefinite embedding (SDE) or maximum variance unfolding (MVU)](https://en.wikipedia.org/wiki/Semidefinite_embedding)
 - Laplacian eigenmaps
 - UMAP
+- [Corex (Correlation Explanation)](https://github.com/gregversteeg/bio_corex/): searches for a set of latent factors that best explain the correlations in the data as measured by multivariate mutual information.
 
 ## Clustering
 - ...
