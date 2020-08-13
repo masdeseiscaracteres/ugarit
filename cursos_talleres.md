@@ -5,4 +5,4 @@
 - [Restaura y Recupera](http://www.restaurayrecupera.com): cursos de restauración (muebles, metales, pintura, encordados, teñido)
 - [Tasa Restaura, Guadalix de la Sierra](http://www.tasarestaura.com): cursos de carpintería/ebanistería
 - [Smart Maker Lab, San Sebastián de los Reyes](https://www.smartmakerlab.com): alquiler de taller y cursos de CNC, impresión 3D, corte y grabado láser, etc.
-- [La Fragua de Mink](https://sites.google.com/site/lafraguademinkcursos/): curso de forja artística y alquiler de taller
+- [La Fragua de Mink](https://www.lafraguademink.es): curso de forja artística y alquiler de taller
