@@ -6,6 +6,7 @@
 - tensorflow
 - keras
 - theano
+- torch
 - [patsy](https://patsy.readthedocs.io/en/latest/index.html): extensible formula mini-language to describe statistical models and building design matrices
 
 #### Interpretability
@@ -21,14 +22,18 @@
 - MLxtend
 - scikit-surprise
 
-#### Fuzzy-matching
+#### Similarity & matching
 - [Dedupe](https://github.com/dedupeio/dedupe), by dedupe.io
+- [faiss](https://github.com/facebookresearch/faiss), by Facebook research
 
 #### Survival analysis
 - [Lifelines](https://lifelines.readthedocs.io/en/latest/index.html)
 
+
+
 #### Text-like processing
-- [spacy](https://spacy.io/)
+- [transformers](https://github.com/huggingface/transformers) state-of-the-art NLP for PyTorch and TensorFlow 2.0 (BERT, GPT-2, etc.).
+- [spacy](https://spacy.io/), lots of out-of-the-box features for NLP. Also provides a pipeline class which makes it easy to construct sophisticated statistical models based on other libraries for a variety of NLP problems.
 - [textacy](https://github.com/chartbeat-labs/textacy)
 - [polyglot](https://github.com/aboSamoor/polyglot)
 - [nltk](https://www.nltk.org/)
