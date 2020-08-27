@@ -4,6 +4,7 @@
 - [SourceGraph](https://sourcegraph.com/search), code search and navigation
 ### Editors
 - [Glot.io](https://glot.io/), an open source pastebin with runnable snippets and API
+- [Gitpod.io](https://www.gitpod.io), online development environment (start from Gitlab, Github or Bitbucket repos)
 - [Repl.it](https://repl.it/), instant (collaborative) programming environment for many languages
 - [MyCompiler.io](https://www.mycompiler.io), simple compiler for commonly-used languages
 - Web frontend
