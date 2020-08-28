@@ -28,6 +28,8 @@
   - [Everware](http://everware.xyz)
   - [MyBinder](https://mybinder.org)
   - [Azure Notebooks](https://notebooks.azure.com/), free Jupyter notebooks with R, Python 2/3 and F# kernels. It can also reproduce environments defined in a Github repo.
+  - [Notebooks.ai](https://notebooks.ai/)
+  - [Google Colab](colab.research.google.com/)
 - [Gravizo](http://www.gravizo.com/), render graphs passed as a URL, it supports DOT, PlantUML, UMLGraph syntax and SVG in JSON format.
 - [Markdeep](https://casual-effects.com/markdeep/), client-side JS to render Markdown files (including formulas, graphs, styling, ...)
 - [LaTeX.CSS](https://latex.now.sh/), CSS library that makes your website look like a LaTeX document.
