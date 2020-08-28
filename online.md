@@ -130,6 +130,10 @@
 ### Bookmarklet
 - [bookmarkleter](https://chriszarate.github.io/bookmarkleter/): turns Javascript code into a bookmarklet
 
+### Testing
+- [httpstat.us](http://httpstat.us): [example](http://httpstat.us/503)
+- [httpbin.org](https://httpbin.org/): [example](https://httpbin.org/get)
+
 ## Scientific writing
 - [Authorea](https://www.authorea.com), collaborative article editor, free for unlimited public documents
 ### LaTeX
