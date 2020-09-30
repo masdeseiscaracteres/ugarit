@@ -31,6 +31,7 @@
   - [Notebooks.ai](https://notebooks.ai/)
   - [Google Colab](colab.research.google.com/)
 - [Gravizo](http://www.gravizo.com/), render graphs passed as a URL, it supports DOT, PlantUML, UMLGraph syntax and SVG in JSON format.
+- [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/), render diagrams passed as a URL, it can generate flow charts, sequence diagrams, UML class diagrams, state diagrams, Gantt charts, pie chart, entity-relationship diagrams, ... 
 - [Markdeep](https://casual-effects.com/markdeep/), client-side JS to render Markdown files (including formulas, graphs, styling, ...)
 - [LaTeX.CSS](https://latex.now.sh/), CSS library that makes your website look like a LaTeX document.
   
