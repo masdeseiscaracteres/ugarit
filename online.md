@@ -16,6 +16,7 @@
   - [Google Colaboratory](https://colab.research.google.com/)
   - [Iodide](https://alpha.iodide.io/), Python, Javascript, Markdown, CSS, HTML, everything in the browser
   - [Azure Notebooks](https://notebooks.azure.com/), free Jupyter notebooks with R, Python 2/3 and F# kernels. It can also reproduce environments defined in a Github repo.
+  - [DeepNote](https://deepnote.com), Jupyter notebooks in customizable execution environments (free up to 2 cores, 5GB RAM and no GPU).
 
 ### Renderers
 - [nbviewer](https://nbviewer.jupyter.org/), render online Jupyter Notebooks
