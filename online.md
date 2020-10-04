@@ -17,6 +17,7 @@
   - [Iodide](https://alpha.iodide.io/), Python, Javascript, Markdown, CSS, HTML, everything in the browser
   - [Azure Notebooks](https://notebooks.azure.com/), free Jupyter notebooks with R, Python 2/3 and F# kernels. It can also reproduce environments defined in a Github repo.
   - [DeepNote](https://deepnote.com), Jupyter notebooks in customizable execution environments (free up to 2 cores, 5GB RAM and no GPU).
+  - [Notebooks.ai](https://notebooks.ai/)
 
 ### Renderers
 - [nbviewer](https://nbviewer.jupyter.org/), render online Jupyter Notebooks
@@ -47,6 +48,7 @@
 ### Servers
 - [Vercel](https://vercel.com/), static and [JAMstack](https://jamstack.org/) deployment, serverless functions, and global CDN.
 - [Heroku](https://www.heroku.com)
+- [ngrok](https://ngrok.com/), share local websites via public URLs
 
 ### Virtual machines
 - [Google Cloud Shell](https://ssh.cloud.google.com/cloudshell/editor?shellonly=true)
