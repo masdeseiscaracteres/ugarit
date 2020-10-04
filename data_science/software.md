@@ -53,6 +53,8 @@
 - Set intersection
   - [UpSet](https://caleydo.org/tools/upset/): visualizing intersecting sets
   - [pyvenn](https://github.com/tctianchi/pyvenn): matplotlib-based Venn diagram for 2 to 6 sets
+- Tables
+  - [VisiData](https://www.visidata.org/): Excel-like command-line utility to quickly review large tabular datasets
 - General-purpose charting tools
   - [Apache ECharts](https://echarts.apache.org): Javascript library featuring a lot of different out-of-the-box graph types.
 
