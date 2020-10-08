@@ -1,7 +1,9 @@
 # Awesome APIs
 
 ## Creating
-- [hug](http://www.hug.rest/), Python library to simplify API creation
+- Python
+  - [hug](http://www.hug.rest/), simple API creation
+  - [FastAPI](https://fastapi.tiangolo.com/), simple API creation, fast, fast-to-code and compatible with OpenAPI (previously known as Swagger) and JSON Schema 
 
 ## Using
 ### Basic examples
