@@ -25,7 +25,8 @@
   - ~~[rawgit](https://rawgit.com/), serves raw files directly from GitHub with proper Content-Type headers~~
   - ~~[roughdraft.io](http://www.roughdraft.io/), render Github gists~~
   - [gistpreview.github.io](https://gistpreview.github.io/), render Github gists
-  - [https://raw.githack.com/](https://raw.githack.com/), render raw Github, Gitlab and Bitbucket files (including gists)
+  - [raw.githack.com](https://raw.githack.com/), render raw Github, Gitlab and Bitbucket files (including gists)
+  - [htmlpreview.github.io](https://htmlpreview.github.io/), render static HTML sites hosted in Github or Bitbucket
 - Reproducible science
   - [Everware](http://everware.xyz)
   - [MyBinder](https://mybinder.org)
