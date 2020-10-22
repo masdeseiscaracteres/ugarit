@@ -10,6 +10,7 @@
 
 ## Data modeling
 - [ERD notation](https://www.omg.org/retail-depository/arts-odm-73/data_modeling_methodology_and_.htm)
+- [What’s the Difference Between an Ontology and a Knowledge Graph?](https://enterprise-knowledge.com/whats-the-difference-between-an-ontology-and-a-knowledge-graph/)
 
 ## Education
 ### Relation algebra
