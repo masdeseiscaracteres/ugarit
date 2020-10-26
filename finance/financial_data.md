@@ -26,9 +26,10 @@
     - [Eurex](http://www.eurexchange.com/exchange-en/products/vendor-product-codes/), Bloomberg, Reuters, etc.
     - [CME settlements](http://www.cmegroup.com/market-data/settlements.html), CME codes
     - [CME](http://www.cmegroup.com/tools-information/vendorSymbol.html), Bloomberg, Reuters, CQG, etc.
-
 - Company/legal entity identifiers
-  -  [Global Legal Entity Identifier (LEI) (ISO 17442)](https://www.gleif.org/en/about-lei/iso-17442-the-lei-code-structure)
+  - [Global Legal Entity Identifier (LEI) (ISO 17442)](https://www.gleif.org/en/about-lei/iso-17442-the-lei-code-structure)
+  - [European Banking Authority: Credit institutions register](https://eba.europa.eu/risk-analysis-and-data/credit-institutions-register)
+  - [Banco de España: Registro de Entidades](https://www.bde.es/bde/es/secciones/servicios/Particulares_y_e/Registros_de_Ent/)
 - Symbologies:
   - [Reuters RICs](http://findb.aalto.fi/docs/Reuters/reuters_dataguide.pdf)
   - [Bloomberg Open Symbology](https://openfigi.com/about)
