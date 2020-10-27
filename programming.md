@@ -11,7 +11,7 @@
 - A Crash Course in C: Appendix A of [this book](http://hades.mech.northwestern.edu/images/e/e3/EmbeddedComputingMechatronicsSampleChapters.pdf) + [video lectures](https://www.youtube.com/playlist?list=PLggLP4f-rq02gmlePH-vQJ8PF6hyf08CN)
 
 ## Software design
-- [UML basics:The class diagram - An introduction to structure diagrams in UML 2](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html)
+- [UML basics: The class diagram - An introduction to structure diagrams in UML 2](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html)
 - [UML Class Diagram Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/), concise introduction to the symbology (property/method markers and relationship) used in UML class diagrams
 - [Design patterns, refactoring.guru](https://refactoring.guru/design-patterns) 
 
