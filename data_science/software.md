@@ -30,6 +30,7 @@
 - [Lifelines](https://lifelines.readthedocs.io/en/latest/index.html)
 
 #### Text-like processing
+Generic
 - [transformers](https://github.com/huggingface/transformers) state-of-the-art NLP for PyTorch and TensorFlow 2.0 (BERT, GPT-2, etc.).
 - [spacy](https://spacy.io/), lots of out-of-the-box features for NLP. Also provides a pipeline class which makes it easy to construct sophisticated statistical models based on other libraries for a variety of NLP problems.
 - [textacy](https://github.com/chartbeat-labs/textacy)
@@ -38,8 +39,16 @@
 - [Gensim](https://radimrehurek.com/gensim/index.html): a library for topic modelling, document indexing and similarity retrieval.
 - [LexNLP](https://lexpredict-lexnlp.readthedocs.io): a library for working with real, unstructured legal text.
 - [Mathy](https://mathy.ai/): reinforcement learning framework to transform mathematical expressions. Interesting way to encode mathematical expressions abstract syntax trees.
+
+Named-entities recognition (NER)
 - [Duckling](https://duckling.wit.ai): identify dates/times, temperatures, amounts of money, phone numbers. Written in Clojure. Wrappers available for Python.
-- [abydos](https://abydos.readthedocs.io/en/latest/abydos.html), library for NLP and information retrieval. `abydos.distance` contains a huge collection of string distance functions.
+- [pypostal](https://github.com/openvenues/pypostal): parse & normalize addresses in every language, everywhere. Python wrapper of [libpostal](https://github.com/openvenues/libpostal).
+
+Distance metrics
+- [abydos](https://abydos.readthedocs.io/en/latest/abydos.html): library for NLP and information retrieval. `abydos.distance` contains a huge collection of string distance functions.
+- [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy): fuzzy string matching based on Levenshtein distance.
+- [rapidfuzz](https://github.com/maxbachmann/rapidfuzz): faster MIT licensed alternative to `fuzzywuzzy'.
+- [regex](https://bitbucket.org/mrabarnett/mrab-regex/): regex implementation compatible with Python's built-in `re` module with some additional functionality such as fuzzy matching. 
 
 #### Association rule & frequent set mining
 - [pyfim](http://www.borgelt.net/pyfim.html)
