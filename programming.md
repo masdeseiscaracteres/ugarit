@@ -15,6 +15,11 @@
 - [UML Class Diagram Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/), concise introduction to the symbology (property/method markers and relationship) used in UML class diagrams
 - [Design patterns, refactoring.guru](https://refactoring.guru/design-patterns) 
 
+## Cloud Technologies
+### Education
+#### Courses
+- [qwiklabs](https://www.qwiklabs.com/): short pay-per-credit courses on specifif Google Cloud Platform topics
+
 ## Abstract data types
 Data types defined by its semantics: possible values, possible operations on it, and the behavior of these operations (from the point of view of a user)
 - Container
