@@ -57,6 +57,10 @@ Distance metrics
 #### Association rule & frequent set mining
 - [pyfim](http://www.borgelt.net/pyfim.html)
 
+### Exploratory data analysis
+- [sweetviz](https://github.com/fbdesignpro/sweetviz)
+- [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
+
 ### Visualization
 - [Compilation of tools](https://pyviz.org/tools.html)
 - Graphs
