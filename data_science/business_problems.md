@@ -16,4 +16,4 @@ The company may encourage the subjects to perform according according to the fol
 - Next-best-action: take an account determined by the customer's interests and needs on the one hand, and the marketing organization's business objectives & policies on the other. In a sales context, this strategy is usually termed *next-best-offer*. 
 
 ## Uplift modelling
-
+Improving (upping) lift (i.e., the difference in response rate between a *treated* and a *control* group) through predictive modeling. 
