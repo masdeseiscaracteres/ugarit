@@ -1,6 +1,9 @@
 # Probability & Statistics
 - [Probability and Statistics Cookbook](http://statistics.zone/)
 
+## Bayesian statistics
+- [Bayes' rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq)
+
 ## Statistical testing
 - Two main approaches: https://en.m.wikibooks.org/wiki/Statistics/Testing_Data/Purpose
 - Differences: [P Value and the Theory of Hypothesis Testing: An Explanation for New Researchers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2816758/#!po=34.2105)
