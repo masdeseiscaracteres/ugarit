@@ -24,6 +24,21 @@
 ### Hypothesis testing (Neyman-Pearson's approach)
 - [Mathematical Justification of Introductory Hypothesis Tests and Development of Reference Materials](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?httpsredir=1&article=1014&context=gradreports)
 
+## Estimation by sampling
+Non-deterministic methods to estimate expectations of a given probability distribution (a.k.a. Monte Carlo integration)
+- Uniform sampling
+- Importance sampling: also used a variance-reduction technique
+
+
+# Sampling methods
+Methods to generate samples from a given probability distribution
+- Inverse transform sampling: given the cumulative distribution function
+- Rejection sampling
+- Markov Chain Monte Carlo
+  - ...
+  - ...
+  - ...
+  
 ## Sample statistics
 ### Unweighted statistics
 - ...
