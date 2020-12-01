@@ -69,7 +69,7 @@ Distance metrics
 - [PyStan](https://pystan.readthedocs.io/en/latest/)
 - CmdStanPy
 - [Pyro](http://pyro.ai/): probabilistic programming language with PyTorch in the backend
-  - [NumPyro](http://num.pyro.ai): Pyro using a numpy backend
+  - [NumPyro](http://num.pyro.ai): Pyro with numpy in the backend
 - [emcee](https://emcee.readthedocs.io/en/stable/)
 - [TensorFlow Probability](https://www.tensorflow.org/probability)
 - Edward
