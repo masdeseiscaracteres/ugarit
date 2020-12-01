@@ -62,6 +62,19 @@ Distance metrics
 #### Association rule & frequent set mining
 - [pyfim](http://www.borgelt.net/pyfim.html)
 
+### Probabilistic models & probabilistic programming
+- [Pomegranate](https://github.com/jmschrei/pomegranate): probabilistic models ranging from individual probability distributions to compositional models such as Bayesian networks, Markov chains and hidden Markov models.
+- [PyMC3](https://docs.pymc.io/): probabilistic programming language with Theano in the backend
+- PyMC4
+- [PyStan](https://pystan.readthedocs.io/en/latest/)
+- CmdStanPy
+- [Pyro](http://pyro.ai/): probabilistic programming language with PyTorch in the backend
+  - [NumPyro](http://num.pyro.ai): Pyro using a numpy backend
+- [emcee](https://emcee.readthedocs.io/en/stable/)
+- [TensorFlow Probability](https://www.tensorflow.org/probability)
+- Edward
+- Edward2
+
 ### Exploratory data analysis
 - [sweetviz](https://github.com/fbdesignpro/sweetviz)
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
@@ -79,6 +92,8 @@ Distance metrics
   - [VisiData](https://www.visidata.org/): Excel-like command-line utility to quickly review large tabular datasets
 - General-purpose charting tools
   - [Apache ECharts](https://echarts.apache.org): Javascript library featuring a lot of different out-of-the-box graph types.
+- Model analysis
+  - [ArviZ](https://arviz-devs.github.io/arviz/index.html): exploratory analysis of Bayesian models
 
 ### Workflow & model management
 - [Kedro](https://kedro.readthedocs.io/en/stable/)
