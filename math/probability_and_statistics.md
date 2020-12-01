@@ -3,8 +3,10 @@
 
 ## Bayesian statistics
 - [Bayes' rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq): intuitive guide to Bayesian reasoning
+- 
 
 ### Bayesian sampling
+- ["Importance sampling", Book Chapter by Art Owen](https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf)
 - [MCMC and Bayesian Modeling, by Martin Haugh @ Columbia University](http://www.columbia.edu/~mh2078/MachineLearningORFE/MCMC_Bayes.pdf): introduction to Bayesian modeling and MCMC sampling algorithms (Metropolis-Hastings and Gibbs Sampling)
 - [[BOOK] "Bayesian Data Analysis" by Andrew Gelman, John Carlin, Hal Stern, Donald Rubin, David Dunson and Aki Vehtari](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf)
   - Part III: Complete review of different sampling methods
