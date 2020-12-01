@@ -62,6 +62,11 @@ Distance metrics
 #### Association rule & frequent set mining
 - [pyfim](http://www.borgelt.net/pyfim.html)
 
+### Automatic differentiation
+- [jax](https://github.com/google/jax) (see description above)
+- [Tangent](https://github.com/google/tangent): source-to-source automatic differentiation
+
+
 ### Probabilistic models & probabilistic programming
 - [Pomegranate](https://github.com/jmschrei/pomegranate): probabilistic models ranging from individual probability distributions to compositional models such as Bayesian networks, Markov chains and hidden Markov models.
 - [PyMC3](https://docs.pymc.io/): probabilistic programming language with Theano in the backend
