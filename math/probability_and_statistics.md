@@ -8,7 +8,10 @@
 ### Bayesian sampling
 - ["Importance sampling", Book Chapter by Art Owen](https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf)
 - [MCMC and Bayesian Modeling, by Martin Haugh @ Columbia University](http://www.columbia.edu/~mh2078/MachineLearningORFE/MCMC_Bayes.pdf): introduction to Bayesian modeling and MCMC sampling algorithms (Metropolis-Hastings and Gibbs Sampling)
-- [[BOOK] "Bayesian Data Analysis" by Andrew Gelman, John Carlin, Hal Stern, Donald Rubin, David Dunson and Aki Vehtari](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf)
+- ["Information Theory, Inference, and Learning Algorithms", book by David J.C. MacKay](https://www.inference.org.uk/itprnn/book.pdf)
+  - Chapter 29, "Monte Carlo Methods": uniform sampling, importance sampling, rejection sampling, the Metropolis method, Gibbs sampling, and slice sampling.
+  - Chapter 37: "Bayesian Inference and Sampling Theory": criticism of the sampling theory (frequentist) approach vs the Bayesian approach
+- ["Bayesian Data Analysis", book by Andrew Gelman, John Carlin, Hal Stern, Donald Rubin, David Dunson and Aki Vehtari](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf)
   - Part III: Complete review of different sampling methods
 
 ## Statistical testing
