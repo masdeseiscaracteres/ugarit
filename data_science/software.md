@@ -68,6 +68,7 @@ Distance metrics
 
 
 ### Probabilistic models & probabilistic programming
+- [hmmlearn](https://hmmlearn.readthedocs.io/en/latest/index.html): sklearn API for Hidden Markov Models (Gaussian, Gaussians mixture & Multinomial emissions) 
 - [Pomegranate](https://github.com/jmschrei/pomegranate): probabilistic models ranging from individual probability distributions to compositional models such as Bayesian networks, Markov chains and hidden Markov models.
 - [PyMC3](https://docs.pymc.io/): probabilistic programming language with Theano in the backend
 - PyMC4
