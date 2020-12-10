@@ -140,7 +140,9 @@
 ### Testing
 - [httpstat.us](http://httpstat.us): [example](http://httpstat.us/503)
 - [httpbin.org](https://httpbin.org/): [example](https://httpbin.org/get)
-- [CORS anywhere](http://cors-anywhere.herokuapp.com/): [alternative URL](https://cors.apis.guru/)
+- CORS proxy
+  - [CORS proxy](https://cors.isomorphic-git.org/])
+  - [CORS anywhere](http://cors-anywhere.herokuapp.com/): [alternative URL](https://cors.apis.guru/)
 
 ## Scientific writing
 - [Authorea](https://www.authorea.com), collaborative article editor, free for unlimited public documents
