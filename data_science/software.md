@@ -84,6 +84,7 @@ Distance metrics
 ### Exploratory data analysis
 - [sweetviz](https://github.com/fbdesignpro/sweetviz)
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
+- [lux](https://github.com/lux-org/lux/)
 
 ### Visualization
 - [Compilation of tools](https://pyviz.org/tools.html)
