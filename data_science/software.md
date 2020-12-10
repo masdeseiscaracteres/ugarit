@@ -2,7 +2,7 @@
 ## Python
 ### Numerical computations
 - [numpy](https://numpy.org/): the flagship linear algebra/numerical computation library for Python.
-- [jax](https://github.com/google/jax): numpy for CPU, GPU and TPU + composable numerical function transformations (includes autodifferentiation, JIT compilation, auto-vectorization, etc.)
+- [jax](https://github.com/google/jax): "numpy" for CPU, GPU and TPU + composable numerical function transformations (includes autodifferentiation, JIT compilation, auto-vectorization, etc.)
 - [numba](http://numba.pydata.org/): JIT compilation of a subset of numpy operations
 
 ### Machine learning
