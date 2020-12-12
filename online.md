@@ -45,6 +45,7 @@
 - [Docker hub](https://hub.docker.com/): Docker images (free)
 - [Anaconda Cloud](https://anaconda.org/): notebooks, environments, conda and PyPI packages (free up to 3 GB)
 - [Gemfury](https://gemfury.com): RubyGems, npm, Python, Composer, DEB, RPM and NuGet packages (free for public packages)
+- [Azure Artifacts](https://docs.microsoft.com/en-us/azure/devops/artifacts/?view=azure-devops): NuGet, Maven, npm and Python packages, integrated with Azure DevOps pipelines. Free up to 2GB.
 
 ### Servers
 - [Vercel](https://vercel.com/), static and [JAMstack](https://jamstack.org/) deployment, serverless functions, and global CDN.
