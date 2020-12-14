@@ -178,6 +178,10 @@
 - [Piazza](https://piazza.com/): free Q&A platform
 - [Canvas & boards](#canvas--boards)
 
+## Quizzes
+- [Kahoot](https://kahoot.com/)
+- [Quizizz](https://quizizz.com)
+
 ## Canvas & boards
 - [lino](http://linoit.com): sticky notes and canvas for online collaboration
 - [Mural](https://mural.co): free-30 day trial
