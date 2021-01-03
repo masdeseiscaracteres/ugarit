@@ -106,6 +106,7 @@ Distance metrics
 - [Kedro](https://kedro.readthedocs.io/en/stable/)
 - [MLFlow](https://mlflow.org/docs/latest/index.html): open source platform for managing the end-to-end machine learning lifecycle (i.e. tracking experiment parameters and results, packaging, deploying, version control)
 - [Cortex: deploy ML models in production](https://www.cortex.dev/): an open-source alternative to Amazon SageMaker
+- [Neptune.ai](https://neptune.ai/): AI experiment tracking/managing/monitoring service. Has a free tier for personal and academic/research use.
 
 
 
