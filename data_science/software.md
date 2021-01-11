@@ -77,7 +77,7 @@ Distance metrics
 - [TensorFlow Probability](https://www.tensorflow.org/probability): probabilistic programming with Tensorflow as computation backend.
 - [Pyro](http://pyro.ai/): probabilistic programming language with PyTorch as computational backend.
   - [NumPyro](http://num.pyro.ai): Pyro with numpy as computational the backend
-- Stan
+- [Stan](https://mc-stan.org/): probabilistic programming language and platform
   - [PyStan](https://pystan.readthedocs.io/en/latest/): a Python wrapper for Stan, a package for Bayesian inference using the No-U-Turn sampler, a variant of Hamiltonian Monte Carlo (HMC).
   - [CmdStanPy](https://pycmdstan.readthedocs.io/en/latest/): lightweight pure-Python interface to CmdStan (command line interface of Stan)
 - Edward
