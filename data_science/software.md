@@ -70,16 +70,22 @@ Distance metrics
 ### Probabilistic models & probabilistic programming
 - [hmmlearn](https://hmmlearn.readthedocs.io/en/latest/index.html): sklearn API for Hidden Markov Models (Gaussian, Gaussians mixture & Multinomial emissions) 
 - [Pomegranate](https://github.com/jmschrei/pomegranate): probabilistic models ranging from individual probability distributions to compositional models such as Bayesian networks, Markov chains and hidden Markov models.
-- [PyMC3](https://docs.pymc.io/): probabilistic programming language with Theano in the backend
-- PyMC4
-- [PyStan](https://pystan.readthedocs.io/en/latest/)
-- CmdStanPy
-- [Pyro](http://pyro.ai/): probabilistic programming language with PyTorch in the backend
-  - [NumPyro](http://num.pyro.ai): Pyro with numpy in the backend
-- [emcee](https://emcee.readthedocs.io/en/stable/)
-- [TensorFlow Probability](https://www.tensorflow.org/probability)
+
+- PyMC
+  - [PyMC3](https://docs.pymc.io/): probabilistic programming language with Theano (with JAX implementations) as computational backend.
+  - ~PyMC4~: experiment to use Tensorflow as computational backend. Development stopped in favor of adding JAX implementations to PyMC3 + Theano.
+- [TensorFlow Probability](https://www.tensorflow.org/probability): probabilistic programming with Tensorflow as computation backend.
+- [Pyro](http://pyro.ai/): probabilistic programming language with PyTorch as computational backend.
+  - [NumPyro](http://num.pyro.ai): Pyro with numpy as computational the backend
+- Stan
+  - [PyStan](https://pystan.readthedocs.io/en/latest/): a Python wrapper for Stan, a package for Bayesian inference using the No-U-Turn sampler, a variant of Hamiltonian Monte Carlo (HMC).
+  - [CmdStanPy](https://pycmdstan.readthedocs.io/en/latest/): lightweight pure-Python interface to CmdStan (command line interface of Stan)
 - Edward
-- Edward2
+  - [Edward](https://github.com/blei-lab/edward): Python library for probabilistic modeling, inference, and criticism. 
+  - [Edward2](https://github.com/google/edward2): a simple probabilistic programming language
+  
+Samplers
+- [emcee](https://emcee.readthedocs.io/en/stable/):  pure-Python implementation of Goodman & Weare’s Affine Invariant Markov chain Monte Carlo (MCMC) Ensemble sampler
 
 ### Exploratory data analysis
 - [sweetviz](https://github.com/fbdesignpro/sweetviz)
