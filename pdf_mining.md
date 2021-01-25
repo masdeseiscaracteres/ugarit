@@ -31,6 +31,7 @@ by Kas Thomas](http://preserve.mactech.com/articles/mactech/Vol.15/15.09/PDFIntr
 - pdftk :grey_question:
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF), Python wrapper for MuPDF
 - PyPDF2 :grey_question:
+- [PyFPDF](https://github.com/PyFPDF/fpdf2), Python PDF-writing library (inspired in PHP's FPDF library).
 
 #### Low-level libraries
 - [PDFxStream](https://www.snowtide.com/), commercial library featuring text extraction, image extraction, form reading and filling and low level PDF handling capabilities.
