@@ -37,7 +37,7 @@ by Kas Thomas](http://preserve.mactech.com/articles/mactech/Vol.15/15.09/PDFIntr
 - [PDFxStream](https://www.snowtide.com/), commercial library featuring text extraction, image extraction, form reading and filling and low level PDF handling capabilities.
 - [iText](https://itextpdf.com)
 - [MuPDF](https://mupdf.com/)
-- [Xpdf]](https://www.glyphandcog.com/)
+- [Xpdf](https://www.glyphandcog.com/)
 - libpoppler, Poppler is a PDF rendering library based on the xpdf-3.0 code base
 - pdfminer, pure Python PDF parser
 - [PDFBox](https://pdfbox.apache.org/), extract texts, split & merge, fill forms, preflight, print, save as image, creation, signing. Used as backend by Apache Tika.
