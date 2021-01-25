@@ -190,4 +190,5 @@
 - [Microsoft Whiteboard](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app?SilentAuth=1): for business and educational institutions
 - [Webex Whiteboard](https://www.webex.com/): free plan including desktop, application, file & whiteboard sharing
 - [FunRetro](https://funretro.io/): interactive Kanban-style boards, useful to collect brainstorming ideas, feedback, retrospective meetings... and let participants vote on the ideas. It allows sharing a link and letting anonymous people write.
+- [EasyRetro](https://easyretro.io/): another alternative similar to FunRetro.
 - [StoryMap](https://storymap.knightlab.com/): tell a story through maps and linked multimedia material.
