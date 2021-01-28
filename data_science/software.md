@@ -24,8 +24,8 @@
 
 #### Recommender systems
 - [Implicit](https://implicit.readthedocs.io/en/latest/index.html)
-- MLxtend
-- scikit-surprise
+- [MLxtend](http://rasbt.github.io/mlxtend/), see 'frequent_patterns' section
+- [scikit-surprise](http://surpriselib.com/)
 
 #### Similarity & matching
 - [Dedupe](https://github.com/dedupeio/dedupe), by dedupe.io
