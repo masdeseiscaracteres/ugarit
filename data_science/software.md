@@ -27,6 +27,9 @@
 - [MLxtend](http://rasbt.github.io/mlxtend/), see 'frequent_patterns' section
 - [scikit-surprise](http://surpriselib.com/)
 
+#### Association rule & frequent set mining
+- [pyfim](http://www.borgelt.net/pyfim.html)
+
 #### Similarity & matching
 - [Dedupe](https://github.com/dedupeio/dedupe), by dedupe.io
 - [faiss](https://github.com/facebookresearch/faiss), by Facebook research
@@ -58,9 +61,6 @@ Distance metrics
 - [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy): fuzzy string matching based on Levenshtein distance.
 - [rapidfuzz](https://github.com/maxbachmann/rapidfuzz): faster MIT licensed alternative to `fuzzywuzzy'.
 - [regex](https://bitbucket.org/mrabarnett/mrab-regex/): regex implementation compatible with Python's built-in `re` module with some additional functionality such as fuzzy matching. 
-
-#### Association rule & frequent set mining
-- [pyfim](http://www.borgelt.net/pyfim.html)
 
 ### Automatic differentiation
 - [jax](https://github.com/google/jax) (see description above)
