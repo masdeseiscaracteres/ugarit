@@ -107,7 +107,10 @@ Samplers
   - [Apache ECharts](https://echarts.apache.org): Javascript library featuring a lot of different out-of-the-box graph types.
 - Model analysis
   - [ArviZ](https://arviz-devs.github.io/arviz/index.html): exploratory analysis of Bayesian models
-
+- Animations
+ - [Manim](https://docs.manim.community/en/latest/index.html): mathematical animation videos written in Python
+ - [Processing](https://processing.org/): programming language to make interactive graphics
+ 
 ### Workflow & model management
 - [Kedro](https://kedro.readthedocs.io/en/stable/)
 - [MLFlow](https://mlflow.org/docs/latest/index.html): open source platform for managing the end-to-end machine learning lifecycle (i.e. tracking experiment parameters and results, packaging, deploying, version control)
