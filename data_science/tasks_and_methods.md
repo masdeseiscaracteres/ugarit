@@ -5,7 +5,7 @@
   - Total least squares
 - [GLM, Generalized linear model](https://en.wikipedia.org/wiki/Generalized_linear_model): predicts by fitting a linear model to an arbitrary transformation of the expected value of the output variables given the input variables.
   <p align="center">
-    <img height="40" src="https://render.githubusercontent.com/render/math?math={\displaystyle\operatorname{E}(\mathbf{Y}|\mathbf{X})={\boldsymbol{\mu}}=g^{-1}(\mathbf{X}{\boldsymbol{\omega}})}">
+    <img height="40" src="https://render.githubusercontent.com/render/math?math={\displaystyle E(\mathbf{Y}|\mathbf{X})={\boldsymbol{\mu}}=g^{-1}(\mathbf{X}{\boldsymbol{\omega}})}">
   </p>
 
 - LASSO regression
