@@ -15,7 +15,7 @@
 ### Binary classification
 - Logistic regression: linear regression that explains the log-odds of the output. Equivalent to explaining the probability of the output by transforming a linear regression using a [logistic function](https://en.wikipedia.org/wiki/Logistic_function).
   <p align="center">
-    <img height="30" src="https://render.githubusercontent.com/render/math?math==\ln\left({\frac{p}{1-p}}\right)=\mathbf{X}{\boldsymbol{\omega}}">
+    <img height="40" src="https://render.githubusercontent.com/render/math?math=\log\left({\frac{p}{1-p}}\right)=\mathbf{X}{\boldsymbol{\omega}}">
   </p>  
 - Probit regression: restrict linear regression output to the [0,1] interval using the CDF of the normal distribution
 - FDA (Fisher Discriminant Analysis)
