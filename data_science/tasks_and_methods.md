@@ -40,6 +40,10 @@
 ### Multi-label classification
 - ...
 
+
+## Ordinal regression/Ordinal classification
+- [Logistic Ordinal Regression](http://fa.bianp.net/blog/2013/logistic-ordinal-regression/)
+
 ## Metric learning
 - ...
 
