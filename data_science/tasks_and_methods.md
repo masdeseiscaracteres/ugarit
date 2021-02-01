@@ -3,7 +3,7 @@
 - Linear regression
   - Ordinary least squares
   - Total least squares
-- [GLM, Generalized linear model](https://en.wikipedia.org/wiki/Generalized_linear_model)
+- [GLM, Generalized linear model](https://en.wikipedia.org/wiki/Generalized_linear_model): predicts by fitting a linear modelo to an arbitrary transformation of the expected value of the output variables given the input variables.
 - LASSO regression
 - Ridge regression
 
