@@ -66,6 +66,8 @@ Distance metrics
 - [jax](https://github.com/google/jax) (see description above)
 - [Tangent](https://github.com/google/tangent): source-to-source automatic differentiation
 
+### AutoML
+- [Microsoft NNI (Neural Network Intelligence)](https://github.com/microsoft/nni)
 
 ### Probabilistic models & probabilistic programming
 - [hmmlearn](https://hmmlearn.readthedocs.io/en/latest/index.html): sklearn API for Hidden Markov Models (Gaussian, Gaussians mixture & Multinomial emissions) 
