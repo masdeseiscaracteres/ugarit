@@ -56,6 +56,9 @@ Named-entities recognition (NER)
 - [Duckling](https://duckling.wit.ai): identify dates/times, temperatures, amounts of money, phone numbers. Written in Clojure. Wrappers available for Python.
 - [pypostal](https://github.com/openvenues/pypostal): parse & normalize addresses in every language, everywhere. Python wrapper of [libpostal](https://github.com/openvenues/libpostal).
 
+Keyword extraction
+- [https://github.com/LIAAD/yake](https://github.com/LIAAD/yake): includes references to other libraries solving the same task
+
 Distance metrics
 - [abydos](https://abydos.readthedocs.io/en/latest/abydos.html): library for NLP and information retrieval. `abydos.distance` contains a huge collection of string distance functions.
 - [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy): fuzzy string matching based on Levenshtein distance.
