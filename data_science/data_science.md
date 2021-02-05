@@ -39,8 +39,11 @@ Ideal for fast exploration plots.
 - [Streamlit](https://www.streamlit.io)
 
 ## Distance metrics
+Libraries:
 - [textdistance](https://github.com/orsinium/textdistance), Python package
 - [abydos.distance](https://abydos.readthedocs.io/en/latest/abydos.distance.html), Python package (includes block edit distances)
+Educational:
+- [BLOG POST][9 Distance Measures in Data Science](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
 
 ## Machine-learned rankings
 
@@ -50,11 +53,13 @@ Ideal for fast exploration plots.
 ## Classification
 
 ### Binary classification name equivalences
+Notation: P(predicted|truth)
+
 Generic names
-- P(1|1): TPR
-- P(1|0): FPR
-- P(0|1): FNR
-- P(0|0): TNR
+- P(1|1): TPR (True Positive Rate)
+- P(1|0): FPR (False Positive Rate)
+- P(0|1): FNR (False Negative Rate)
+- P(0|0): TNR (True Negative Rate)
 
 Diagnosis
 - P(1|1): sensitivity
@@ -74,7 +79,7 @@ Signal detection
 
 Statistical hyphotesis testing
 - P(1|1): power (1-beta)
-- P(1|0): significance level, Type I error rate (alpha)
+- P(1|0): significance level, type I error rate (alpha)
 - P(0|1): type II error rate (beta)
 
 ## Ensemble methods
@@ -86,8 +91,8 @@ Statistical hyphotesis testing
 
 ### Stacking
 
-## Sampling
-- [Visualization of random sampling techniques](https://chi-feng.github.io/mcmc-demo/app.html), sample from an N-dimensional probability density function
+## Feature engineering
+- [Encoding categorical variables](https://heartbeat.fritz.ai/hands-on-with-feature-engineering-techniques-encoding-categorical-variables-be4bc0715394): one-hot encoding, count or frequency encoding, ordinal or label encoding, ordered label encoding, mean encoding, probability ratio encoding, weight of evidence, rare labels encoding, binary encoding 
 
 ## Binning
 - [Finding natural breaks in data: the Fisher-Jenks algorithm](https://pbpython.com/natural-breaks.html), compared to other approaches such as equally-sized and equally-populated binning.
