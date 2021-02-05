@@ -1,3 +1,9 @@
+Build a big table indicating the following properties for each method
+
+Type of reasoning: inductive, deductive
+Type of induction: Prediction, description, prescription
+Type of task: regression, classification, clustering, subgroup discovery
+
 # Tasks & methods
 ## Regression
 - Linear regression
@@ -32,7 +38,6 @@
 - QDA (Quadratic Discriminant Analysis)
 - RDA (Regularized Discriminant Analysis)
 - [SVC (Support Vector Classifier)](http://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf)
-
 
 ### Multi-class classification
 - Naive Bayes
@@ -79,7 +84,7 @@
 ## Survival analysis
 ...
 
-## Subgroup Discovery
+## Subgroup discovery
 Subgroup discovery attempts to search relations between different properties or variables of a set with respect to a target variable. Due to the fact that subgroup discovery is focused in the extraction of relations with interesting characteristics, it is not necessary to obtain complete but partial relations.
 
 ## Clustering
