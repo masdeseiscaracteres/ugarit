@@ -9,6 +9,7 @@
 - [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 - [OpenML](https://www.openml.org/), database including datasets, pipelines, learning tasks, ...
 - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/), network (graph) datasets
+- [PapersWithCode datasets](https://paperswithcode.com/datasets)
 - Datasets embedded in libraries:
   - Python
     - [`sklearn.datasets`](https://scikit-learn.org/stable/datasets/index.html)
