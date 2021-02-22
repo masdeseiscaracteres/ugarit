@@ -65,6 +65,7 @@
 
 ## Unix
 - [Explain Shell](explainshell.com): interactive explanation of Unix command lines based on manpages information
+- [Shellcheck](https://www.shellcheck.net/): a tool that gives warnings and suggestions for bash/sh shell scripts
 
 ## Git
 - [Git history editor](https://bokub.github.io/git-history-editor/)
