@@ -18,8 +18,8 @@ Type of task: regression, classification, clustering, subgroup discovery
 - LASSO regression
 - Ridge regression
 
-- [PLS regression](https://personal.utdallas.edu/~herve/Abdi-PLS-pretty.pdf) (Partial Least Squares or Projection to Latent Structures)
 - Principal Components Regression: PCA + Linear regression
+- [PLS regression](https://personal.utdallas.edu/~herve/Abdi-PLS-pretty.pdf) (Partial Least Squares or Projection to Latent Structures): performs a simultaneous decomposition of X and Y with the constraint that these components explain as much as possible of the covariance between X and Y. This generalizes PCA. The latent components are then used for regression.
 - Gaussian process regression: [visual exploration](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 ## Classification
