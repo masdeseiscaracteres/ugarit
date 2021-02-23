@@ -71,6 +71,7 @@ Type of task: regression, classification, clustering, subgroup discovery
 - [Semidefinite embedding (SDE) or maximum variance unfolding (MVU)](https://en.wikipedia.org/wiki/Semidefinite_embedding)
 - Laplacian eigenmaps
 - UMAP
+- [Elastic map](https://en.wikipedia.org/wiki/Elastic_map)
 - [Corex (Correlation Explanation)](https://github.com/gregversteeg/bio_corex/): searches for a set of latent factors that best explain the correlations in the data as measured by multivariate mutual information.
 
 ## Multi-criteria decision making
