@@ -51,6 +51,7 @@
 - [Vercel](https://vercel.com/), static and [JAMstack](https://jamstack.org/) deployment, serverless functions, and global CDN.
 - [Heroku](https://www.heroku.com)
 - [ngrok](https://ngrok.com/), share local websites via public URLs
+- [appsmith](https://www.appsmith.com/): built small web apps connecting to databases, APIs, etc. faster than ever
 
 ### Virtual machines
 - [Google Cloud Shell](https://ssh.cloud.google.com/cloudshell/editor?shellonly=true)
