@@ -65,6 +65,9 @@ Distance metrics
 - [rapidfuzz](https://github.com/maxbachmann/rapidfuzz): faster MIT licensed alternative to `fuzzywuzzy'.
 - [regex](https://bitbucket.org/mrabarnett/mrab-regex/): regex implementation compatible with Python's built-in `re` module with some additional functionality such as fuzzy matching. 
 
+### Outlier detection
+- [pyod](https://github.com/yzhao062/pyod/)
+
 ### Automatic differentiation
 - [jax](https://github.com/google/jax) (see description above)
 - [Tangent](https://github.com/google/tangent): source-to-source automatic differentiation
@@ -96,6 +99,8 @@ Samplers
 - [sweetviz](https://github.com/fbdesignpro/sweetviz)
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
 - [lux](https://github.com/lux-org/lux/)
+Missing data analysis:
+- [missingno](https://github.com/ResidentMario/missingno)
 
 ### Visualization
 - [Compilation of tools](https://pyviz.org/tools.html)
