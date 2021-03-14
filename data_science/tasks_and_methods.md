@@ -36,10 +36,11 @@ Type of task: regression, classification, clustering, subgroup discovery
 - FDA (Fisher Discriminant Analysis)
 - LDA (Linear Discriminant Analysis)
 - QDA (Quadratic Discriminant Analysis)
-- RDA (Regularized Discriminant Analysis)
+- RDA (Regularized Discriminant Analysis): Friedman 1989
 - [SVC (Support Vector Classifier)](http://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf)
 - Nearest centroids
-- [Nearest shrunken centroids](http://statweb.stanford.edu/~tibs/ftp/STS040.pdf)
+- [NSC (Nearest Shrunken Centroids)](http://statweb.stanford.edu/~tibs/ftp/STS040.pdf)
+  - It is related to LDA, RDA, and Nearest Centroids as described in the original paper.
 
 ### Multi-class classification
 - Naive Bayes
