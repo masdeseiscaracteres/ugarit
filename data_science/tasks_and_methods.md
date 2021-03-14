@@ -38,7 +38,7 @@ Type of task: regression, classification, clustering, subgroup discovery
 - QDA (Quadratic Discriminant Analysis)
 - RDA (Regularized Discriminant Analysis)
 - [SVC (Support Vector Classifier)](http://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf)
-- Nearest centroids classifier
+- Nearest centroids
 - [Nearest shrunken centroids](http://statweb.stanford.edu/~tibs/ftp/STS040.pdf)
 
 ### Multi-class classification
