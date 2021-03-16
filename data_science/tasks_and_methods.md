@@ -49,6 +49,8 @@ Type of task: regression, classification, clustering, subgroup discovery
 ### Multi-label classification
 - ...
 
+## [Record linkage](https://en.wikipedia.org/wiki/Record_linkage) / data matching
+- 
 
 ## Ordinal regression/Ordinal classification
 - [Logistic Ordinal Regression](http://fa.bianp.net/blog/2013/logistic-ordinal-regression/)
