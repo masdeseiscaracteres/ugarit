@@ -30,9 +30,10 @@
 #### Association rule & frequent set mining
 - [pyfim](http://www.borgelt.net/pyfim.html)
 
-#### Similarity & matching
+#### Similarity, matching and record linkage 
 - [Dedupe](https://github.com/dedupeio/dedupe), by dedupe.io
 - [faiss](https://github.com/facebookresearch/faiss), by Facebook research
+- [splink](https://github.com/moj-analytical-services/splink)
 
 #### Survival analysis
 - [Lifelines](https://lifelines.readthedocs.io/en/latest/index.html)
