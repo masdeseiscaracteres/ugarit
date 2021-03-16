@@ -30,7 +30,7 @@
 #### Association rule & frequent set mining
 - [pyfim](http://www.borgelt.net/pyfim.html)
 
-#### Similarity, matching and record linkage 
+#### Duplicate detection, similarity/fuzzy data matching, record linkage or entity resolution 
 - [Dedupe](https://github.com/dedupeio/dedupe), by dedupe.io
 - [faiss](https://github.com/facebookresearch/faiss), by Facebook research
 - [splink](https://github.com/moj-analytical-services/splink)
