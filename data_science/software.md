@@ -40,7 +40,7 @@
 
 #### Text-like processing
 Generic
-- [Spark NLP](https://nlp.johnsnowlabs.com/docs/en/quickstart), one of the more complete NLP toolboxes
+- [Spark NLP](https://nlp.johnsnowlabs.com/docs/en/quickstart), one of the most complete NLP toolboxes
 - [spacy](https://spacy.io/), lots of out-of-the-box features for NLP. Also provides a pipeline class which makes it easy to construct sophisticated statistical models based on other libraries for a variety of NLP problems.
   - [textacy](https://github.com/chartbeat-labs/textacy), processing steps to be conducted before and after Spacy pipelines.
 - [nltk](https://www.nltk.org/)
