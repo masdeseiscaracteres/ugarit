@@ -11,4 +11,7 @@
 
 
 ## Documentation
-- [Spark API documentation](http://spark.apache.org/docs/latest/api.html): access to all APIs (Java, Scala, Python, R)
+- [Spark API documentation](https://spark.apache.org/docs/latest/): access to all APIs (Java, Scala, Python, R)
+  - [Spark Javadocs](https://spark.apache.org/docs/latest/api/java/index.html)
+  - [PySpark (Python interface) documentation](https://spark.apache.org/docs/latest/api/python/)
+- [Graphframes documentation](http://graphframes.github.io/graphframes/docs/_site/index.html)
