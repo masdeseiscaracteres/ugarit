@@ -53,6 +53,15 @@ Generic
 - [LexNLP](https://lexpredict-lexnlp.readthedocs.io): a library for working with real, unstructured legal text.
 - [Mathy](https://mathy.ai/): reinforcement learning framework to transform mathematical expressions. Interesting way to encode mathematical expressions abstract syntax trees.
 
+Preprocessing
+- Contractions
+  - [pycontractions](https://github.com/ian-beaver/pycontractions)
+  - [contractions](https://pypi.org/project/contractions/)
+- Numbers to words and the other way around 
+  - [num2words](https://pypi.org/project/num2words/)
+- Emojis
+  - [emoji](https://github.com/carpedm20/emoji/)
+
 Named-entities recognition (NER)
 - [Duckling](https://duckling.wit.ai): identify dates/times, temperatures, amounts of money, phone numbers. Written in Clojure. Wrappers available for Python.
 - [pypostal](https://github.com/openvenues/pypostal): parse & normalize addresses in every language, everywhere. Python wrapper of [libpostal](https://github.com/openvenues/libpostal).
