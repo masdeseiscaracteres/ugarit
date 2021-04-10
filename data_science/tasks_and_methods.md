@@ -43,11 +43,19 @@ Type of task: regression, classification, clustering, subgroup discovery
   - It is related to LDA, RDA, and Nearest Centroids as described in the original paper.
 
 ### Multi-class classification
-- Naive Bayes
-- One-vs-all or one-vs-one extensions of FDA, LDA, QDA
+- One-vs-all(-but-one) or one-vs-one extensions of FDA, LDA, QDA
+- NB (Naive Bayes)
+  - MNB (Multinomial Naive Bayes): the 
+  - [CNB (Complement Naive Bayes)](https://people.csail.mit.edu/jrennie/papers/icml03-nb.pdf): alternative to multinomial naive bayes that addresses some of its limitations:
+    - Limitation 1: it shrinks weights for classes with few training examples. A solution is estimating the parameters using data from classes other than the one of interest. This gives rise to Complement Naive Bayes.
+    - Limitation 2: features are assumed to be independent. The consequence is that the impact of classes with strong feature dependencies is larger when compared to classes with less feature dependencies. A solution is normalizing the classification weights giving rise to Weight-normalized Complement Naive Bayes.
+    - Limitation 3: it doesn't model text well. 
+      - A power law distribution may be a better fit. Solution: transform word frequency, for example, doing f_i'=log(d+f_i}.
+      - Document frequency is not taken into account. Solution: give a lower weight to words that are common across document, for example, using TF-IDF.
+      - Words are more likely to occur in longer documents. Solution: normalize word counts, for example, doing f_i'=f_i/(\sum(f_k)^2. This change has a subtle effect because, for classification, comparisons are made across classes and across documents. 
 
 ### Multi-label classification
-- ...
+- One-vs-all(-but-one) Naive Bayes
 
 ## [Record linkage](https://en.wikipedia.org/wiki/Record_linkage) / data matching
 - 
