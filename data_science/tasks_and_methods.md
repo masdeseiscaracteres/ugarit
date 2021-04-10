@@ -1,4 +1,4 @@
-Build a big table indicating the following properties for each method
+Build a big table indicating the following properties for each method. Or a graph showing relationships, generalizations, definitions, etc...
 
 Type of reasoning: inductive, deductive
 Type of induction: Prediction, description, prescription
@@ -44,7 +44,7 @@ Type of task: regression, classification, clustering, subgroup discovery
 
 ### Multi-class classification
 - One-vs-all(-but-one) or one-vs-one extensions of FDA, LDA, QDA
-- NB (Naive Bayes)
+- NB ([Naive Bayes](http://web.cs.iastate.edu/~honavar/bayes-lewis.pdf))
   - MNB (Multinomial Naive Bayes): the 
   - [CNB (Complement Naive Bayes)](https://people.csail.mit.edu/jrennie/papers/icml03-nb.pdf): alternative to multinomial naive bayes that addresses some of its limitations:
     - Limitation 1: it shrinks weights for classes with few training examples. A solution is estimating the parameters using data from classes other than the one of interest. This gives rise to Complement Naive Bayes.
@@ -55,7 +55,7 @@ Type of task: regression, classification, clustering, subgroup discovery
       - Words are more likely to occur in longer documents. Solution: normalize word counts, for example, doing f_i'=f_i/(\sum(f_k)^2. This change has a subtle effect because, for classification, comparisons are made across classes and across documents. 
 
 ### Multi-label classification
-- One-vs-all(-but-one) Naive Bayes
+- It can be built from many one-vs-rest models
 
 ## [Record linkage](https://en.wikipedia.org/wiki/Record_linkage) / data matching
 - 
