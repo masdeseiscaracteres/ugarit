@@ -105,9 +105,17 @@ Subgroup discovery attempts to search relations between different properties or 
 - ...
 
 ## Text
-### Text summarization
+### Keyword extraction/text summarization
+Keyword extraction and text summarization can be regarded as the same task, the only difference is that for keyword extraction we must look at the document as a word collection whereas, for text summarization, we must look at it as a sentence collection.
 - [LSA (Latent Semantic Analysis)](http://www.kiv.zcu.cz/~jstein/publikace/isim2004.pdf): known as LSI (Latent Semantic Indexing) in Information Retrieval.
-- 
+- TextRank: based on [PageRank](https://en.wikipedia.org/wiki/PageRank)
+  1. Compute the TF-IDF matrix
+  2. Compute a similarity metric among the sentences in the document. Similarity can be calculated as the correlation among TF-IDF vectors. To compute similarity among words instead of sentences we can use the number of co-ocurrences among words in a sliding window of a given size.
+  3. Build a graph where each sentence is represented as a node (edge weights represent sentence similarity)
+  4. Run PageRank algorithm on this graph
+- [RAKE (Rapid Automatic Keyword Extraction)](https://www.researchgate.net/publication/227988510_Automatic_Keyword_Extraction_from_Individual_Documents)
+- Most relevant n-grams (by relative frequency, o conditional probability)
+
 
 # Comparisons
 - [Partial least squares vs Principal Components regression](https://www.mathworks.com/help/stats/examples/partial-least-squares-regression-and-principal-components-regression.html)
