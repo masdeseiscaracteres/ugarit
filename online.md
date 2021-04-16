@@ -150,6 +150,9 @@
   - [CORS proxy](https://cors.isomorphic-git.org/])
   - [CORS anywhere](http://cors-anywhere.herokuapp.com/): [alternative URL](https://cors.apis.guru/)
 
+### Proxies
+- [images.weserv.nl](https://images.weserv.nl/docs/): allows loading HTTP images from a HTTPS domain and many image transformations
+
 ## Scientific writing
 - [Authorea](https://www.authorea.com), collaborative article editor, free for unlimited public documents
 ### LaTeX
