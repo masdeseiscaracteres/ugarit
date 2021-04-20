@@ -117,8 +117,7 @@ Keyword extraction and text summarization can be regarded as the same task, the 
 - Most relevant n-grams (by relative frequency, o conditional probability)
 
 ### Text embeddings
-- [Word2Vec]()
-- [Skip-gram](): Embedding + Logistic Regression. Input: one-hot encoded word, output: probability of words in the context of the input word (obtained by counting co-ocurrences in sliding window contexts). Both the Logistic Regression coefficients and embedding matrix are learned during training. Usually we are interested in the embedding matrix but the classifier itself may be used for a text autocompletion task.
+- Word2Vec: Embedding + Logistic Regression. Input: one-hot encoded word, output: probability of words in the context of the input word (obtained by counting co-ocurrences in sliding window contexts, see [skip-gram](https://en.wikipedia.org/wiki/N-gram#Skip-gram) for possibilites, typically a n-skip-2-gram is used). Both the Logistic Regression coefficients and embedding matrix are learned during training. Usually we are interested in the embedding matrix but the classifier itself may be used for a text autocompletion task.
 
 # Comparisons
 - [Partial least squares vs Principal Components regression](https://www.mathworks.com/help/stats/examples/partial-least-squares-regression-and-principal-components-regression.html)
