@@ -107,7 +107,7 @@ Subgroup discovery attempts to search relations between different properties or 
 ## Text
 ### Keyword extraction/text summarization
 Keyword extraction and text summarization can be regarded as the same task, the only difference is that for keyword extraction we must look at the document as a word collection whereas, for text summarization, we must look at it as a sentence collection.
-- [LSA (Latent Semantic Analysis)](http://www.kiv.zcu.cz/~jstein/publikace/isim2004.pdf): known as LSI (Latent Semantic Indexing) in Information Retrieval.
+- [LSA (Latent Semantic Analysis)](http://www.kiv.zcu.cz/~jstein/publikace/isim2004.pdf): known as LSI (Latent Semantic Indexing) in Information Retrieval. SVD decomposition of the TF-IDF matrix: terms and documents are represented in reduced-dimensional subspace.
 - TextRank: based on [PageRank](https://en.wikipedia.org/wiki/PageRank)
   1. Compute the TF-IDF matrix
   2. Compute a similarity metric among the sentences in the document. Similarity can be calculated as the correlation among TF-IDF vectors. To compute similarity among words instead of sentences we can use the number of co-ocurrences among words in a sliding window of a given size.
@@ -117,12 +117,17 @@ Keyword extraction and text summarization can be regarded as the same task, the 
 - Most relevant n-grams (by relative frequency, o conditional probability)
 
 ### Text embeddings
+Word embeddings
 - Word2Vec: Embedding + Logistic Regression. Input: one-hot encoded word, output: probability of words in the context of the input word (obtained by counting co-ocurrences in sliding window contexts, see [skip-gram](https://en.wikipedia.org/wiki/N-gram#Skip-gram) for possibilites, typically a n-skip-2-gram is used). Both the Logistic Regression coefficients and embedding matrix are learned during training. Usually we are interested in the embedding matrix but the classifier itself may be used for a text autocompletion task.
   - Limitations: uses a local context
 - [Glove (Global vectors)](https://nlp.stanford.edu/pubs/glove.pdf): tries to approximate the logarithm of the co-ocurrences matrix as the product of two matrices plus some bias terms. Co-ocurrences count is upper bounded to avoid most frequent co-ocurrences dominating the factorization.
 - [FastText](https://fasttext.cc/): generalization of word2vec. Takes all character n-grams (for example, n from 3 to 6) for each word and learns an embedding for each n-gram. The logistic regressor is fed with a vector created as the sum of the embeddings found in a word. Complexity reduction is achieved by using hashing techniques after random projection.
   - Advantages: faster, also models words outside our dictionary (OOV, out-of-vocabulary words). Usually works well for small datasets. Word2vec is preferable in large datasets.
 
+Short document embedding (phrases, tweets, etc.)
+- Latent Semantic Analysis
+- Word embedding combinations
+- Doc2Vec
 
 Embeddings can be evaluated:
 - Extrinsically: based on the performance of another task using the embedding being evaluated
