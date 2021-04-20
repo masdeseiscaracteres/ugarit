@@ -119,9 +119,14 @@ Keyword extraction and text summarization can be regarded as the same task, the 
 ### Text embeddings
 - Word2Vec: Embedding + Logistic Regression. Input: one-hot encoded word, output: probability of words in the context of the input word (obtained by counting co-ocurrences in sliding window contexts, see [skip-gram](https://en.wikipedia.org/wiki/N-gram#Skip-gram) for possibilites, typically a n-skip-2-gram is used). Both the Logistic Regression coefficients and embedding matrix are learned during training. Usually we are interested in the embedding matrix but the classifier itself may be used for a text autocompletion task.
   - Limitations: uses a local context
-- Glove (Global vectors): tries to approximate the logarithm of the co-ocurrences matrix as the product of two matrices plus some bias terms.
+- [Glove (Global vectors)](https://nlp.stanford.edu/pubs/glove.pdf): tries to approximate the logarithm of the co-ocurrences matrix as the product of two matrices plus some bias terms. Co-ocurrences count is upper bounded to avoid most frequent co-ocurrences dominating the factorization.
 - FastText:
   - Advantages: faster, also models word outside our dictionary
+
+
+Embeddings can be evaluated:
+- Extrinsically: based on the performance of another task using the embedding being evaluated
+- Intrinsically: based on analogies data set (assuming this kind of arithmetic relationships hold: King + Female - Male=Queen)
 
 ### Named-entity-recognition (NER)
 [Wikipedia task definition](https://en.wikipedia.org/wiki/Named-entity_recognition)
