@@ -10,6 +10,8 @@
 - [OpenML](https://www.openml.org/), database including datasets, pipelines, learning tasks, ...
 - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/), network (graph) datasets
 - [PapersWithCode datasets](https://paperswithcode.com/datasets)
+- Analogy datasets:
+  - [Google analogy test set](https://aclweb.org/aclwiki/Google_analogy_test_set_(State_of_the_art))
 - Datasets embedded in libraries:
   - Python
     - [`sklearn.datasets`](https://scikit-learn.org/stable/datasets/index.html)
