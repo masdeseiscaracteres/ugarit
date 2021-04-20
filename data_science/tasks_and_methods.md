@@ -118,7 +118,7 @@ Keyword extraction and text summarization can be regarded as the same task, the 
 
 ### Text embeddings
 - [Word2Vec]()
-- [Skip-gram](): model based in logistic regression in a sliding window context. Both the coefficients and embedding are learned during training. Input: one-hot encoded word, output: probability of words in the context of the input word.
+- [Skip-gram](): Embedding + Logistic Regression. Input: one-hot encoded word, output: probability of words in the context of the input word (obtained by counting co-ocurrences in sliding window contexts). Both the Logistic Regression coefficients and embedding matrix are learned during training. Usually we are interested in the embedding matrix but the classifier itself may be used for a text autocompletion task.
 
 # Comparisons
 - [Partial least squares vs Principal Components regression](https://www.mathworks.com/help/stats/examples/partial-least-squares-regression-and-principal-components-regression.html)
