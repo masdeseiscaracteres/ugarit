@@ -118,6 +118,8 @@ Keyword extraction and text summarization can be regarded as the same task, the 
 
 ### Text embeddings
 - Word2Vec: Embedding + Logistic Regression. Input: one-hot encoded word, output: probability of words in the context of the input word (obtained by counting co-ocurrences in sliding window contexts, see [skip-gram](https://en.wikipedia.org/wiki/N-gram#Skip-gram) for possibilites, typically a n-skip-2-gram is used). Both the Logistic Regression coefficients and embedding matrix are learned during training. Usually we are interested in the embedding matrix but the classifier itself may be used for a text autocompletion task.
+- Glove (Global vectors)
+- FastText
 
 ### Named-entity-recognition (NER)
 [Wikipedia task definition](https://en.wikipedia.org/wiki/Named-entity_recognition)
@@ -129,6 +131,10 @@ Keyword extraction and text summarization can be regarded as the same task, the 
 
 ### Chunking
 Chunking s also called shallow parsing and it's basically the identification of parts of speech and short phrases (like noun phrases (NPs)).
+
+### Out-of-context concept identification
+Given a list of words, identify the one that is out of context.
+- Word2Vec: the out-of-context word is the one furthest away from the centroid of the rest of words (usually based on cosine distance) 
 
 # Comparisons
 - [Partial least squares vs Principal Components regression](https://www.mathworks.com/help/stats/examples/partial-least-squares-regression-and-principal-components-regression.html)
