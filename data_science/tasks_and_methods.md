@@ -116,6 +116,9 @@ Keyword extraction and text summarization can be regarded as the same task, the 
 - [RAKE (Rapid Automatic Keyword Extraction)](https://www.researchgate.net/publication/227988510_Automatic_Keyword_Extraction_from_Individual_Documents)
 - Most relevant n-grams (by relative frequency, o conditional probability)
 
+### Text embeddings
+- [Word2Vec]()
+- [Skip-gram](): model based in logistic regression in a sliding window context. Both the coefficients and embedding are learned during training. Input: one-hot encoded word, output: probability of words in the context of the input word.
 
 # Comparisons
 - [Partial least squares vs Principal Components regression](https://www.mathworks.com/help/stats/examples/partial-least-squares-regression-and-principal-components-regression.html)
