@@ -124,10 +124,10 @@ Word embeddings
 - [FastText](https://fasttext.cc/): generalization of word2vec. Takes all character n-grams (for example, n from 3 to 6) for each word and learns an embedding for each n-gram. The logistic regressor is fed with a vector created as the sum of the embeddings found in a word. Complexity reduction is achieved by using hashing techniques after random projection.
   - Advantages: faster, also models words outside our dictionary (OOV, out-of-vocabulary words). Usually works well for small datasets. Word2vec is preferable in large datasets.
 
-Short document embedding (phrases, tweets, etc.)
+Short document embedding (paragraphs, phrases, tweets, etc.)
 - Latent Semantic Analysis
-- Word embedding combinations
-- Doc2Vec
+- Word embedding combinations: use the average of all the word embeddings in a document
+- Doc2Vec: it learns embeddings for both the document (paragraph, etc.) and words in the document
 
 Embeddings can be evaluated:
 - Extrinsically: based on the performance of another task using the embedding being evaluated
