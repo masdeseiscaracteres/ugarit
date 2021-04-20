@@ -45,7 +45,7 @@ Type of task: regression, classification, clustering, subgroup discovery
 ### Multi-class classification
 - One-vs-all(-but-one) or one-vs-one extensions of FDA, LDA, QDA
 - NB ([Naive Bayes](http://web.cs.iastate.edu/~honavar/bayes-lewis.pdf))
-  - MNB (Multinomial Naive Bayes): the 
+  - MNB (Multinomial Naive Bayes)
   - [CNB (Complement Naive Bayes)](https://people.csail.mit.edu/jrennie/papers/icml03-nb.pdf): alternative to multinomial naive bayes that addresses some of its limitations:
     - Limitation 1: it shrinks weights for classes with few training examples. A solution is estimating the parameters using data from classes other than the one of interest. This gives rise to Complement Naive Bayes.
     - Limitation 2: features are assumed to be independent. The consequence is that the impact of classes with strong feature dependencies is larger when compared to classes with less feature dependencies. A solution is normalizing the classification weights giving rise to Weight-normalized Complement Naive Bayes.
