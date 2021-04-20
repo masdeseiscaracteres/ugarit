@@ -42,6 +42,7 @@
 Generic
 - [Spark NLP](https://nlp.johnsnowlabs.com/docs/en/quickstart), one of the most complete NLP toolboxes
 - [spacy](https://spacy.io/), lots of out-of-the-box features for NLP. Also provides a pipeline class which makes it easy to construct sophisticated statistical models based on other libraries for a variety of NLP problems.
+  - Some models include embeddings (are attached to each token as attributes)  
   - [textacy](https://github.com/chartbeat-labs/textacy), processing steps to be conducted before and after Spacy pipelines.
 - [nltk](https://www.nltk.org/)
 - [CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
@@ -49,7 +50,7 @@ Generic
   - [transformers](https://github.com/huggingface/transformers) state-of-the-art NLP for PyTorch and TensorFlow 2.0 (BERT, GPT-2, etc.).
 
 - [polyglot](https://github.com/aboSamoor/polyglot)
-- [Gensim](https://radimrehurek.com/gensim/index.html): a library for topic modelling, document indexing and similarity retrieval.
+- [Gensim](https://radimrehurek.com/gensim/index.html): a library for topic modelling, word embedding, document indexing and similarity retrieval.
 - [LexNLP](https://lexpredict-lexnlp.readthedocs.io): a library for working with real, unstructured legal text.
 - [Mathy](https://mathy.ai/): reinforcement learning framework to transform mathematical expressions. Interesting way to encode mathematical expressions abstract syntax trees.
 
