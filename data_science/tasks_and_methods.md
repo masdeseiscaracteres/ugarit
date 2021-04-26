@@ -123,6 +123,7 @@ Word embeddings
 - [Glove (Global vectors)](https://nlp.stanford.edu/pubs/glove.pdf): tries to approximate the logarithm of the co-ocurrences matrix as the product of two matrices plus some bias terms. Co-ocurrences count is upper bounded to avoid most frequent co-ocurrences dominating the factorization.
 - [FastText](https://fasttext.cc/): generalization of word2vec. Takes all character n-grams (for example, n from 3 to 6) for each word and learns an embedding for each n-gram. The logistic regressor is fed with a vector created as the sum of the embeddings found in a word. Complexity reduction is achieved by using hashing techniques after random projection.
   - Advantages: faster, also models words outside our dictionary (OOV, out-of-vocabulary words). Usually works well for small datasets. Word2vec is preferable in large datasets.
+- [JoSE (Joint Spherical Embedding)](https://github.com/yumeng5/Spherical-Text-Embedding)
 
 Short document embedding (paragraphs, phrases, tweets, etc.)
 - Latent Semantic Analysis
