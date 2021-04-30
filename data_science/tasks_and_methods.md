@@ -118,7 +118,10 @@ Keyword extraction and text summarization can be regarded as the same task, the 
 
 ### Text embeddings
 Word embeddings
-- Word2Vec: Embedding + Logistic Regression. Input: one-hot encoded word, output: probability of words in the context of the input word (obtained by counting co-ocurrences in sliding window contexts, see [skip-gram](https://en.wikipedia.org/wiki/N-gram#Skip-gram) for possibilites, typically a n-skip-2-gram is used). Both the Logistic Regression coefficients and embedding matrix are learned during training. Usually we are interested in the embedding matrix but the classifier itself may be used for a text autocompletion task.
+- Word2Vec: Embedding + Logistic Regression. Input: one-hot encoded word, output: probability of words in the context of the input word (obtained by counting co-ocurrences in sliding window contexts). Alternatives to encode word contexts give rise to two different architectures:
+  - [Skip-gram](https://en.wikipedia.org/wiki/N-gram#Skip-gram), typically a n-skip-2-gram is used. 
+  - CBoW (Continuous Bag of Words): see the [original word2vec paper](https://arxiv.org/abs/1301.3781) 
+  Both the Logistic Regression coefficients and embedding matrix are learned during training. Usually we are interested in the embedding matrix but the classifier itself may be used for a text autocompletion task.
   - Limitations: uses a local context
 - [Glove (Global vectors)](https://nlp.stanford.edu/pubs/glove.pdf): tries to approximate the logarithm of the co-ocurrences matrix as the product of two matrices plus some bias terms. Co-ocurrences count is upper bounded to avoid most frequent co-ocurrences dominating the factorization.
 - [FastText](https://fasttext.cc/): generalization of word2vec. Takes all character n-grams (for example, n from 3 to 6) for each word and learns an embedding for each n-gram. The logistic regressor is fed with a vector created as the sum of the embeddings found in a word. Complexity reduction is achieved by using hashing techniques after random projection.
@@ -126,9 +129,9 @@ Word embeddings
 - [JoSE (Joint Spherical Embedding)](https://github.com/yumeng5/Spherical-Text-Embedding)
 
 Short document embedding (paragraphs, phrases, tweets, etc.)
-- Latent Semantic Analysis
-- Word embedding combinations: use the average of all the word embeddings in a document
-- Doc2Vec: it learns embeddings for both the document (paragraph, etc.) and words in the document
+- LSA (Latent Semantic Analysis): dimensionality reduction of the document-term matrix.
+- From word embeddings to short document embedding: use the average of all the word embeddings in a document possibly filtering out some words (for example, by part-of-speech category). A weighted average can also be used (for example, using TF-IDF coefficients).
+- Doc2Vec: generalization of word2vec that learns embeddings for both the document (paragraph, etc.) and words in the document.
 
 Embeddings can be evaluated:
 - Extrinsically: based on the performance of another task using the embedding being evaluated
