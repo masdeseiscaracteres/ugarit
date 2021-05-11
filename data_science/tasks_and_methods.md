@@ -135,6 +135,11 @@ Embeddings can be evaluated:
 - Extrinsically: based on the performance of another task using the embedding being evaluated
 - Intrinsically: based on analogies data set (assuming this kind of arithmetic relationships hold: King + Female - Male=Queen)
 
+### Topic modelling
+- LSA (Latent Semantic Analysis) / LSI (Latent Semantic Indexing): TF-IDF + SVD decomposition
+- NMF (Non-negative Matrix Factorization): TF-IDF + NMF. Advantages: improve interpretation of topics
+- LDA (Latent Dirichlet Allocation)
+
 ### Named-entity-recognition (NER)
 [Wikipedia task definition](https://en.wikipedia.org/wiki/Named-entity_recognition)
 - ...
