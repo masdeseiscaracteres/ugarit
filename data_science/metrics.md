@@ -47,6 +47,21 @@ For many queries: the metrics obtained for each query need to be aggregated for 
 
 Metrics definition: https://nlp.stanford.edu/IR-book/pdf/08eval.pdf
 
+## Topic modelling
+- Fit metrics
+  - Log likelihood
+  - Log perplexity 
+- Coherence metrics: important words for a topic, frequently appear together 
+  - UCI coherence score
+  - UMass coherence
+  - NPMI (Normalized Pointwise Mutual Information)
+
+## Probability distributions
+- [Total variation distance](https://en.wikipedia.org/wiki/Total_variation_distance_of_probability_measures)
+- Kullback-Leibler divergence
+- Jensen–Shannon divergence: symmetrized and smoothed version of the Kullback–Leibler divergence
+- Hellinger distance
+
 ## Association rule mining
 - [Huge compilation of metrics to evaluate association rules](https://michael.hahsler.net/research/association_rules/measures.html)
 
