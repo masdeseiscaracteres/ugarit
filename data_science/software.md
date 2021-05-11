@@ -129,6 +129,7 @@ Missing data analysis:
   - [Apache ECharts](https://echarts.apache.org): Javascript library featuring a lot of different out-of-the-box graph types.
 - Model analysis
   - [ArviZ](https://arviz-devs.github.io/arviz/index.html): exploratory analysis of Bayesian models
+  - [pyLDAvis](https://github.com/bmabey/pyLDAvis): interactive topic-modelling visualization
  
 ### Workflow & model management
 - [Kedro](https://kedro.readthedocs.io/en/stable/)
