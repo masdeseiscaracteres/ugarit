@@ -108,9 +108,12 @@ Samplers
 - [emcee](https://emcee.readthedocs.io/en/stable/):  pure-Python implementation of Goodman & Weare’s Affine Invariant Markov chain Monte Carlo (MCMC) Ensemble sampler
 
 ### Exploratory data analysis
+
 - [sweetviz](https://github.com/fbdesignpro/sweetviz)
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
 - [lux](https://github.com/lux-org/lux/)
+- [atoti](https://www.atoti.io/): BI analytics platform
+
 Missing data analysis:
 - [missingno](https://github.com/ResidentMario/missingno)
 
