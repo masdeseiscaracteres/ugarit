@@ -9,6 +9,8 @@
 - [Book] [The Internals of Apache Spark](https://books.japila.pl/apache-spark-internals/)
 - [Book] [The Internals of Spark SQL](https://jaceklaskowski.github.io/mastering-spark-sql-book/)
 
+## Tools
+- [koalas](https://koalas.readthedocs.io/en/latest/index.html): pandas-style wrapper for PySpark
 
 ## Documentation
 - [Spark API documentation](https://spark.apache.org/docs/latest/): access to all APIs (Java, Scala, Python, R)
