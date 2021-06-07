@@ -69,7 +69,7 @@
 ## Tricks & problem conversions
 - [MOSEK Modeling Cookbook](https://docs.mosek.com/modeling-cookbook/index.html)
 - Specific tricks:
-  - Linear representations of non-linear constraints (possibly adding integer auxiliary variables):
+  - Linear representations of non-linear constraints (possibly adding integer auxiliary variables):  
     - Piecewise-linear aproximations of non-linear functions: [B.1](http://www.optimization-online.org/DB_FILE/2020/07/7907.pdf)
     - Linear representations of special non-convex constraints via integer programming techniques:
       - Product of two binary variables: [B.2.1](http://www.optimization-online.org/DB_FILE/2020/07/7907.pdf)
@@ -81,7 +81,7 @@
     - Other linear representations:
       - Minimum of bounded continuous variables: [B.3.1](http://www.optimization-online.org/DB_FILE/2020/07/7907.pdf)
       - Maximum of bounded continuous variables: [B.3.2](http://www.optimization-online.org/DB_FILE/2020/07/7907.pdf)
-      - Absolute values: [B.3.3](http://www.optimization-online.org/DB_FILE/2020/07/7907.pdf)
+      - Absolute values: [B.3.3](http://www.optimization-online.org/DB_FILE/2020/07/7907.pdf) and [Least Absolute Deviations to LP](https://en.wikipedia.org/wiki/Least_absolute_deviations#Solving_using_linear_programming)
       - Linear fraction of binary variables: [B.3.4](http://www.optimization-online.org/DB_FILE/2020/07/7907.pdf)
       - When the feasible set is the union of several disjoint polyhedra (a.k.a. disjunctive inequalities): [B.3.5](http://www.optimization-online.org/DB_FILE/2020/07/7907.pdf)
         - Big-M method: [B.3.5.1](http://www.optimization-online.org/DB_FILE/2020/07/7907.pdf) (more general description than the one at [Wikipedia](https://en.wikipedia.org/wiki/Big_M_method))
@@ -89,7 +89,6 @@
   - Removing integrality constraints: [linear program relaxation and integrality gap](https://en.wikipedia.org/wiki/Linear_programming_relaxation)
   - [Convex QCQP to SOCP](https://math.stackexchange.com/questions/1330896/can-a-convex-qcqp-with-an-additional-linear-constraint-be-converted-into-a-socp)
   - [Convex QCQP to SDP](https://mathoverflow.net/questions/58383/complexity-of-convex-quadratically-constrained-quadratic-programming-qcqp) 
-  - [Least Absolute Deviations to LP](https://en.wikipedia.org/wiki/Least_absolute_deviations#Solving_using_linear_programming)
   - [Optimization problems that are solved as eigenvalue problems](https://arxiv.org/pdf/1903.11240.pdf) and some examples of ML algorithms leading to these problems
 - [Iterative Reweighted Least Squares](https://cnx.org/contents/krkDdys0@12/Iterative-Reweighted-Least-Squares): solve minimization problems involving Lp-norms
   
