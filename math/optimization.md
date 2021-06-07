@@ -1,9 +1,12 @@
-
-
 # Optimization
 ## Learning
-### Online courses
+### Books
+- [Convex Optimization, by Stephen Boyd and Lieven Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/): includes book and lecture slides
+
+### MOOCs
 - [Operations Research (1): Models and Applications, National Taiwan University at Coursera](https://www.coursera.org/learn/operations-research-modeling): introductory course to linear, and non-linear optimization including integrality constraints
+- ...
+
 ### Short reads
 - [Lagrange multipliers](http://www.onmyphd.com/?p=lagrange.multipliers), simple mathematical/graphical justification of the Lagrange multipliers method
 - [Karush-Kuhn-Tucker (KKT) conditions](http://www.onmyphd.com/?p=kkt.karush.kuhn.tucker), simple mathematical/graphical justification of the KKT conditions and how to deal with inequality constraints in an optimization problem
