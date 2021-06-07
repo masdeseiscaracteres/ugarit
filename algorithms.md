@@ -85,6 +85,7 @@
       - Linear fraction of binary variables: [B.3.4](http://www.optimization-online.org/DB_FILE/2020/07/7907.pdf)
       - When the feasible set is the union of several disjoint polyhedra (a.k.a. disjunctive inequalities): [B.3.5](http://www.optimization-online.org/DB_FILE/2020/07/7907.pdf)
         - Big-M method: [B.3.5.1](http://www.optimization-online.org/DB_FILE/2020/07/7907.pdf) (more general description than the one at [Wikipedia](https://en.wikipedia.org/wiki/Big_M_method))
+      - Logical conditions: [B.3.6](http://www.optimization-online.org/DB_FILE/2020/07/7907.pdf) 
   - Removing integrality constraints: [linear program relaxation and integrality gap](https://en.wikipedia.org/wiki/Linear_programming_relaxation)
   - [Convex QCQP to SOCP](https://math.stackexchange.com/questions/1330896/can-a-convex-qcqp-with-an-additional-linear-constraint-be-converted-into-a-socp)
   - [Convex QCQP to SDP](https://mathoverflow.net/questions/58383/complexity-of-convex-quadratically-constrained-quadratic-programming-qcqp) 
