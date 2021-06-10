@@ -201,5 +201,5 @@
 - [Webex Whiteboard](https://www.webex.com/): free plan including desktop, application, file & whiteboard sharing
 - ~[FunRetro](https://funretro.io/)~/[EasyRetro](https://easyretro.io/): interactive Kanban-style boards, useful to collect brainstorming ideas, feedback, retrospective meetings... and let participants vote on the ideas. It allows sharing a link and letting anonymous people write.
 - [StoryMap](https://storymap.knightlab.com/): tell a story through maps and linked multimedia material.
-- [gather.town](https://gather.town/)
+- [gather.town](https://gather.town/): virtual-world video calling spaces
 
