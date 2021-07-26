@@ -14,6 +14,9 @@
 - torch
 - [patsy](https://patsy.readthedocs.io/en/latest/index.html): extensible formula mini-language to describe statistical models and building design matrices
 
+#### Variable encoding
+- [Category Encoders](https://contrib.scikit-learn.org/category_encoders/): scikit-learn contrib project including several transformers for encoding categorical variables into numeric values according to different techniques.
+
 #### Interpretability
 - [Alibi](https://github.com/SeldonIO/alibi): model explanations and confidence
 
