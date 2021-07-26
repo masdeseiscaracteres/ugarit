@@ -147,6 +147,7 @@ Missing data analysis:
 - [Cortex: deploy ML models in production](https://www.cortex.dev/): an open-source alternative to Amazon SageMaker
 - [Neptune.ai](https://neptune.ai/): experiment tracking/managing/monitoring service. Has a free tier for personal and academic/research use.
 - [Weights & biases](https://wandb.ai/): experiment tracking, dataset versioning, etc. Has a free tier for public and private projects.
+- [gradio](https://gradio.app): quickly create customizable UI components around your TensorFlow, PyTorch models, or arbitrary Python functions.
 
 
 
