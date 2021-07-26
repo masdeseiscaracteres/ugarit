@@ -149,5 +149,7 @@ Missing data analysis:
 - [Weights & biases](https://wandb.ai/): experiment tracking, dataset versioning, etc. Has a free tier for public and private projects.
 - [gradio](https://gradio.app): quickly create customizable UI components around your TensorFlow, PyTorch models, or arbitrary Python functions.
 
-
+### Parallel computation
+- [dask](https://dask.org/)
+- [tuplex](https://tuplex.cs.brown.edu/)
 
