@@ -13,3 +13,7 @@ Python
 - [fabric](https://www.fabfile.org/): library designed to execute shell commands remotely over SSH
 - [nox](https://nox.thea.codes/en/stable/): command-line tool that automates testing in multiple Python environments, similar to tox
 - [tox](https://tox.readthedocs.io): framework to automate packaging & testing in Python across different Python environments
+
+
+## Scientific publishing
+- [quarto](https://quarto.org): extended version of [pandoc](https://pandoc.org/)
