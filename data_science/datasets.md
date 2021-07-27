@@ -12,7 +12,7 @@
 - [PapersWithCode datasets](https://paperswithcode.com/datasets)
 - Analogy datasets:
   - [Google analogy test set](https://aclweb.org/aclwiki/Google_analogy_test_set_(State_of_the_art))
-- Sustainability-related datasets
+- Sustainability-related
   - [Google's Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/)
   - [Google's Environmental Insights Explorer](https://insights.sustainability.google/)
 - Datasets embedded in libraries:
