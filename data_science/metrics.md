@@ -61,7 +61,8 @@ Metrics definition: https://nlp.stanford.edu/IR-book/pdf/08eval.pdf
 - Kullback-Leibler divergence
 - Jensen–Shannon divergence: symmetrized and smoothed version of the Kullback–Leibler divergence
 - Hellinger distance
-- Gini impurity: suppose we randomly pick a datapoint in our dataset, then randomly classify it according to the class distribution in the dataset. What’s the probability we classify the datapoint incorrectly?
+- Gini impurity: the probability of incorrectly classifying a randomly chosen element in the dataset if it were randomly labeled according to the class distribution in the dataset.
+  - In other words: suppose we randomly pick a datapoint in our dataset, then randomly classify it according to the class distribution in the dataset. What’s the probability we classify the datapoint incorrectly?
 
 ## Association rule mining
 - [Huge compilation of metrics to evaluate association rules](https://michael.hahsler.net/research/association_rules/measures.html)
