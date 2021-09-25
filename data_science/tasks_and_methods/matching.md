@@ -5,6 +5,7 @@ Matching, either exact or approximate, is a useful task for information retrieva
 ### Approximate
 - [Strike a Match](http://www.catalysoft.com/articles/StrikeAMatch.html): each string is represented by the set of n-grams (usually, 2-grams) present in that string. Similarity is computed using some set similarity metric (Jaccard distance or alikes).
 - [BK-trees](https://signal-to-noise.xyz/post/bk-tree/)
+- [Levenshtein automata](http://blog.notdot.net/2010/07/Damn-Cool-Algorithms-Levenshtein-Automata)
 
 > To read:
 > - [SymSpell vs. BK-tree: 100x faster fuzzy string search & spell checking](https://towardsdatascience.com/symspell-vs-bk-tree-100x-faster-fuzzy-string-search-spell-checking-c4f10d80a078)
