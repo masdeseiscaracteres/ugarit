@@ -1,5 +1,5 @@
 # Matching
-Matching, either exact or approximate is a useful task for information retrieval and record linkage.
+Matching, either exact or approximate, is a useful task for information retrieval and record linkage.
 
 ## String matching
 ### Approximate
