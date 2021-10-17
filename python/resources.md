@@ -1,1 +1,2 @@
-- [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/), explains Python's magic methods and when they are invoked. 
+- [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/): explains Python's magic methods and when they are invoked. 
+- [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/): nice overview of asynchronous IO in Python via the built-in `asyncio` package.
