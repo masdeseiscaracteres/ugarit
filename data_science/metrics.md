@@ -66,6 +66,7 @@ Metrics definition: https://nlp.stanford.edu/IR-book/pdf/08eval.pdf
 
 ## Association rule mining
 - [Huge compilation of metrics to evaluate association rules](https://michael.hahsler.net/research/association_rules/measures.html)
+  - Conviction: how many times more often would X appear without Y if they were independent than the actual frequency of the appearance of X without Y. 
 
 ## Relationships
 - AUC & Wilcoxon-Mann-Whitney U-Statistic:
