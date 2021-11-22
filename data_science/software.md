@@ -8,9 +8,10 @@
 ### Machine learning
 #### General purpose
 - scikit-learn
-- tensorflow
-- keras
-- ~~theano~~ -> aesara
+- keras: deep learning framework.  
+  Can use any of these as backend:
+  - tensorflow
+  - ~~theano~~ -> aesara
 - torch
 - [patsy](https://patsy.readthedocs.io/en/latest/index.html): extensible formula mini-language to describe statistical models and building design matrices
 
