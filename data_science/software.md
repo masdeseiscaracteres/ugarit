@@ -10,7 +10,7 @@
 - scikit-learn
 - tensorflow
 - keras
-- theano
+- ~~theano~~ -> aesara
 - torch
 - [patsy](https://patsy.readthedocs.io/en/latest/index.html): extensible formula mini-language to describe statistical models and building design matrices
 
