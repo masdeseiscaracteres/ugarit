@@ -1,6 +1,6 @@
 # Neural networks
 ## Educational resources
-- Coursera Deep Learning Course: website | [weekly videos compilation](https://www.youtube.com/playlist?list=PLkRLdi-c79HKEWoi4oryj-Cx-e47y_NcM)
+- Coursera Deep Learning Course by Andrew Ng: [website](https://www.coursera.org/learn/neural-networks-deep-learning) | [weekly videos compilation](https://www.youtube.com/playlist?list=PLkRLdi-c79HKEWoi4oryj-Cx-e47y_NcM)
 
 
 ## Network types
