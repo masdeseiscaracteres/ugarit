@@ -1,7 +1,12 @@
 # Neural networks
+## Educational resources
+- Coursera Deep Learning Course: website | [weekly videos compilation](https://www.youtube.com/playlist?list=PLkRLdi-c79HKEWoi4oryj-Cx-e47y_NcM)
+
+
+## Network types
 - Feedforward network
 
-## Sequence models
+### Sequence models
 - RNN (Recurrent Neural Network):  
   Pros:
   - Due to their design, parameters are reused in all layers. Less parameters -> easier to train.
