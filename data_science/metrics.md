@@ -17,7 +17,7 @@ For a single query:
     - Normalized DPM (Normalized DPM)
 - ROC AUC
   - Layman's definition: probability that a randomly chosen positive case will receive a higher score than a randomly chosen negative case
-  - To-Do: Check if it is also referred to as [Swets's measure A](https://apps.dtic.mil/dtic/tr/fulltext/u2/656340.pdf) 
+  - To-Do: Check if it is also referred to as [Swets' measure A][swets-open]
 - Rank biserial correlation coefficient
   - Layman's definition: proportion of pairs favorable to the hypothesis (f) minus its complement (i.e.: the proportion that is unfavorable (u)): r = f - u
   - It can be expressed in terms of the ROC AUC
@@ -77,5 +77,7 @@ Metrics definition: https://nlp.stanford.edu/IR-book/pdf/08eval.pdf
   - [Measuring Retrieval Effectiveness Based on User Preference of Documents, Y.Y. Yao][1-open]
 
 
-[1]: <https://dx.doi.org/10.1002/(SICI)1097-4571(199503)46:2%3C133::AID-ASI6%3E3.0.CO;2-Z> "Measuring Retrieval Effectiveness Based on User Preference of Documents, Y.Y. Yao"
-[1-open]: <http://www2.cs.uregina.ca/~yyao/PAPERS/jasis_ndpm.pdf> "Measuring Retrieval Effectiveness Based on User Preference of Documents, Y.Y. Yao (open access version)"
+[1]: <https://dx.doi.org/10.1002/(SICI)1097-4571(199503)46:2%3C133::AID-ASI6%3E3.0.CO;2-Z> "Measuring Retrieval Effectiveness Based on User Preference of Documents, Y.Y. Yao (paid version)"
+[1-open]: <http://www2.cs.uregina.ca/~yyao/PAPERS/jasis_ndpm.pdf> "Measuring Retrieval Effectiveness Based on User Preference of Documents, Y.Y. Yao (free version)"
+[swets]: <https://dx.doi.org/10.1126/science.3287615> "Measuring the Accuracy of Diagnostic Systems, J.A. Swets (paid version)"
+[swets-open]: <http://wixtedlab.ucsd.edu/publications/Psych%20218/Swets_1988.pdf> "Measuring the Accuracy of Diagnostic Systems, J.A. Swets (free version)"
