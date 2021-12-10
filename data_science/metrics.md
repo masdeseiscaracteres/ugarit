@@ -13,7 +13,7 @@ For a single query:
 - Rank correlations
   - Spearman's rank correlation coefficient
   - Kendall's tau rank correlation coefficient
-  - Distance-based performance measure (DPM): [definition](https://core.ac.uk/download/pdf/191177829.pdf)
+  - Distance-based performance measure (DPM): [definition](https://dx.doi.org/10.1002/(SICI)1097-4571(199503)46:2%3C133::AID-ASI6%3E3.0.CO;2-Z)
     - Normalized DPM (Normalized DPM)
 - ROC AUC
   - Layman's definition: probability that a randomly chosen positive case will receive a higher score than a randomly chosen negative case
@@ -22,7 +22,7 @@ For a single query:
   - Layman's definition: proportion of pairs favorable to the hypothesis (f) minus its complement (i.e.: the proportion that is unfavorable (u)): r = f - u
   - It can be expressed in terms of the ROC AUC
 - Reciprocal rank
-- Ranking-based precision and recall (See [Section 6.4 in this document](https://core.ac.uk/download/pdf/191177829.pdf))
+- Ranking-based precision and recall (See [Section 6.4 in this document](https://dx.doi.org/10.1002/(SICI)1097-4571(199503)46:2%3C133::AID-ASI6%3E3.0.CO;2-Z))
 - Marczewski-Steinhaus metric (or MZ-metric):[definition](http://matwbn.icm.edu.pl/ksiazki/cm/cm6/cm6141.pdf)
 
 
@@ -74,4 +74,9 @@ Metrics definition: https://nlp.stanford.edu/IR-book/pdf/08eval.pdf
 - AUC distribution with error rate:
   - [AUC Optimization vs. Error Rate Minimization by Corinna Cortes and Mehryar Mohri](https://papers.nips.cc/paper/2518-auc-optimization-vs-error-rate-minimization.pdf), shows also the relationship with the Wilcoxon-Mann-Whitney U-Statistic 
 - NDPM & Precision, Recall and Fallout:
- - [Measuring Retrieval Effectiveness Based on User Preference of Documents, Y.Y. Yao](https://core.ac.uk/download/pdf/191177829.pdf)
+  - [Measuring Retrieval Effectiveness Based on User Preference of Documents, Y.Y. Yao](https://dx.doi.org/10.1002/(SICI)1097-4571(199503)46:2%3C133::AID-ASI6%3E3.0.CO;2-Z)
+
+[1][1]
+
+# References
+[1]: <https://dx.doi.org/10.1002/(SICI)1097-4571(199503)46:2%3C133::AID-ASI6%3E3.0.CO;2-Z> "Measuring Retrieval Effectiveness Based on User Preference of Documents, Y.Y. Yao"
