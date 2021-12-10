@@ -23,7 +23,7 @@ For a single query:
   - It can be expressed in terms of the ROC AUC
 - Reciprocal rank
 - Ranking-based precision and recall (See [Section 6.4 in this document][1-open])
-- Marczewski-Steinhaus metric (or MZ-metric):[definition](http://matwbn.icm.edu.pl/ksiazki/cm/cm6/cm6141.pdf)
+- Marczewski-Steinhaus metric (or MZ-metric): [definition](http://matwbn.icm.edu.pl/ksiazki/cm/cm6/cm6141.pdf)
 
 
 - Precision at k: [definition & examples](https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf)
