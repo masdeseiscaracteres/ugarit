@@ -8,7 +8,15 @@
 - [DBeaver](https://dbeaver.io/), universal SQL client and database administration tool
 
 ### Databases
-- [Grakn](https://grakn.ai/), knowledge graph database
+
+- Knowledge graph databases
+  - [Grakn](https://grakn.ai/)
+- Graph databases
+  - [Neo4j](https://neo4j.com/product/neo4j-graph-database/)
+  - [JanusGraph](https://janusgraph.org/)
+- Graph visualization
+  - [Neo4J Bloom](https://neo4j.com/product/bloom/)
+  - [Linkurious](https://linkurio.us/)
 
 ### Design
 - [SchemaCrawler](https://www.schemacrawler.com/), free database schema discovery and graph generation by introspection into foreign keys relationship
