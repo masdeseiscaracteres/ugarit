@@ -18,7 +18,10 @@
   - ~~[Azure Notebooks](https://notebooks.azure.com/), free Jupyter notebooks with R, Python 2/3 and F# kernels. It can also reproduce environments defined in a Github repo.~~ (discontinued on October 9th, 2020)
   - [DeepNote](https://deepnote.com), Jupyter notebooks in customizable execution environments (free up to 2 cores, 5GB RAM and no GPU).
   - [Notebooks.ai](https://notebooks.ai/)
-- [https://readme.so/]: README file editor
+- [readme.so](https://readme.so/): README file editor
+- [gitpod.io](https://www.gitpod.io/): online IDE based on Theia with shareable workspaces
+- [stackblitz](https://stackblitz.com/): online IDE with shareable workspaces
+- [vscode.dev](https://vscode.dev/): online Visual Studio Code IDE
 
 ### Renderers
 - [nbviewer](https://nbviewer.jupyter.org/), render online Jupyter Notebooks
