@@ -17,3 +17,11 @@
   - [Spark Javadocs](https://spark.apache.org/docs/latest/api/java/index.html)
   - [PySpark (Python interface) documentation](https://spark.apache.org/docs/latest/api/python/)
 - [Graphframes documentation](http://graphframes.github.io/graphframes/docs/_site/index.html)
+
+
+## Common issues
+- Serialization
+  - ["Could not serialize object" error](https://csyhuang.github.io/2019/09/24/pyspark-could-not-serialize-object/)
+  - [Cython functions as UDFs](https://github.com/cython/cython/issues/2584)
+  - [Using closures to send variables to spark executors](https://stackoverflow.com/questions/52777652/understand-closure-in-spark)
+  - [Implement a Java UDF and call it from PySpark](https://stackoverflow.com/questions/36171208/implement-a-java-udf-and-call-it-from-pyspark)
