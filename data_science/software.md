@@ -148,6 +148,10 @@ Missing data analysis:
 - [Synthetic Data Vault](https://sdv.dev/): synthesize data using GANs
 - [Faker](https://faker.readthedocs.io/en/stable/): package that generates fake data (includes community-generated data generators)
 
+### Annotation/Labelling
+- Images
+  - [cvat](https://cvat.org/)
+
 ### Workflow & model management
 - [Kedro](https://kedro.readthedocs.io/en/stable/)
 - [MLFlow](https://mlflow.org/docs/latest/index.html): open source platform for managing the end-to-end machine learning lifecycle (i.e. tracking experiment parameters and results, packaging, deploying, version control)
