@@ -14,3 +14,8 @@ Adapter cables
 
 ### DBC database
 - https://github.com/commaai/opendbc
+
+
+## K-line bus
+### Software
+- [EDiTH (Eberspaecher Diagnostic Tool Heater)](https://www.youtube.com/watch?v=3lCFMzm2yJQ): Airtronic air heater is connected via a K-line (see SSP 453)
