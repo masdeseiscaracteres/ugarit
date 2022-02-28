@@ -9,3 +9,5 @@
   - [Bayesian target encoding](https://towardsdatascience.com/target-encoding-and-bayesian-target-encoding-5c6a6c58ae8c)
   - Specific encodings
     - [James-Stein encoding](https://contrib.scikit-learn.org/category_encoders/jamesstein.html): can be extended to hierarchical variables
+      - https://chris-said.io/2017/05/03/empirical-bayes-for-multiple-sample-sizes/
+ 
