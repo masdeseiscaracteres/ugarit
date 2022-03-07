@@ -8,15 +8,21 @@
 - [DBeaver](https://dbeaver.io/), universal SQL client and database administration tool
 
 ### Databases
-
+#### Graph-related databases
 - Knowledge graph databases
   - [Grakn](https://grakn.ai/)
 - Graph databases
   - [Neo4j](https://neo4j.com/product/neo4j-graph-database/)
   - [JanusGraph](https://janusgraph.org/)
+  - [ArangoDB)(https://www.arangodb.com/)
 - Graph visualization
   - [Neo4J Bloom](https://neo4j.com/product/bloom/)
   - [Linkurious](https://linkurio.us/)
+
+#### Key-value stores
+- Redis
+- [rocksdb](http://rocksdb.org/): in-file Redis-like key-value storage developed by Facebook in C++ with wrappers for many languages. Used as backend by ArangoDB.
+
 
 ### Design
 - [SchemaCrawler](https://www.schemacrawler.com/), free database schema discovery and graph generation by introspection into foreign keys relationship
