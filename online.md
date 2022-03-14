@@ -22,6 +22,7 @@
 - [gitpod.io](https://www.gitpod.io/): online IDE based on Theia with shareable workspaces
 - [stackblitz](https://stackblitz.com/): online IDE with shareable workspaces
 - [vscode.dev](https://vscode.dev/): online Visual Studio Code IDE
+- [glitch](https://glitch.com/): collaborative real-time editor for web projects with free-tier servers
 
 ### Renderers
 - [nbviewer](https://nbviewer.jupyter.org/), render online Jupyter Notebooks
@@ -58,6 +59,7 @@
 - [Heroku](https://www.heroku.com)
 - [ngrok](https://ngrok.com/), share local websites via public URLs
 - [appsmith](https://www.appsmith.com/): built small web apps connecting to databases, APIs, etc. faster than ever
+- [glitch](https://glitch.com/): collaborative real-time editor for web projects with free-tier servers
 
 ### Virtual machines
 - [Google Cloud Shell](https://ssh.cloud.google.com/cloudshell/editor?shellonly=true)
