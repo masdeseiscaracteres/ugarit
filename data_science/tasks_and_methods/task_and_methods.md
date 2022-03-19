@@ -92,11 +92,18 @@
 ## Survival analysis
 ...
 
-## Subgroup discovery
-Subgroup discovery attempts to search relations between different properties or variables of a set with respect to a target variable. Due to the fact that subgroup discovery is focused in the extraction of relations with interesting characteristics, it is not necessary to obtain complete but partial relations.
+## Pattern mining
+These methods focus on the discovery of patterns in data.
+Some specific task names in this category can be: subgroup discovery, association rule mining, itemset mining, sequential pattern mining, sequential rule mining, sequence prediction, periodic pattern mining, episode mining, high-utility pattern mining, time-series mining, clustering...
 
-## Clustering
+### Subgroup discovery
+Subgroup discovery attempts to search relations between different properties or variables of a set with respect to a target variable. Due to the fact that subgroup discovery is focused in the extraction of relations with interesting characteristics, it is not necessary to obtain complete but partial relations. Overview of the topic in [this paper](https://sci2s.ugr.es/sites/default/files/ficherosPublicaciones/1324_2011-Herrera-KAIS.pdf).
+
+### Clustering
 - ...
+
+
+## Pattern 
 
 ## Text
 ### Keyword extraction/text summarization
