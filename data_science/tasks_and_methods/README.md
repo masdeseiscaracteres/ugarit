@@ -15,8 +15,8 @@ The techniques used to solve a certain task are called methods.
 > Pending: Build a big table indicating the following properties for each method. Or a graph showing relationships, generalizations, definitions, etc...
 
 # Optimization concepts
-- (True/Statistical) Risk: optmization on the cost averaged over the joint distribution of inputs and outputs
-- Empirical risk
+- (True/Statistical) Risk: optmization on the cost expectation over the joint distribution of inputs and outputs
+- Empirical risk: optimization on the cost average over the training set inputs and outputs
 - Loss function
 - Regularization
 More info: https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote10.html
