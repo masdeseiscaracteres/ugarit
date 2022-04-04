@@ -1,5 +1,6 @@
 # Probability & Statistics
 - [Probability and Statistics Cookbook](http://statistics.zone/)
+- [STAT 415: Introduction to Mathematical Statistics](https://online.stat.psu.edu/stat415/)
 
 ## Bayesian statistics
 - [Bayes' rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq): intuitive guide to Bayesian reasoning
