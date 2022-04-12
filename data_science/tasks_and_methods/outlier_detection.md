@@ -7,3 +7,6 @@ The identification of rare items, events or observations which deviate significa
 ## Software
 - [pyod](https://pyod.readthedocs.io/en/latest/): outlier detection in multivariate data.
 - [pygod](https://github.com/pygod-team/pygod/): outlier detection in graph data
+
+## Datasets
+- [Outlier Detection DataSets (ODDS)](http://odds.cs.stonybrook.edu/)
