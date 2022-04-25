@@ -8,9 +8,9 @@
 - ...
 
 ### Short reads
-- [Lagrange multipliers](http://www.onmyphd.com/?p=lagrange.multipliers), simple mathematical/graphical justification of the Lagrange multipliers method
+- [Lagrange multipliers](http://www.onmyphd.com/?p=lagrange.multipliers)  [[archived]](https://web.archive.org/web/20200701120110/http://www.onmyphd.com/?p=lagrange.multipliers), simple mathematical/graphical justification of the Lagrange multipliers method
 - [Lagrange multipliers by Khan Academy](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-single-constraint), explanation of the Lagrange multipliers method
-- [Karush-Kuhn-Tucker (KKT) conditions](http://www.onmyphd.com/?p=kkt.karush.kuhn.tucker), simple mathematical/graphical justification of the KKT conditions and how to deal with inequality constraints in an optimization problem
+- [Karush-Kuhn-Tucker (KKT) conditions](http://www.onmyphd.com/?p=kkt.karush.kuhn.tucker) [[archived]](https://web.archive.org/web/20210516093148/http://www.onmyphd.com/?p=kkt.karush.kuhn.tucker), simple mathematical/graphical justification of the KKT conditions and how to deal with inequality constraints in an optimization problem
 
 ## Modelling languages
 - [CVX (Matlab)](http://cvxr.com/cvx/), [CVXPY (Python)](http://www.cvxpy.org/en/latest/), [Convex.jl (Julia)](https://convexjl.readthedocs.io/en/latest/)
@@ -23,7 +23,7 @@
 ## Solvers
 - [List of solvers for CVX](http://cvxr.com/cvx/doc/solver.html)
 - [List of solvers for CVXPY](http://www.cvxpy.org/en/latest/tutorial/advanced/#choosing-a-solver)
-- [List of solver in JuliaOpt](http://www.juliaopt.org/)
+- [List of solvers in JuliaOpt](http://www.juliaopt.org/)
 - [List of solvers for AMPL](https://ampl.com/products/solvers/all-solvers-for-ampl/)
 - [List of solvers for YALMIP (by problem class)](https://yalmip.github.io/allsolvers/)
 - [List of solvers for JuMP.jl](http://www.juliaopt.org/JuMP.jl/latest/installation.html#Getting-Solvers-1)
