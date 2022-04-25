@@ -9,6 +9,7 @@
 
 ### Short reads
 - [Lagrange multipliers](http://www.onmyphd.com/?p=lagrange.multipliers), simple mathematical/graphical justification of the Lagrange multipliers method
+- [Lagrange multipliers by Khan Academy](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-single-constraint), explanation of the Lagrange multipliers method
 - [Karush-Kuhn-Tucker (KKT) conditions](http://www.onmyphd.com/?p=kkt.karush.kuhn.tucker), simple mathematical/graphical justification of the KKT conditions and how to deal with inequality constraints in an optimization problem
 
 ## Modelling languages
