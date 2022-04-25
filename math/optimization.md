@@ -27,6 +27,7 @@
 - [List of solvers for AMPL](https://ampl.com/products/solvers/all-solvers-for-ampl/)
 - [List of solvers for YALMIP (by problem class)](https://yalmip.github.io/allsolvers/)
 - [List of solvers for JuMP.jl](http://www.juliaopt.org/JuMP.jl/latest/installation.html#Getting-Solvers-1)
+- [`scipy.optimize`](https://docs.scipy.org/doc/scipy/reference/optimize.html)
 - Promising free solvers to try:
   - [OQSP](http://osqp.readthedocs.io/en/latest/) & [MIOQSP](https://github.com/oxfordcontrol/miosqp)
   - [Suggest-and-Improve framework for QCQPs](https://github.com/cvxgrp/qcqp)
