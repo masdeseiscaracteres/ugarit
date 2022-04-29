@@ -164,6 +164,13 @@
 ### IP locator
 - [ifconfig.co](https://ifconfig.co/): IP geolocation API
 
+### Analysis
+- [builtwith](https://builtwith.com/)
+- [webtechsurvey](https://webtechsurvey.com/)
+- Tag debugging
+  - [dataslayer](https://dataslayer.org/): Chrome extension
+  - [ObservePoint TagDebugger](https://www.observepoint.com/tag-debugger): Chrome extension
+
 ## Scientific writing
 - [Authorea](https://www.authorea.com), collaborative article editor, free for unlimited public documents
 ### LaTeX
