@@ -151,6 +151,8 @@ Missing data analysis:
 ### Annotation/Labelling
 - Images
   - [cvat](https://cvat.org/)
+- Text
+  - [brat](http://brat.nlplab.org/)
 
 ### Workflow & model management
 - [Kedro](https://kedro.readthedocs.io/en/stable/)
