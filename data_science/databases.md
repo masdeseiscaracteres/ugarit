@@ -12,9 +12,10 @@
 - Knowledge graph databases
   - [Grakn](https://grakn.ai/)
 - Graph databases
-  - [Neo4j](https://neo4j.com/product/neo4j-graph-database/)
-  - [JanusGraph](https://janusgraph.org/)
-  - [ArangoDB)(https://www.arangodb.com/)
+  - [Neo4j](https://neo4j.com/product/neo4j-graph-database/): single-machine high availability graph database
+  - [ArangoDB](https://www.arangodb.com/)
+  - [Titan](https://titandb.io): distributed (multiple-machine) graph databases
+  - [JanusGraph](https://janusgraph.org/): it is a fork of Titan
 - Graph visualization
   - [Neo4J Bloom](https://neo4j.com/product/bloom/)
   - [Linkurious](https://linkurio.us/)
