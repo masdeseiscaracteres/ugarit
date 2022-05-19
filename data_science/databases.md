@@ -11,7 +11,7 @@
 #### Graph-related databases
 - Knowledge graph databases
   - [Grakn](https://grakn.ai/)
-- Graph databases
+- Graph databases | [comparison](https://www.g2.com/reports/grid-report-for-graph-databases-fall-2021?featured=arangodb&secure%5Bgated_consumer%5D=afaa8972-8f66-4a48-ae64-3e5c056c9795&secure%5Btoken%5D=709b3b2abef7638ca3e0c172fa9b0306e3fbe758d7fdf31f4bdb8a7f200dc75e&utm_campaign=gate-804181)
   - [Neo4j](https://neo4j.com/product/neo4j-graph-database/): single-machine high availability graph database
   - [ArangoDB](https://www.arangodb.com/)
   - [Titan](https://titandb.io): distributed (multiple-machine) graph databases
