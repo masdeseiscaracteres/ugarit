@@ -45,6 +45,7 @@
 - ~~[LaTeX.CSS](https://latex.now.sh/)~~, CSS library that makes your website look like a LaTeX document.
   - It can still be used from the CDN: [project link](https://github.com/vincentdoerig/latex-css).
 - [swagger.yaml](https://petstore.swagger.io/)
+- [JSON hero](https://jsonhero.io/), shareable JSON visualizations and schema inference
 
 ### Badges
 - [Shields.io](https://shields.io/), easy badge generation for multiple online services
