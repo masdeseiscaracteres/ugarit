@@ -82,7 +82,7 @@ Distance metrics
 - [regex](https://bitbucket.org/mrabarnett/mrab-regex/): regex implementation compatible with Python's built-in `re` module with some additional functionality such as fuzzy matching. 
 
 Matching
-- [PolyFuzz](https://maartengr.github.io/PolyFuzz/)
+- [PolyFuzz](https://maartengr.github.io/PolyFuzz/): fuzzy string matching, grouping. Easy to use and to extend with custom models.
 
 Language detection
 - [langdetect](https://github.com/Mimino666/langdetect)
