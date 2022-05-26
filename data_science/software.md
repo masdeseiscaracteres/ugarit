@@ -81,6 +81,9 @@ Distance metrics
 - [rapidfuzz](https://github.com/maxbachmann/rapidfuzz): faster MIT licensed alternative to `fuzzywuzzy'.
 - [regex](https://bitbucket.org/mrabarnett/mrab-regex/): regex implementation compatible with Python's built-in `re` module with some additional functionality such as fuzzy matching. 
 
+Matching
+- [PolyFuzz](https://maartengr.github.io/PolyFuzz/)
+
 Language detection
 - [langdetect](https://github.com/Mimino666/langdetect)
 - [spacy-langdetect](https://spacy.io/universe/project/spacy-langdetect): pipeline component wrapping `langdetect` under the hood
