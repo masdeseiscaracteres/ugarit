@@ -107,6 +107,7 @@
 ### Image editor
 #### Bitmaps and vector graphics
 - [photopea](https://www.photopea.com)
+- [squoosh](https://squoosh.app/): progressive web app for image compression
 #### Bitmaps
 - [Pixlr editor](https://pixlr.com/editor/)
 #### Vector graphics
