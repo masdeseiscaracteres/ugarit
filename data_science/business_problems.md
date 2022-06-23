@@ -7,6 +7,9 @@ Customer attrition detection and retention actions.
 ## Attribution modelling
 Framework for analyzing which touchpoints receive credit for a conversion. A [touchpoint](https://en.wikipedia.org/wiki/Touchpoint) is any point of interaction with a (potential) customer at any stage of the customer journey.
 
+## [Market mix modelling](https://en.wikipedia.org/wiki/Marketing_mix_modeling)
+Framework to estimate the impact of various marketing tactics (marketing mix) on sales and then forecast the impact of future sets of tactics. It is often used to optimize advertising mix and promotional tactics with respect to sales revenue or profit.
+
 ## Propensity modelling
 Framework to predict the likelihood that subjects (non-customers, potential customers or customers) will perform certain actions. 
 
@@ -17,3 +20,4 @@ The company may encourage the subjects to perform according according to the fol
 
 ## Uplift modelling
 Improving (upping) lift (i.e., the difference in response rate between a *treated* and a *control* group) through predictive modeling. 
+
