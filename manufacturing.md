@@ -23,8 +23,8 @@ DIY (Do-it-yourself) & MYOG (Make-your-own-gear)
   - [Minitec](https://www.minitec.es/): perfiles modulares de aluminio
   - [Alu10](https://alu10.com/): perfiles modulares de aluminio
 - Textiles (and related)
-- [Extremtextile](https://www.extremtextil.de/), outdoor fabrics specialits in Germany
-- [Shelbyoutdoor](https://www.shelbyoutdoor.com/), outdoor fabrics specialits in Finland
-- [AdventureXpert](https://www.adventurexpert.com/), outdoor fabrics specialits in Slovenia
-- [Ripstop by the Roll](https://ripstopbytheroll.com/), outdoor fabrics specialits in USA. Includes sewing video tutorials and ebooks
-- [Pro Fabrics](https://www.profabrics.co.uk/), outdoor fabrics specialits in UK
+  - [Extremtextile](https://www.extremtextil.de/), outdoor fabrics specialits in Germany
+  - [Shelbyoutdoor](https://www.shelbyoutdoor.com/), outdoor fabrics specialits in Finland
+  - [AdventureXpert](https://www.adventurexpert.com/), outdoor fabrics specialits in Slovenia
+  - [Ripstop by the Roll](https://ripstopbytheroll.com/), outdoor fabrics specialits in USA. Includes sewing video tutorials and ebooks
+  - [Pro Fabrics](https://www.profabrics.co.uk/), outdoor fabrics specialits in UK
