@@ -1,4 +1,5 @@
 # Manufacturing
+DIY (Do-it-yourself) & MYOG (Make-your-own-gear)
 ## Services
 - [Laserboost](https://www.laserboost.com): metal only
 - [Sculpteo](https://www.sculpteo.com/): non-metal materials, good prices
@@ -11,11 +12,19 @@
 - [Incut](https://incut.es/): laser cutting, engraving, 3D printing, woodwork, electronics (in San Sebastián de los Reyes, Madrid)
 
 ## Materials
-- [Ferretería del Olmo](https://ferreteriadelolmo.es/): metal warehouse
-- [El Corte Maderero](https://elcortemaderero.es/): tableros a medida en Madrid 
-- [CorteMaderas](https://www.cortemaderas.com/): corte de tableros a medida en Terrassa, Barcelona
-- [Tableros Huertas](https://www.tahubrico.es): despiece de tableros a medida en Colmenar Viejo, Madrid
-- [AluStock](https://www.alu-stock.es): perfiles modulares de aluminio
-- [Motedis](https://www.motedis.es): perfiles modulares de aluminio
-- [Minitec](https://www.minitec.es/): perfiles modulares de aluminio
-- [Alu10](https://alu10.com/): perfiles modulares de aluminio
+- Wood
+  - [El Corte Maderero](https://elcortemaderero.es/): tableros a medida en Madrid 
+  - [CorteMaderas](https://www.cortemaderas.com/): corte de tableros a medida en Terrassa, Barcelona
+  - [Tableros Huertas](https://www.tahubrico.es): despiece de tableros a medida en Colmenar Viejo, Madrid
+- Metal
+  - [Ferretería del Olmo](https://ferreteriadelolmo.es/): metal warehouse
+  - [AluStock](https://www.alu-stock.es): perfiles modulares de aluminio
+  - [Motedis](https://www.motedis.es): perfiles modulares de aluminio
+  - [Minitec](https://www.minitec.es/): perfiles modulares de aluminio
+  - [Alu10](https://alu10.com/): perfiles modulares de aluminio
+- Textiles (and related)
+- [Extremtextile](https://www.extremtextil.de/), outdoor fabrics specialits in Germany
+- [Shelbyoutdoor](https://www.shelbyoutdoor.com/), outdoor fabrics specialits in Finland
+- [AdventureXpert](https://www.adventurexpert.com/), outdoor fabrics specialits in Slovenia
+- [Ripstop by the Roll](https://ripstopbytheroll.com/), outdoor fabrics specialits in USA. Includes sewing video tutorials and ebooks
+- [Pro Fabrics](https://www.profabrics.co.uk/), outdoor fabrics specialits in UK
