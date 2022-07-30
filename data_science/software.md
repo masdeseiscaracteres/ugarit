@@ -156,6 +156,8 @@ Missing data analysis:
   - [cvat](https://cvat.org/)
 - Text
   - [brat](http://brat.nlplab.org/)
+- Generic
+  - [diffgram](https://diffgram.com): image, video, text, 3D, geo & more
 
 ### Workflow & model management
 - [Kedro](https://kedro.readthedocs.io/en/stable/)
