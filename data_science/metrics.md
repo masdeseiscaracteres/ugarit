@@ -5,6 +5,7 @@
 - [Risk difference](https://en.wikipedia.org/wiki/Risk_difference): quantifies the strength of the association between two binary variables (usually represented as an 2x2 contigency table). Common in medical studies.
 - [Relative risk](https://en.wikipedia.org/wiki/Relative_risk): quantifies the strength of the association between two binary variables  (usually represented as an 2x2 contigency table). Common in medical studies.
 - Correlation: quantifies the strength of the association between two continuous variables
+  - Under the null hypothesis of zero correlation and when both variables follow uncorrelated normal distributions, the correlation coefficient divided by its standard deviation follows a Student's t-distribution (more info [here](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient#Testing_using_Student's_t-distribution)). If squared, it follows a Snedecor's F-distribution. This reasoning is used [here](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.f_regression.html#sklearn.feature_selection.f_regression) to assess the correlation coefficient significance.
 - ...
 - [Fisher's exact test](https://en.wikipedia.org/wiki/Fisher%27s_exact_test): quantifies the significance of the association between two categorical variables (usually represented as an MxN contigency table).
 - [Chi-squared test](https://en.wikipedia.org/wiki/Chi-squared_test): statistical hypothesis test that is valid to perform when the test statistic is chi-squared distributed under the null hypothesis
