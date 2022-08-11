@@ -2,8 +2,10 @@
 # Machine Learning Metrics
 ## Statistical association
 - Odds ratio: quantifies the strength of the association between two discrete binary variables
+- [Risk difference](https://en.wikipedia.org/wiki/Risk_difference): quantifies the strength of the association between two discrete binary variables. More common in medical studies.
+- [Relative risk](https://en.wikipedia.org/wiki/Relative_risk): quantifies the strength of the association between two discrete binary variables. More common in medical studies.
 - Correlation: quantifies the strength of the association between two continuous variables
-- 
+- ...
 
 
 ## Classification
