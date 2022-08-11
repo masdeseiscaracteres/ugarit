@@ -1,11 +1,12 @@
 
 # Machine Learning Metrics
 ## Statistical association
-- Odds ratio: quantifies the strength of the association between two discrete binary variables
-- [Risk difference](https://en.wikipedia.org/wiki/Risk_difference): quantifies the strength of the association between two discrete binary variables. More common in medical studies.
-- [Relative risk](https://en.wikipedia.org/wiki/Relative_risk): quantifies the strength of the association between two discrete binary variables. More common in medical studies.
+- Odds ratio: quantifies the strength of the association between two binary variables (usually represented as an 2x2 contigency table).
+- [Risk difference](https://en.wikipedia.org/wiki/Risk_difference): quantifies the strength of the association between two binary variables (usually represented as an 2x2 contigency table). Common in medical studies.
+- [Relative risk](https://en.wikipedia.org/wiki/Relative_risk): quantifies the strength of the association between two binary variables  (usually represented as an 2x2 contigency table). Common in medical studies.
 - Correlation: quantifies the strength of the association between two continuous variables
 - ...
+- [Fisher's exact test](https://en.wikipedia.org/wiki/Fisher%27s_exact_test): quantifies the significance of the association between two categorical variables (usually represented as an MxN contigency table).
 
 
 ## Classification
