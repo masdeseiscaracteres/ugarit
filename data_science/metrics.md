@@ -9,7 +9,8 @@
 - [Fisher's exact test](https://en.wikipedia.org/wiki/Fisher%27s_exact_test): quantifies the significance of the association between two categorical variables (usually represented as an MxN contigency table).
 - [Chi-squared test](https://en.wikipedia.org/wiki/Chi-squared_test): statistical hypothesis test that is valid to perform when the test statistic is chi-squared distributed under the null hypothesis
   -  Person's chi-squared test: (aka. goodness of fit test) applied to sets of categorical data to test a null hypothesis stating that the frequency distribution of certain events observed in a sample is consistent with a particular theoretical distribution.
-
+- Mutual information: quantifies the strength of association between two continuous or categorical variables
+- 
 
 ## Classification
 - ...
