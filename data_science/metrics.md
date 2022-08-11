@@ -1,5 +1,11 @@
 
 # Machine Learning Metrics
+## Statistical association
+- Odds ratio: quantifies the strength of the association between two discrete binary variables
+- Correlation: quantifies the strength of the association between two continuous variables
+- 
+
+
 ## Classification
 - ...
 - ROC AUC
