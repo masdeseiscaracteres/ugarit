@@ -5,6 +5,7 @@
 - [Tutorial] [PySpark Tutorial - Spark by {Examples}](https://sparkbyexamples.com/pyspark-tutorial/)
 - [Blog post] [Introducing window functions in Spark SQL](https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html)
 - [Blog post] [Best practices for bucketing](https://towardsdatascience.com/best-practices-for-bucketing-in-spark-sql-ea9f23f7dd53)
+- [Blog] [David Vrba](https://medium.com/@vrba.dave)
 
 ### Advanced
 - [Book] [The Internals of Apache Spark](https://books.japila.pl/apache-spark-internals/)
