@@ -4,6 +4,7 @@
 - [MOOC] [Distributed Computing with Spark SQL by UC Davis](https://www.coursera.org/learn/spark-sql): part of the Learn SQL Basics for Data Science program at Coursera
 - [Tutorial] [PySpark Tutorial - Spark by {Examples}](https://sparkbyexamples.com/pyspark-tutorial/)
 - [Blog post] [Introducing window functions in Spark SQL](https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html)
+- [Blog post] [Best practices for bucketing](https://towardsdatascience.com/best-practices-for-bucketing-in-spark-sql-ea9f23f7dd53)
 
 ### Advanced
 - [Book] [The Internals of Apache Spark](https://books.japila.pl/apache-spark-internals/)
