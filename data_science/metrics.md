@@ -1,5 +1,13 @@
 
 # Machine Learning Metrics
+
+## Vector distance
+- Euclidean
+- Manhattan
+- Mahalanobis
+- Gower: used to measure how different two records are. The records may contain combinations of logical, numerical, categorical or text data.
+- ...
+
 ## Statistical association
 - Odds ratio: quantifies the strength of the association between two binary variables (usually represented as an 2x2 contigency table).
 - [Risk difference](https://en.wikipedia.org/wiki/Risk_difference): quantifies the strength of the association between two binary variables (usually represented as an 2x2 contigency table). Common in medical studies.
