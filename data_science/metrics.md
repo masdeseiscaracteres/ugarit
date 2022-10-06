@@ -78,6 +78,7 @@ Metrics definition: https://nlp.stanford.edu/IR-book/pdf/08eval.pdf
   - NPMI (Normalized Pointwise Mutual Information)
 
 ## Probability distributions
+- Kolmogorov–Smirnov
 - [Total variation distance](https://en.wikipedia.org/wiki/Total_variation_distance_of_probability_measures)
 - Kullback-Leibler divergence
 - Jensen–Shannon divergence: symmetrized and smoothed version of the Kullback–Leibler divergence
