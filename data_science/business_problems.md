@@ -21,3 +21,6 @@ The company may encourage the subjects to perform according according to the fol
 ## Uplift modelling
 Improving (upping) lift (i.e., the difference in response rate between a *treated* and a *control* group) through predictive modeling. 
 
+## Customer life-time value estimation
+Estimation of the monetary value of a customer relationship, based on the present value of the projected future cash flows from the customer relationship.
+
