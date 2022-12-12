@@ -18,6 +18,9 @@
 
 ### Time series regression
 - [STL, Seasonal and Trend decomposition using Loess](https://otexts.com/fpp2/stl.html): decomposes a time series into three additive components (a seasonal, trend-cycle and residual components)
+- Holt-Winters
+- ARIMA
+
 ## Classification
 ### Binary classification
 - Logistic regression: linear regression that explains the log-odds of the output. Equivalent to explaining the probability of the output by transforming a linear regression using a [logistic function](https://en.wikipedia.org/wiki/Logistic_function). It can also be regarded as a Generalized Linear Model where the link function is a logit function.
