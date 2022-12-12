@@ -43,6 +43,10 @@
 #### Survival analysis
 - [Lifelines](https://lifelines.readthedocs.io/en/latest/index.html)
 
+#### Time series analysis
+- [STL decompositions](https://pypi.org/project/stldecompose/)
+- [statsmodels.tsa](https://www.statsmodels.org/stable/tsa.html): basic methods
+
 #### Text-like processing
 Generic
 - [Spark NLP](https://nlp.johnsnowlabs.com/docs/en/quickstart), one of the most complete NLP toolboxes
