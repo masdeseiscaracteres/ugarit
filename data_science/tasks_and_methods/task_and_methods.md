@@ -16,6 +16,8 @@
 - [PLS regression](https://personal.utdallas.edu/~herve/Abdi-PLS-pretty.pdf) (Partial Least Squares or Projection to Latent Structures): performs a simultaneous decomposition of X and Y with the constraint that these components explain as much as possible of the covariance between X and Y. This generalizes PCA. The latent components are then used for regression.
 - Gaussian process regression: [visual exploration](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
+### Time series regression
+- [STL, Seasonal and Trend decomposition using Loess](https://otexts.com/fpp2/stl.html): decomposes a time series into three additive components (a seasonal, trend-cycle and residual components)
 ## Classification
 ### Binary classification
 - Logistic regression: linear regression that explains the log-odds of the output. Equivalent to explaining the probability of the output by transforming a linear regression using a [logistic function](https://en.wikipedia.org/wiki/Logistic_function). It can also be regarded as a Generalized Linear Model where the link function is a logit function.
