@@ -18,6 +18,7 @@
 
 #### Variable encoding
 - [Category Encoders](https://contrib.scikit-learn.org/category_encoders/): scikit-learn contrib project including several transformers for encoding categorical variables into numeric values according to different techniques.
+- [OptBinning](http://gnpalencia.org/optbinning/): solves the optimal discretization of a variable into bins given a discrete or continuous numeric target.
 
 #### Interpretability
 - [Alibi](https://github.com/SeldonIO/alibi): model explanations and confidence
