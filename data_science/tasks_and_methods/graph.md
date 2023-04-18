@@ -7,3 +7,7 @@
 - Node2Vec
 - GraphSAGE
 - FastRP
+
+## Node centrality
+- PageRank: Simple explanation [here](https://people.math.harvard.edu/~knill/teaching/math19b_2011/handouts/lecture34.pdf)
+- Hyperlink-Induced Topic Search (HITS), a.k.a. Hubs & Authorities
