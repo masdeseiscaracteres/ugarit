@@ -22,8 +22,13 @@
 - 
 
 ## Classification
-- ...
+- [Binary classification metrics cheatsheet](https://github.com/neptune-ai/blog-binary-classification-metrics/blob/master/binary_classification_metrics_cheathsheet.pdf)
+- Accuracy
 - ROC AUC
+- Precision
+  - Layman's definition: Imagine you are fishing with a net. You use a wide net, and catch 80 fish and 80 ducks in your net. That means 50% precision, only half of the net’s contents are fish (what you wanted to catch).
+- Recall, sensitivity, probability of detection, hit rate, true positive rate
+  - Layman's definition: Imagine you are fishing with a net. You use a wide net, and catch 80 of 100 total fish in a lake. That’s 80% recall. 
 
 ## Regression
 - ...
