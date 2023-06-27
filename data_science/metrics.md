@@ -106,6 +106,7 @@ Metrics definition: https://nlp.stanford.edu/IR-book/pdf/08eval.pdf
   - [AUC Optimization vs. Error Rate Minimization by Corinna Cortes and Mehryar Mohri](https://papers.nips.cc/paper/2518-auc-optimization-vs-error-rate-minimization.pdf), shows also the relationship with the Wilcoxon-Mann-Whitney U-Statistic 
 - NDPM & Precision, Recall and Fallout:
   - [Measuring Retrieval Effectiveness Based on User Preference of Documents, Y.Y. Yao][1-open]
+- [Somers' D, Corrado Gini's measure of inequality, Gini's coefficient and credit score models](https://towardsdatascience.com/using-the-gini-coefficient-to-evaluate-the-performance-of-credit-score-models-59fe13ef420)
 
 
 [1]: <https://dx.doi.org/10.1002/(SICI)1097-4571(199503)46:2%3C133::AID-ASI6%3E3.0.CO;2-Z> "Measuring Retrieval Effectiveness Based on User Preference of Documents, Y.Y. Yao (paid version)"
