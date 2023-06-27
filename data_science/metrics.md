@@ -39,6 +39,10 @@ For a single query:
 - Rank correlations
   - Spearman's rank correlation coefficient
   - Kendall's tau rank correlation coefficient
+  - Somers' D (aka Gini coefficient)
+    - It is a measure of the ordinal association between two variables. Takes values between -1 and 1.
+    - It is asymmetric
+    - It is related to the ROC AUC, $AUC=(D_{XY}+1)/2$, and Kendall's $\tau$, $D_{YX}=\tau(X,Y)/\tau(X,X)$
   - Distance-based performance measure (DPM): [definition][1-open]
     - Normalized DPM (Normalized DPM)
 - ROC AUC
