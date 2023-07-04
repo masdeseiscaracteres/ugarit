@@ -58,6 +58,7 @@ Generic
 - [CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 - Hugging Face
   - [transformers](https://github.com/huggingface/transformers) state-of-the-art NLP for PyTorch and TensorFlow 2.0 (BERT, GPT-2, etc.).
+  - [flair](https://flairnlp.github.io/) A very simple framework for state-of-the-art Natural Language Processing (NLP)
 
 - [polyglot](https://github.com/aboSamoor/polyglot)
 - [Gensim](https://radimrehurek.com/gensim/index.html): a library for topic modelling, word embedding, document indexing and similarity retrieval.
