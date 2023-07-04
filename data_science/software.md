@@ -40,6 +40,9 @@
 - [Dedupe](https://github.com/dedupeio/dedupe), by dedupe.io
 - [faiss](https://github.com/facebookresearch/faiss), by Facebook research
 - [splink](https://github.com/moj-analytical-services/splink)
+- Company name matching
+  - [name_matching](https://github.com/DeNederlandscheBank/name_matching)
+  - [fastcountvectorizer](https://github.com/smola/fastcountvectorizer) + [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn)
 
 #### Survival analysis
 - [Lifelines](https://lifelines.readthedocs.io/en/latest/index.html)
