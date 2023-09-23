@@ -30,6 +30,7 @@ DIY (Do-it-yourself) & MYOG (Make-your-own-gear)
   - [Pro Fabrics](https://www.profabrics.co.uk/), outdoor fabrics specialits in UK
   - [Mosquitohouse](https://www.mosquitohouse.com/p/tela-de-mosquitera-negra-extra-grande-600-x-250-cm), large & cheap mosquito net fabric
   - [ESVO](https://www.esvocampingshop.com/), outdoor fabrics specialists in The Netherlands
+  - [PINaPIN](https://pinapin.es/), waterproof fabrics, cotton, clothing, upholstery and decorative fabrics.
 
 ## Tool/machinery rental
 - Bibliotecas de cosas
