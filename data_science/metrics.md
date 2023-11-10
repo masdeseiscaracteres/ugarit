@@ -107,7 +107,7 @@ Metrics definition: https://nlp.stanford.edu/IR-book/pdf/08eval.pdf
 - NDPM & Precision, Recall and Fallout:
   - [Measuring Retrieval Effectiveness Based on User Preference of Documents, Y.Y. Yao][1-open]
 - [Somers' D, Corrado Gini's measure of inequality, Gini's coefficient and credit score models](https://towardsdatascience.com/using-the-gini-coefficient-to-evaluate-the-performance-of-credit-score-models-59fe13ef420)
-
+- [Gini, Cumulative Accuracy Profile, ROC-AUC, Accuracy Ratio](https://www.listendata.com/2019/09/gini-cumulative-accuracy-profile-auc.html#cumulative_accuracy_profile_cap)
 
 [1]: <https://dx.doi.org/10.1002/(SICI)1097-4571(199503)46:2%3C133::AID-ASI6%3E3.0.CO;2-Z> "Measuring Retrieval Effectiveness Based on User Preference of Documents, Y.Y. Yao (paid version)"
 [1-open]: <http://www2.cs.uregina.ca/~yyao/PAPERS/jasis_ndpm.pdf> "Measuring Retrieval Effectiveness Based on User Preference of Documents, Y.Y. Yao (free version)"
