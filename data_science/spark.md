@@ -10,6 +10,13 @@
 ### Advanced
 - [Book] [The Internals of Apache Spark](https://books.japila.pl/apache-spark-internals/)
 - [Book] [The Internals of Spark SQL](https://jaceklaskowski.github.io/mastering-spark-sql-book/)
+- [Website] [Spark Advanced Topics Working Group Documentation](https://holdenk.github.io/spark-flowchart/)
+
+#### Specific-topics
+- [noop](https://github.com/apache/spark/pull/27078)
+- [Reading files with schema vs not using schema, performance evaluated with noop](https://www.superoutlier.tech/how-to-apache-spark/)
+- [monotonically_increasing_id  and wrong results](https://xebia.com/blog/spark-surprises-for-the-uninitiated/)
+- [count() gives wrong results](https://stackoverflow.com/questions/69038671/why-method-count-does-not-get-true-num-of-rows)
 
 ## Tools
 - [koalas](https://koalas.readthedocs.io/en/latest/index.html): pandas-style wrapper for PySpark
