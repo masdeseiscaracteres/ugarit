@@ -9,7 +9,9 @@
     <img height="40" src="https://render.githubusercontent.com/render/math?math={\displaystyle E(\mathbf{Y}|\mathbf{X})={\boldsymbol{\mu}}=g^{-1}(\mathbf{X}{\boldsymbol{\omega}})}">
   </p>
 
-- LASSO regression
+- LASSO (Least Absolute Shrinkage and Selection Operator) regression
+- [SCAD (Smoothly Clipped Absolute Deviation) regression](https://andrewcharlesjones.github.io/journal/scad.html)
+- Adaptive LASSO: [The Adaptive Lasso and Its Oracle Properties](https://www.tandfonline.com/doi/pdf/10.1198/016214506000000735)
 - Ridge regression
 
 - Principal Components Regression: PCA + Linear regression
