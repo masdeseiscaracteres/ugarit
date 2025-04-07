@@ -97,6 +97,7 @@
 ## Screen capture
 - [asciinema.org](https://asciinema.org), record and share copy-pasteable terminal sessions
 - [recordscreen.io](https://recordscreen.io/), record screen (WebM video format) optionally including audio and webcam
+- [gifcap.dev](https://gifcap.dev/), client-side (no data uploaded) screen recorder (gif format)
 - [mmngreco's list](https://gist.github.com/mmngreco/d57062bed0005ce245252eaef2846748#file-list_capture_resources-md)
 - [Mathpix](https://mathpix.com/): turn screen or paper formulas into LaTeX code
 
