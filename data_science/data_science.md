@@ -92,7 +92,8 @@ Statistical hyphotesis testing
 ### Stacking
 
 ## Feature engineering
-- [Encoding categorical variables](https://heartbeat.fritz.ai/hands-on-with-feature-engineering-techniques-encoding-categorical-variables-be4bc0715394): one-hot encoding, count or frequency encoding, ordinal or label encoding, ordered label encoding, mean encoding, probability ratio encoding, weight of evidence, rare labels encoding, binary encoding 
+- [Encoding categorical variables](https://heartbeat.fritz.ai/hands-on-with-feature-engineering-techniques-encoding-categorical-variables-be4bc0715394): one-hot encoding, count or frequency encoding, ordinal or label encoding, ordered label encoding, mean encoding, probability ratio encoding, weight of evidence, rare labels encoding, binary encoding
+- [skrub](https://skrub-data.org/): Python library to ease preprocessing and feature engineering for tabular machine learning
 
 ## Binning
 - [Finding natural breaks in data: the Fisher-Jenks algorithm](https://pbpython.com/natural-breaks.html), compared to other approaches such as equally-sized and equally-populated binning.
