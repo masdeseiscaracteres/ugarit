@@ -14,9 +14,12 @@
   - tensorflow
   - ~~theano~~ -> aesara
 - torch
+- [TabICLv2](https://tabicl.readthedocs.io/en/latest/): if you usually rely on models like XGBoost or LightGBM, TabICL offers a simpler alternative: no training, no hyperparameter tuning, strong performance out of the box. Just provide your data, and get predictions from a pre-trained model.
 - [patsy](https://patsy.readthedocs.io/en/latest/index.html): extensible formula mini-language to describe statistical models and building design matrices
 
-#### Variable encoding
+#### Feature engineering
+- [skrub](https://skrub-data.org/): Python library to ease preprocessing and feature engineering for tabular machine learning
+##### Variable encoding
 - [Category Encoders](https://contrib.scikit-learn.org/category_encoders/): scikit-learn contrib project including several transformers for encoding categorical variables into numeric values according to different techniques.
 - [OptBinning](http://gnpalencia.org/optbinning/): solves the optimal discretization of a variable into bins given a discrete or continuous numeric target.
 
