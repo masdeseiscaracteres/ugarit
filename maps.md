@@ -12,8 +12,11 @@
 - [Gasolineras de España](http://opendata.esri.es/datasets/gasolineras-de-espa%C3%B1a)
 - [Áreas de servicio que ofrecen duchas, parking, aseos o alimentación](https://covid19esrispain-sitesesrispain.hub.arcgis.com/datasets/d90cd600fcda4b17ad6f11d5eff63866_0?geometry=-48.641%2C29.672%2C34.987%2C42.085)
 
-- [ShadeMap](https://shademap.app/), simulador de sombras
-- [PeakFinder](https://www.peakfinder.com), calculador de horizontes y posición del sol y la luna en el cielo. Útil para eclipses.
+- [ShadeMap](https://shademap.app/), shadow simulator
+- [PeakFinder](https://www.peakfinder.com), horizon and sun/moon position calculator in the sky. Useful for eclipses.
+- [overwatch](https://overwatch.earth/), live geopositioned data on different topics such as transit, environmental, digital or curiosities.
+- [Firemap.live](https://firemap.live), live monitoring of wildfires and burned areas.
+- [sat24](https://sat24.com), recent satellite imaginery. Useful to monitor clouds, pollution, wildfire plumes...
 
 ## Coordinate conversion
 - [tool-online coordinate converter](https://tool-online.com/en/coordinate-converter.php#)
