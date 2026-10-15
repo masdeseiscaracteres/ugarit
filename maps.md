@@ -12,6 +12,9 @@
 - [Gasolineras de España](http://opendata.esri.es/datasets/gasolineras-de-espa%C3%B1a)
 - [Áreas de servicio que ofrecen duchas, parking, aseos o alimentación](https://covid19esrispain-sitesesrispain.hub.arcgis.com/datasets/d90cd600fcda4b17ad6f11d5eff63866_0?geometry=-48.641%2C29.672%2C34.987%2C42.085)
 
+- [ShadeMap](https://shademap.app/), simulador de sombras
+- [PeakFinder](https://www.peakfinder.com), calculador de horizontes y posición del sol y la luna en el cielo. Útil para eclipses.
+
 ## Coordinate conversion
 - [tool-online coordinate converter](https://tool-online.com/en/coordinate-converter.php#)
 
