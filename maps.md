@@ -18,6 +18,7 @@
 - [Firemap.live](https://firemap.live), live monitoring of wildfires and burned areas.
 - [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/map/), active fire data for near-real time monitoring
 - [sat24](https://sat24.com), recent satellite imaginery. Useful to monitor clouds, pollution, wildfire plumes...
+- [NASA Worldview](https://worldview.earthdata.nasa.gov/), full-resolution, global, daily satellite images
 
 ## Coordinate conversion
 - [tool-online coordinate converter](https://tool-online.com/en/coordinate-converter.php#)
