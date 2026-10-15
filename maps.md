@@ -16,6 +16,7 @@
 - [PeakFinder](https://www.peakfinder.com), horizon and sun/moon position calculator in the sky. Useful for eclipses.
 - [overwatch](https://overwatch.earth/), live geopositioned data on different topics such as transit, environmental, digital or curiosities.
 - [Firemap.live](https://firemap.live), live monitoring of wildfires and burned areas.
+- [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/map/), active fire data for near-real time monitoring
 - [sat24](https://sat24.com), recent satellite imaginery. Useful to monitor clouds, pollution, wildfire plumes...
 
 ## Coordinate conversion
